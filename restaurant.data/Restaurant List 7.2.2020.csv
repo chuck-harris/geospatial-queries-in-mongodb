@@ -1,0 +1,116 @@
+RVP,AD,Restaurant #,Restaurant Name,Address,City,State,Zip,Phone,Metro Area
+,,31,Ahwatukee,5005 E. Ray Rd,Phoenix,AZ,85044,602-247-7550,Phoenix
+,,78,Arrowhead,7873 W. Bell Rd,Peoria,AZ,85382,602-247-7606,Phoenix
+,,79,Superstition Springs,1710 S. Power Rd,Mesa,AZ,85206,602-247-7510,Phoenix
+,,102,Bryant Irvin,4411 Bryant Irvin Rd,Ft. Worth,TX,76132,817-900-8190,Dallas
+,,128,Burleson,13005 South Freeway,Burleson,TX ,76028,682-888-5066,Dallas
+,,183,Weatherford,114 Interstate 20 Service Rd,Weatherford,TX,76086,817-594-2174,Dallas
+,,240,Lake Worth,6536 NW Loop 820,Fort Worth,TX,76135,817-984-3881,Dallas
+,,6,Garland,1350 Northwest Hwy,Garland,TX ,75041,972-865-7988,Dallas
+,,50,Tyler,4301 Broadway,Tyler,TX,75703,903-266-1650,Tyler
+,,107,Rockwall,747 IH 30 Center East,Rockwall,TX,75087,469-757-8850,Dallas
+,,181,Texarkana,4300 Saint Michael Dr,Texarkana,TX,75503,903-280-7504,Shreveport
+,,218,Firewheel,4970 N. George Bush Frwy,Garland,TX ,75040,972-372-0110,Dallas
+,,243,Longview,200 W. Loop 281,Longview,TX,75605,903-781-3095,Longview
+,,2,Arlington,2011 Copeland Rd,Arlington,TX,76011,682-888-1929,Dallas
+,,4,Irving,2400 N. Belt Line Rd,Irving,TX,75062,972-893-3001,Dallas
+,,28,Midland,4306 W. Loop 250 North,Midland,TX,79707,432-897-4740,Midland
+,,35,Bedford,2500 Airport Freeway,Bedford,TX,76022,817-438-4560,Dallas
+,,54,Lubbock,6709 Slide Rd,Lubbock,TX,79424,806-686-1550,Lubbock
+,,92,Fossil Creek,6250 North Freeway,Fort Worth,TX,76137,817-768-3840,Dallas
+,,250,Corpus Christi,5117 S. Padre Island Dr.,Corpus Christi,TX,78411,361-992-9662,Corpus 
+,,21,Colorado Springs,7695 N. Academy Blvd,Colorado Springs,CO,80920,719-645-7560,CO Springs
+,,24,Highlands Ranch,8555 S. Quebec St.,Highlands Ranch,CO,80126,303-927-0720,Denver
+,,74,Denver West,14255 W. Colfax,Golden ,CO,80401,720-583-7780,Denver
+,,112,S. Colorado Springs,2190 Southgate Rd,Colorado Springs,CO,80906,719-645-7570,CO Springs
+,,177,Smoky Hill,6369 S. Southlands Pkwy,Aurora ,CO,80016,720-583-7660,Denver
+,,187,Loveland,6015 Sky Pond Dr,Loveland,CO,80538,970-776-8898,Denver
+,,215,E. Colorado Springs,5832 Barnes Rd,Colorado Springs,CO,80922,719-645-7340,CO Springs
+,,34,Greenville,74 Beacon Dr,Greenville ,SC,29615,864-214-2260,GreenSparAsh
+,,38,Cary,1102 Walnut St,Cary ,NC,27511,919-439-5030,Raleigh
+,,82,Fayetteville,115 Glensford Dr,Fayetteville ,NC,28314,910-213-3360,Raleigh
+,,117,Concord Mills,8001 Concord Mills Blvd,Concord,NC,28027,704-743-4565,Charlotte
+,,135,Providence Rd,10710 Providence Rd,Charlotte,NC,28277,704-246-5989,Charlotte
+,,186,Northlake,8315 Northlake Commons Blvd,Charlotte,NC,28216,704-612-2700,Charlotte
+,,191,Gastonia,2409 E. Franklin Blvd,Gastonia,NC,28054,704-918-1420,Charlotte
+,,247,Kissimmee,3250 Rolling Oaks Blvd,Kissimmee,FL,34747,407-452-5437,Orlando
+,,249,Crossroads,12517 State Rd 535,Orlando,FL,32836,321-329-3188,Orlando
+,,9,Plano,1505 N. Central Expy,Plano,TX,75075,972-372-0065,Dallas
+,,36,Wichita  ,1930 N. Rock Rd,Wichita,KS,67206,316-854-5484,Wichita
+,,81,Preston/121,5000 State Hwy 121,Plano,TX,75024,469-384-7877,Dallas
+,,108,Valley Ranch  ,1220 Market Place,Irving,TX,75063,214-574-8900,Dallas
+,,129,Allen,213 N. Central Expy ,Allen,TX,75013,469-795-7500,Dallas
+,,150,Wichita Falls,3111 Midwestern Pkwy,Wichita Falls,TX,76308,940-228-3580,Wichita Falls
+,,170,W. Wichita,2347 N. Maize Rd,Wichita,KS,67205,316-854-8699,Wichita
+,,192,Addison,4855 Belt Line Rd,Addison,TX,75254,972-788-4400,Dallas
+,,219,W. McKinney,"8930 State Hwy 121, Ste 530",McKinney,TX,75070,972-984-7888,Dallas
+,,222,Willowbend,"5960 W. Parker Rd, Ste 210",Plano,TX,75093,972-372-0070,Dallas
+,,16,South Arlington,1121 I-20 West,Arlington,TX,76016,817-522-1990,Dallas
+,,48,College Station,709 Texas Ave,College Station ,TX,77840,979-314-8400,Waco
+,,66,Waco,4320 W. Waco Dr,Waco,TX,76710,254-227-5040,Waco
+,,86,Pleasant Run,1003 North I-35 E,DeSoto,TX,75115,214-462-7750,Dallas
+,,97,Mesquite,1414 Gross Rd,Mesquite,TX,75149,214-462-7770,Dallas
+,,178,Mansfield,2001 Hwy 287 N.,Mansfield,TX,76063,817-779-7370,Dallas
+,,221,Grand Prairie,"5244 S State Highway 360, Ste 370",Grand Prairie,TX,75052,972-639-5050,Dallas
+,,251,Knox,3130 Knox Street,Dallas,TX,75205,214-462-7760,Dallas
+,,17,Lewisville,1890 S. Stemmons Frwy,Lewisville,TX,75067,469-464-5710,Dallas
+,,151,Oklahoma City,3500 NW Expressway,Oklahoma City,OK,73112,405-543-2656,OKC
+,,153,Meridian,120 S. Meridian,Oklahoma City,OK,73107,405-708-7710,OKC
+,,155,Denton,2829 S. Interstate 35E,Denton,TX,76210,940-312-7000,Dallas
+,,156,Edmond,3233 S. Broadway,Edmond,OK,73013,405-562-7150,OKC
+,,202,I-240,544 Interstate 240,Oklahoma City,OK,73139,405-708-4787,OKC
+,,238,Roanoke,890 E Highway 114,Roanoke,TX,76262,682-593-1746,Dallas
+,,242,Midwest City,433 Planet Ct,Midwest City,OK,73110,405-622-4446,OKC
+,,22,Woodland Hills,8702 E. 71st Street South,Tulsa,OK,74133,918-994-1555,Tulsa
+,,71,Barry Rd,8340 NW Roanridge Rd,Kansas City,MO,64151,816-759-2270,Kansas City
+,,110,Promenade,5340 E. 41st Street South,Tulsa,OK,74135,918-948-8580,Tulsa
+,,116,Oak Park,11855 W. 95th St,Overland Park ,KS,66214,913-800-8262,Kansas City
+,,136,Hartman Heritage,19921 E Jackson Dr,Independence,MO,64057,816-759-2110,Kansas City
+,,180,Topeka,1235 SW Wanamaker Rd,Topeka,KS,66604,785-380-4755,Topeka
+,,40,Wolfchase,8101 Giacosa Dr,Memphis,TN,38133,901-881-0808,Memphis
+,,104,Hot Springs,190 Pakis St,Hot Springs,AR,71913,501-781-2210,Little Rock
+,,154,Rogers,577 N. 46th St,Rogers,AR,72756,479-616-1991,Fort Smith
+,,161,W. Little Rock,11721 Chenal Pkwy,W. Little Rock,AR,72211,501-218-8840,Little Rock
+,,201,Southaven,6572 Airways Blvd,Southaven,MS,38671,662-655-4750,Memphis
+,,233,Sherwood,6000 Warden Rd,Sherwood,AR,72120,501-476-7180,Little Rock
+,,248,Conway,1150 S. Amity Rd,Conway,AR,72032,501-585-4322,Little Rock
+,,44,Novi,21091 Haggerty Rd,Novi,MI,48375,248-946-8513,Detroit
+,,73,Morse Rd,4175 Morse Crossing,Columbus,OH,43219,614-471-4416,Columbus
+,,99,Auburn Hills,3930 Baldwin Rd,Auburn Hills,MI,48326,248-230-2980,Detroit
+,,130,Castleton Mall,6001 E. 86th St,Indianapolis,IN,46250,317-348-1910,Indianapolis
+,,131,West Indy,10299 East US 36,Avon,IN,46123,317-200-3030,Indianapolis
+,,189,Allen Park,3310 Fairlane Dr,Allen Park,MI,48101,313-908-5938,Detroit
+,,194,Greenwood,867 US 31 North,Greenwood,IN,46142,317-884-8950,Indianapolis
+,,241,Westland,35613 Warren Rd,Westland,MI,48185,734-629-5204,Detroit
+,,42,Vernon Hills,535 N. Lakeview,Vernon Hills,IL,60061,224-433-5450,Chicago
+,,62,Naperville,1915 Glacier Park Ave ,Naperville,IL,60540,331-472-8740,Chicago
+,,167,Jordan Creek,140 S. Jordan Creek Pkwy,W. Des Moines,IA,50266,515-528-7788,Des Moines
+,,175,Grandville,3676 Potomac Circle SW,Grandville,MI,49418,616-710-3990,Grand Rapids
+,,182,Algonquin,1512 S. Randall Rd,Algonquin,IL,60102,847-960-3915,Chicago
+,,193,Woodland Mall,3195 28th Street SE R-101,Kentwood,MI,49512,616-466-7810,Grand Rapids
+,,244,Holland,12383 James St,Holland,MI,49424,616-266-1001,Grand Rapids
+,,41,Reston,11880 Spectrum Ctr,Reston,VA,20190,571-485-7929,DC
+,,69,Woodbridge,2651 Prince William Pkwy,Woodbridge,VA,22192,703-595-2910,DC
+,,199,Exton,102 Bartlett Avenue,Exton,PA,19341,484-870-3181,Philadelphia
+,,200,Columbia,8230 Gateway Overlook Dr,Elkridge,MD,21075,410-312-1490,Baltimore
+,,208,Wyomissing ,796 Woodland Rd,Wyomissing,PA,19610,610-898-3320,Philadelphia
+,,234,Towson,121 E. Joppa Rd,Towson,MD,21286,443-519-2332,Baltimore
+,,236,Fair Oaks,11947U Fair Oaks Mall- G213,Fairfax,VA,22033,703-988-3577,DC
+,,141,Woburn,19 Commerce Way,Woburn ,MA,01801,781-995-2314,Boston
+,,142,Rocky Hill,1519 Silas Deane Hwy,Rocky Hill,CT,06067,860-899-1670,Hartford
+,,143,Orange,220 Indian River Rd,Orange,CT,06477,203-687-4300,Hartford
+,,145,West Springfield,33 Border Way,W. Springfield,MA,01089,413-304-3500,Springfield
+,,197,Warwick,650 Bald Hill Rd,Warwick,RI,02886,401-262-4899,Northeast
+,,223,Holtsville,45 Middle Ave,Holtsville,NY,11742,631-317-2657,New York
+,,245,Hicksville,200 Broadway Mall,Hicksville ,NY,11801,516-342-7777,New York
+,,39,Woodland Park,1738 Route 46 West,Woodland Park,NJ,07424,973-435-4642,New York
+,,56,Gwinnett,2275 Pleasant Hill Dr,Duluth,GA,30096,404-991-2400,Atlanta
+,,57,Buckhead,"1 Buckhead Loop NE, Ste 130",Atlanta,GA,30326,404-991-2500,Atlanta
+,,59,New Brunswick,51 US Hwy 1,New Brunswick,NJ,08901,732-979-2192,New York
+,,61,Paramus,71 S. State Rt. 17,Paramus,NJ,07652,201-397-1175,New York
+,,72,Princeton,3567 US Route One,Princeton,NJ,08540,609-681-5656,Philadelphia
+,,122,Mall of Georgia,3206 Buford Dr,Buford,GA,30519,678-804-7822,Atlanta
+,,125,ATL Town Center,790 Cobb Place Blvd,Kennesaw,GA,30144,678-279-5970,Atlanta
+,,149,Neshaminy Mall,901 Neshaminy Mall,Bensalem,PA,19020,267-984-4980,Philadelphia
+,,166,Mt. Laurel,4160 Church Rd,Mt. Laurel ,NJ,08054,856-437-5360,Philadelphia
+,,206,Airport Rd,909 Airport Center Dr,Allentown,PA,18109,484-240-3826,Philadelphia

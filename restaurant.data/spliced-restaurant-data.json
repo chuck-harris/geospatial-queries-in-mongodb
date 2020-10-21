@@ -1,0 +1,4142 @@
+[
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "31",
+    "restaurant_name": "Ahwatukee",
+    "address": "5005 E. Ray Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85044",
+    "phone": "602-247-7550",
+    "metro_area": "Phoenix",
+    "geocode": {
+      "address": "5005 E. Ray Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85044",
+      "latitude": "33.31917",
+      "longitude": "-111.975678",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5005",
+      "street": "E Ray Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Maricopa County",
+      "country": "US",
+      "source": "Maricopa"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -111.975678,
+        33.31917
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "78",
+    "restaurant_name": "Arrowhead",
+    "address": "7873 W. Bell Rd",
+    "city": "Peoria",
+    "state": "AZ",
+    "zip": "85382",
+    "phone": "602-247-7606",
+    "metro_area": "Phoenix",
+    "geocode": {
+      "address": "7873 W. Bell Rd",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip": "85382",
+      "latitude": "33.63768",
+      "longitude": "-112.22663",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "7873",
+      "street": "W Bell Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Maricopa County",
+      "country": "US",
+      "source": "Maricopa"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -112.22663,
+        33.63768
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "79",
+    "restaurant_name": "Superstition Springs",
+    "address": "1710 S. Power Rd",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85206",
+    "phone": "602-247-7510",
+    "metro_area": "Phoenix",
+    "geocode": {
+      "address": "1710 S. Power Rd",
+      "city": "Mesa",
+      "state": "AZ",
+      "zip": "85206",
+      "latitude": "33.385023",
+      "longitude": "-111.685276",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1710",
+      "street": "S Power Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Maricopa County",
+      "country": "US",
+      "source": "City of Mesa"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -111.685276,
+        33.385023
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "102",
+    "restaurant_name": "Bryant Irvin",
+    "address": "4411 Bryant Irvin Rd",
+    "city": "Ft. Worth",
+    "state": "TX",
+    "zip": "76132",
+    "phone": "817-900-8190",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "4411 Bryant Irvin Rd",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76132",
+      "latitude": "32.68625",
+      "longitude": "-97.413002",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4411",
+      "street": "Bryant Irvin Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.413002,
+        32.68625
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "128",
+    "restaurant_name": "Burleson",
+    "address": "13005 South Freeway",
+    "city": "Burleson",
+    "state": "TX",
+    "zip": "76028",
+    "phone": "682-888-5066",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "13005 South Freeway",
+      "city": "Burleson",
+      "state": "TX",
+      "zip": "76028",
+      "latitude": "32.568725",
+      "longitude": "-97.317818",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "13005",
+      "street": "South Fwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.317818,
+        32.568725
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "183",
+    "restaurant_name": "Weatherford",
+    "address": "114 Interstate 20 Service Rd",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086",
+    "phone": "817-594-2174",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "114 Interstate 20 Service Rd",
+      "city": "Weatherford",
+      "state": "TX",
+      "zip": "76086",
+      "latitude": "32.729332",
+      "longitude": "-97.786449",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "114",
+      "street": "E Interstate 20",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Parker County",
+      "country": "US",
+      "source": "Parker"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.786449,
+        32.729332
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "240",
+    "restaurant_name": "Lake Worth",
+    "address": "6536 NW Loop 820",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76135",
+    "phone": "817-984-3881",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "6536 NW Loop 820",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76135",
+      "latitude": "32.804292",
+      "longitude": "-97.428254",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6536",
+      "street": "NW Loop 820",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.428254,
+        32.804292
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "6",
+    "restaurant_name": "Garland",
+    "address": "1350 Northwest Hwy",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75041",
+    "phone": "972-865-7988",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1350 Northwest Hwy",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75041",
+      "latitude": "32.863756",
+      "longitude": "-96.647539",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1350",
+      "street": "Northwest Hwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "City of Garland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.647539,
+        32.863756
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "50",
+    "restaurant_name": "Tyler",
+    "address": "4301 Broadway",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75703",
+    "phone": "903-266-1650",
+    "metro_area": "Tyler",
+    "geocode": {
+      "address": "4301 Broadway",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "75703",
+      "latitude": "32.302388",
+      "longitude": "-95.301414",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "4301",
+      "street": "S Broadway Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Smith County",
+      "country": "US",
+      "source": "Smith"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -95.301414,
+        32.302388
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "107",
+    "restaurant_name": "Rockwall",
+    "address": "747 IH 30 Center East",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087",
+    "phone": "469-757-8850",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "747 IH 30 Center East",
+      "city": "Rockwall",
+      "state": "TX",
+      "zip": "75087",
+      "latitude": "32.898401",
+      "longitude": "-96.463034",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "747",
+      "street": "E Interstate 30",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Rockwall County",
+      "country": "US",
+      "source": "Rockwall"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.463034,
+        32.898401
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "181",
+    "restaurant_name": "Texarkana",
+    "address": "4300 Saint Michael Dr",
+    "city": "Texarkana",
+    "state": "TX",
+    "zip": "75503",
+    "phone": "903-280-7504",
+    "metro_area": "Shreveport",
+    "geocode": {
+      "address": "4300 Saint Michael Dr",
+      "city": "Texarkana",
+      "state": "TX",
+      "zip": "75503",
+      "latitude": "33.453741",
+      "longitude": "-94.09685",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4300",
+      "street": "St Michael Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Bowie County",
+      "country": "US",
+      "source": "Bowie"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.09685,
+        33.453741
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "218",
+    "restaurant_name": "Firewheel",
+    "address": "4970 N. George Bush Frwy",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75040",
+    "phone": "972-372-0110",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "4970 N. George Bush Frwy",
+      "city": "Garland",
+      "state": "TX",
+      "zip": "75044",
+      "latitude": "32.961958",
+      "longitude": "-96.635076",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "4970",
+      "street": "N George Bush Hwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "City of Garland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.635076,
+        32.961958
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "243",
+    "restaurant_name": "Longview",
+    "address": "200 W. Loop 281",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75605",
+    "phone": "903-781-3095",
+    "metro_area": "Longview",
+    "geocode": {
+      "address": "200 W. Loop 281",
+      "city": "Longview",
+      "state": "TX",
+      "zip": "75604",
+      "latitude": "32.54121",
+      "longitude": "-94.749724",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "200",
+      "street": "W Loop 281",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Gregg County",
+      "country": "US",
+      "source": "City of Longview"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.749724,
+        32.54121
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "2",
+    "restaurant_name": "Arlington",
+    "address": "2011 Copeland Rd",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011",
+    "phone": "682-888-1929",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "2011 Copeland Rd",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76011",
+      "latitude": "32.758753",
+      "longitude": "-97.076551",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "2011",
+      "street": "E Copeland",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.076551,
+        32.758753
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "4",
+    "restaurant_name": "Irving",
+    "address": "2400 N. Belt Line Rd",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75062",
+    "phone": "972-893-3001",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "2400 N. Belt Line Rd",
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75062",
+      "latitude": "32.839683",
+      "longitude": "-96.992949",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2400",
+      "street": "N Beltline Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Dallas"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.992949,
+        32.839683
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "28",
+    "restaurant_name": "Midland",
+    "address": "4306 W. Loop 250 North",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79707",
+    "phone": "432-897-4740",
+    "metro_area": "Midland",
+    "geocode": {
+      "address": "4306 W. Loop 250 North",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79707",
+      "latitude": "32.030891",
+      "longitude": "-102.145164",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4306",
+      "street": "W Loop 250 N",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Midland County",
+      "country": "US",
+      "source": "Midland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -102.145164,
+        32.030891
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "35",
+    "restaurant_name": "Bedford",
+    "address": "2500 Airport Freeway",
+    "city": "Bedford",
+    "state": "TX",
+    "zip": "76022",
+    "phone": "817-438-4560",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "2500 Airport Freeway",
+      "city": "Bedford",
+      "state": "TX",
+      "zip": "76022",
+      "latitude": "32.835691",
+      "longitude": "-97.1286",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2500",
+      "street": "Airport Fwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.1286,
+        32.835691
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "54",
+    "restaurant_name": "Lubbock",
+    "address": "6709 Slide Rd",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79424",
+    "phone": "806-686-1550",
+    "metro_area": "Lubbock",
+    "geocode": {
+      "address": "6709 Slide Rd",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79424",
+      "latitude": "33.533634",
+      "longitude": "-101.921931",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6709",
+      "street": "Slide Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Lubbock County",
+      "country": "US",
+      "source": "Lubbock"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -101.921931,
+        33.533634
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "92",
+    "restaurant_name": "Fossil Creek",
+    "address": "6250 North Freeway",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76137",
+    "phone": "817-768-3840",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "6250 North Freeway",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76137",
+      "latitude": "32.856517",
+      "longitude": "-97.312261",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6250",
+      "street": "North Fwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.312261,
+        32.856517
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "250",
+    "restaurant_name": "Corpus Christi",
+    "address": "5117 S. Padre Island Dr.",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78411",
+    "phone": "361-992-9662",
+    "metro_area": "Corpus",
+    "geocode": {
+      "address": "5117 S. Padre Island Dr.",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78411",
+      "latitude": "27.711139",
+      "longitude": "-97.378675",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5117",
+      "street": "S Padre Island Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Nueces County",
+      "country": "US",
+      "source": "Nueces"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.378675,
+        27.711139
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "21",
+    "restaurant_name": "Colorado Springs",
+    "address": "7695 N. Academy Blvd",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80920",
+    "phone": "719-645-7560",
+    "metro_area": "CO Springs",
+    "geocode": {
+      "address": "7695 N. Academy Blvd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80920",
+      "latitude": "38.943887",
+      "longitude": "-104.799705",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "7695",
+      "street": "N Academy Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "El Paso County",
+      "country": "US",
+      "source": "El Paso"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.799705,
+        38.943887
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "24",
+    "restaurant_name": "Highlands Ranch",
+    "address": "8555 S. Quebec St.",
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "zip": "80126",
+    "phone": "303-927-0720",
+    "metro_area": "Denver",
+    "geocode": {
+      "address": "8555 S. Quebec St.",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80126",
+      "latitude": "39.538698",
+      "longitude": "-104.91546",
+      "accuracy_score": "0.6",
+      "accuracy_type": "street_center",
+      "number": false,
+      "street": "S Quebec St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Douglas County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.91546,
+        39.538698
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "74",
+    "restaurant_name": "Denver West",
+    "address": "14255 W. Colfax",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80401",
+    "phone": "720-583-7780",
+    "metro_area": "Denver",
+    "geocode": {
+      "address": "14255 W. Colfax",
+      "city": "Lakewood",
+      "state": "CO",
+      "zip": "80401",
+      "latitude": "39.734931",
+      "longitude": "-105.160839",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "14255",
+      "street": "W Colfax Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Jefferson County",
+      "country": "US",
+      "source": "Jefferson County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -105.160839,
+        39.734931
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "112",
+    "restaurant_name": "S. Colorado Springs",
+    "address": "2190 Southgate Rd",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80906",
+    "phone": "719-645-7570",
+    "metro_area": "CO Springs",
+    "geocode": {
+      "address": "2190 Southgate Rd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80906",
+      "latitude": "38.800567",
+      "longitude": "-104.817177",
+      "accuracy_score": "0.69",
+      "accuracy_type": "nearest_rooftop_match",
+      "number": "2205",
+      "street": "Southgate Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "El Paso County",
+      "country": "US",
+      "source": "El Paso"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.817177,
+        38.800567
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "177",
+    "restaurant_name": "Smoky Hill",
+    "address": "6369 S. Southlands Pkwy",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80016",
+    "phone": "720-583-7660",
+    "metro_area": "Denver",
+    "geocode": {
+      "address": "6369 S. Southlands Pkwy",
+      "city": "Aurora",
+      "state": "CO",
+      "zip": "80016",
+      "latitude": "39.601867",
+      "longitude": "-104.711624",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6369",
+      "street": "S Southlands Pkwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Arapahoe County",
+      "country": "US",
+      "source": "City of Aurora"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.711624,
+        39.601867
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "187",
+    "restaurant_name": "Loveland",
+    "address": "6015 Sky Pond Dr",
+    "city": "Loveland",
+    "state": "CO",
+    "zip": "80538",
+    "phone": "970-776-8898",
+    "metro_area": "Denver",
+    "geocode": {
+      "address": "6015 Sky Pond Dr",
+      "city": "Loveland",
+      "state": "CO",
+      "zip": "80538",
+      "latitude": "40.4128",
+      "longitude": "-104.9919",
+      "accuracy_score": "0.82",
+      "accuracy_type": "nearest_rooftop_match",
+      "number": "6017",
+      "street": "Sky Pond Dr Spr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Larimer County",
+      "country": "US",
+      "source": "City of Loveland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.9919,
+        40.4128
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "215",
+    "restaurant_name": "E. Colorado Springs",
+    "address": "5832 Barnes Rd",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80922",
+    "phone": "719-645-7340",
+    "metro_area": "CO Springs",
+    "geocode": {
+      "address": "5832 Barnes Rd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80922",
+      "latitude": "38.895779",
+      "longitude": "-104.717979",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5832",
+      "street": "Barnes Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "El Paso County",
+      "country": "US",
+      "source": "El Paso"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.717979,
+        38.895779
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "34",
+    "restaurant_name": "Greenville",
+    "address": "74 Beacon Dr",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615",
+    "phone": "864-214-2260",
+    "metro_area": "GreenSparAsh",
+    "geocode": {
+      "address": "74 Beacon Dr",
+      "city": "Greenville",
+      "state": "SC",
+      "zip": "29615",
+      "latitude": "34.857727",
+      "longitude": "-82.265239",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "74",
+      "street": "Beacon Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Greenville County",
+      "country": "US",
+      "source": "Greenville"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -82.265239,
+        34.857727
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "38",
+    "restaurant_name": "Cary",
+    "address": "1102 Walnut St",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27511",
+    "phone": "919-439-5030",
+    "metro_area": "Raleigh",
+    "geocode": {
+      "address": "1102 Walnut St",
+      "city": "Cary",
+      "state": "NC",
+      "zip": "27511",
+      "latitude": "35.770837",
+      "longitude": "-78.763299",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1102",
+      "street": "Walnut St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Wake County",
+      "country": "US",
+      "source": "Cary"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.763299,
+        35.770837
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "82",
+    "restaurant_name": "Fayetteville",
+    "address": "115 Glensford Dr",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28314",
+    "phone": "910-213-3360",
+    "metro_area": "Raleigh",
+    "geocode": {
+      "address": "115 Glensford Dr",
+      "city": "Fayetteville",
+      "state": "NC",
+      "zip": "28314",
+      "latitude": "35.068334",
+      "longitude": "-78.95959",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "115",
+      "street": "Glensford Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Cumberland County",
+      "country": "US",
+      "source": "Cumberland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.95959,
+        35.068334
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "117",
+    "restaurant_name": "Concord Mills",
+    "address": "8001 Concord Mills Blvd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027",
+    "phone": "704-743-4565",
+    "metro_area": "Charlotte",
+    "geocode": {
+      "address": "8001 Concord Mills Blvd",
+      "city": "Concord",
+      "state": "NC",
+      "zip": "28027",
+      "latitude": "35.369524",
+      "longitude": "-80.716094",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8001",
+      "street": "Concord Mills Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Cabarrus County",
+      "country": "US",
+      "source": "Cabarrus"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.716094,
+        35.369524
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "135",
+    "restaurant_name": "Providence Rd",
+    "address": "10710 Providence Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "phone": "704-246-5989",
+    "metro_area": "Charlotte",
+    "geocode": {
+      "address": "10710 Providence Rd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "latitude": "35.064089",
+      "longitude": "-80.770685",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "10710",
+      "street": "Providence Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Mecklenburg County",
+      "country": "US",
+      "source": "Mecklenburg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.770685,
+        35.064089
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "186",
+    "restaurant_name": "Northlake",
+    "address": "8315 Northlake Commons Blvd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28216",
+    "phone": "704-612-2700",
+    "metro_area": "Charlotte",
+    "geocode": {
+      "address": "8315 Northlake Commons Blvd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28216",
+      "latitude": "35.348175",
+      "longitude": "-80.856062",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8315",
+      "street": "Northlake Commons Bv",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Mecklenburg County",
+      "country": "US",
+      "source": "Mecklenburg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.856062,
+        35.348175
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "191",
+    "restaurant_name": "Gastonia",
+    "address": "2409 E. Franklin Blvd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "phone": "704-918-1420",
+    "metro_area": "Charlotte",
+    "geocode": {
+      "address": "2409 E. Franklin Blvd",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "latitude": "35.260744",
+      "longitude": "-81.135982",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2409",
+      "street": "E Franklin Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Gaston County",
+      "country": "US",
+      "source": "Gaston"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -81.135982,
+        35.260744
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "247",
+    "restaurant_name": "Kissimmee",
+    "address": "3250 Rolling Oaks Blvd",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34747",
+    "phone": "407-452-5437",
+    "metro_area": "Orlando",
+    "geocode": {
+      "address": "3250 Rolling Oaks Blvd",
+      "city": "Kissimmee",
+      "state": "FL",
+      "zip": "34747",
+      "latitude": "28.345712",
+      "longitude": "-81.614605",
+      "accuracy_score": "0.8",
+      "accuracy_type": "nearest_rooftop_match",
+      "number": "3240",
+      "street": "Rolling Oaks Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Osceola County",
+      "country": "US",
+      "source": "Osceola"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -81.614605,
+        28.345712
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "249",
+    "restaurant_name": "Crossroads",
+    "address": "12517 State Rd 535",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32836",
+    "phone": "321-329-3188",
+    "metro_area": "Orlando",
+    "geocode": {
+      "address": "12517 State Rd 535",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32836",
+      "latitude": "28.383069",
+      "longitude": "-81.503758",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "12517",
+      "street": "State Road 535",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Orange County",
+      "country": "US",
+      "source": "Orange County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -81.503758,
+        28.383069
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "9",
+    "restaurant_name": "Plano",
+    "address": "1505 N. Central Expy",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075",
+    "phone": "972-372-0065",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1505 N. Central Expy",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75075",
+      "latitude": "33.020289",
+      "longitude": "-96.710145",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "1505",
+      "street": "N Central Expy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Collin County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.710145,
+        33.020289
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "36",
+    "restaurant_name": "Wichita",
+    "address": "1930 N. Rock Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67206",
+    "phone": "316-854-5484",
+    "metro_area": "Wichita",
+    "geocode": {
+      "address": "1930 N. Rock Rd",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67206",
+      "latitude": "37.719049",
+      "longitude": "-97.243771",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1930",
+      "street": "N Rock Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Sedgwick County",
+      "country": "US",
+      "source": "City of Wichita"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.243771,
+        37.719049
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "81",
+    "restaurant_name": "Preston/121",
+    "address": "5000 State Hwy 121",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75024",
+    "phone": "469-384-7877",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "5000 State Hwy 121",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "latitude": "33.096474",
+      "longitude": "-96.803473",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5000",
+      "street": "State Hwy 121",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Collin County",
+      "country": "US",
+      "source": "Plano"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.803473,
+        33.096474
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "108",
+    "restaurant_name": "Valley Ranch",
+    "address": "1220 Market Place",
+    "city": "Irving",
+    "state": "TX",
+    "zip": "75063",
+    "phone": "214-574-8900",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1220 Market Place",
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75063",
+      "latitude": "32.918074",
+      "longitude": "-96.964508",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1220",
+      "street": "Market Pl",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.964508,
+        32.918074
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "129",
+    "restaurant_name": "Allen",
+    "address": "213 N. Central Expy",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75013",
+    "phone": "469-795-7500",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "213 N. Central Expy",
+      "city": "Allen",
+      "state": "TX",
+      "zip": "75013",
+      "latitude": "33.105655",
+      "longitude": "-96.677335",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "213",
+      "street": "N Central Expy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Collin County",
+      "country": "US",
+      "source": "Plano"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.677335,
+        33.105655
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "150",
+    "restaurant_name": "Wichita Falls",
+    "address": "3111 Midwestern Pkwy",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76308",
+    "phone": "940-228-3580",
+    "metro_area": "Wichita Falls",
+    "geocode": {
+      "address": "3111 Midwestern Pkwy",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "zip": "76308",
+      "latitude": "33.870343",
+      "longitude": "-98.532803",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "3111",
+      "street": "Midwestern Pkwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Wichita County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -98.532803,
+        33.870343
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "170",
+    "restaurant_name": "W. Wichita",
+    "address": "2347 N. Maize Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67205",
+    "phone": "316-854-8699",
+    "metro_area": "Wichita",
+    "geocode": {
+      "address": "2347 N. Maize Rd",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67205",
+      "latitude": "37.72522",
+      "longitude": "-97.463317",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2347",
+      "street": "N Maize Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Sedgwick County",
+      "country": "US",
+      "source": "City of Wichita"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.463317,
+        37.72522
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "192",
+    "restaurant_name": "Addison",
+    "address": "4855 Belt Line Rd",
+    "city": "Addison",
+    "state": "TX",
+    "zip": "75254",
+    "phone": "972-788-4400",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "4855 Belt Line Rd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75254",
+      "latitude": "32.954762",
+      "longitude": "-96.828712",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4855",
+      "street": "Belt Line Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Dallas"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.828712,
+        32.954762
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "219",
+    "restaurant_name": "W. McKinney",
+    "address": "8930 State Hwy 121, Ste 530",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75070",
+    "phone": "972-984-7888",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "8930 State Hwy 121, Ste 530",
+      "city": "Mc Kinney",
+      "state": "TX",
+      "zip": "75070",
+      "latitude": "33.129093",
+      "longitude": "-96.732373",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8930",
+      "street": "State Hwy 121",
+      "unit_type": "Ste",
+      "unit_number": "121",
+      "county": "Collin County",
+      "country": "US",
+      "source": "Plano"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.732373,
+        33.129093
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "222",
+    "restaurant_name": "Willowbend",
+    "address": "5960 W. Parker Rd, Ste 210",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75093",
+    "phone": "972-372-0070",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "5960 W. Parker Rd, Ste 210",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75093",
+      "latitude": "33.044229",
+      "longitude": "-96.827892",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "5960/5964",
+      "street": "W Parker Rd",
+      "unit_type": "Ste",
+      "unit_number": "210",
+      "county": "Collin County",
+      "country": "US",
+      "source": "Plano"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.827892,
+        33.044229
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "16",
+    "restaurant_name": "South Arlington",
+    "address": "1121 I-20 West",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76016",
+    "phone": "817-522-1990",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1121 I-20 West",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76017",
+      "latitude": "32.677962",
+      "longitude": "-97.125567",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "1121",
+      "street": "W I H 20",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.125567,
+        32.677962
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "48",
+    "restaurant_name": "College Station",
+    "address": "709 Texas Ave",
+    "city": "College Station",
+    "state": "TX",
+    "zip": "77840",
+    "phone": "979-314-8400",
+    "metro_area": "Waco",
+    "geocode": {
+      "address": "709 Texas Ave",
+      "city": "College Station",
+      "state": "TX",
+      "zip": "77840",
+      "latitude": "30.626533",
+      "longitude": "-96.332052",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "709",
+      "street": "Texas Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Brazos County",
+      "country": "US",
+      "source": "Brazos"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.332052,
+        30.626533
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "66",
+    "restaurant_name": "Waco",
+    "address": "4320 W. Waco Dr",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76710",
+    "phone": "254-227-5040",
+    "metro_area": "Waco",
+    "geocode": {
+      "address": "4320 W. Waco Dr",
+      "city": "Waco",
+      "state": "TX",
+      "zip": "76710",
+      "latitude": "31.526775",
+      "longitude": "-97.171572",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4320",
+      "street": "W Waco Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "McLennan County",
+      "country": "US",
+      "source": "City of Waco"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.171572,
+        31.526775
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "86",
+    "restaurant_name": "Pleasant Run",
+    "address": "1003 North I-35 E",
+    "city": "DeSoto",
+    "state": "TX",
+    "zip": "75115",
+    "phone": "214-462-7750",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1003 North I-35 E",
+      "city": "Desoto",
+      "state": "TX",
+      "zip": "75115",
+      "latitude": "32.606205",
+      "longitude": "-96.823901",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1003",
+      "street": "N I 35 E",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Desoto"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.823901,
+        32.606205
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "97",
+    "restaurant_name": "Mesquite",
+    "address": "1414 Gross Rd",
+    "city": "Mesquite",
+    "state": "TX",
+    "zip": "75149",
+    "phone": "214-462-7770",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1414 Gross Rd",
+      "city": "Mesquite",
+      "state": "TX",
+      "zip": "75149",
+      "latitude": "32.784032",
+      "longitude": "-96.626762",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1414",
+      "street": "Gross Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Dallas"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.626762,
+        32.784032
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "178",
+    "restaurant_name": "Mansfield",
+    "address": "2001 Hwy 287 N.",
+    "city": "Mansfield",
+    "state": "TX",
+    "zip": "76063",
+    "phone": "817-779-7370",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "2001 Hwy 287 N.",
+      "city": "Mansfield",
+      "state": "TX",
+      "zip": "76063",
+      "latitude": "32.596242",
+      "longitude": "-97.149194",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2001",
+      "street": "Hwy 287 N",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.149194,
+        32.596242
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "221",
+    "restaurant_name": "Grand Prairie",
+    "address": "5244 S State Highway 360, Ste 370",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75052",
+    "phone": "972-639-5050",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "5244 S State Highway 360, Ste 370",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75052",
+      "latitude": "32.645333",
+      "longitude": "-97.061315",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5244",
+      "street": "S Hwy 360",
+      "unit_type": "Ste",
+      "unit_number": "360",
+      "county": "Tarrant County",
+      "country": "US",
+      "source": "Tarrant"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.061315,
+        32.645333
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "251",
+    "restaurant_name": "Knox",
+    "address": "3130 Knox Street",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75205",
+    "phone": "214-462-7760",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "3130 Knox Street",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75205",
+      "latitude": "32.823472",
+      "longitude": "-96.788339",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "3130",
+      "street": "Knox St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Dallas"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.788339,
+        32.823472
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "17",
+    "restaurant_name": "Lewisville",
+    "address": "1890 S. Stemmons Frwy",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75067",
+    "phone": "469-464-5710",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "1890 S. Stemmons Frwy",
+      "city": "Lewisville",
+      "state": "TX",
+      "zip": "75067",
+      "latitude": "33.016911",
+      "longitude": "-96.980852",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1890",
+      "street": "S Stemmons Fwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Denton County",
+      "country": "US",
+      "source": "Denton"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -96.980852,
+        33.016911
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "151",
+    "restaurant_name": "Oklahoma City",
+    "address": "3500 NW Expressway",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73112",
+    "phone": "405-543-2656",
+    "metro_area": "OKC",
+    "geocode": {
+      "address": "3500 NW Expressway",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73112",
+      "latitude": "35.53209",
+      "longitude": "-97.580955",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "3500",
+      "street": "Nw Expy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oklahoma County",
+      "country": "US",
+      "source": "Oklahoma"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.580955,
+        35.53209
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "153",
+    "restaurant_name": "Meridian",
+    "address": "120 S. Meridian",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73107",
+    "phone": "405-708-7710",
+    "metro_area": "OKC",
+    "geocode": {
+      "address": "120 S. Meridian",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73107",
+      "latitude": "35.464762",
+      "longitude": "-97.600564",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "120",
+      "street": "S Meridian Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oklahoma County",
+      "country": "US",
+      "source": "Oklahoma"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.600564,
+        35.464762
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "155",
+    "restaurant_name": "Denton",
+    "address": "2829 S. Interstate 35E",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76210",
+    "phone": "940-312-7000",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "2829 S. Interstate 35E",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76210",
+      "latitude": "33.182194",
+      "longitude": "-97.10071",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2829",
+      "street": "S I-35e Int",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Denton County",
+      "country": "US",
+      "source": "City of Denton"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.10071,
+        33.182194
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "156",
+    "restaurant_name": "Edmond",
+    "address": "3233 S. Broadway",
+    "city": "Edmond",
+    "state": "OK",
+    "zip": "73013",
+    "phone": "405-562-7150",
+    "metro_area": "OKC",
+    "geocode": {
+      "address": "3233 S. Broadway",
+      "city": "Edmond",
+      "state": "OK",
+      "zip": "73013",
+      "latitude": "35.623798",
+      "longitude": "-97.485919",
+      "accuracy_score": "0.9",
+      "accuracy_type": "range_interpolation",
+      "number": "3233",
+      "street": "S Broadway St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oklahoma County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.485919,
+        35.623798
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "202",
+    "restaurant_name": "I-240",
+    "address": "544 Interstate 240",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73139",
+    "phone": "405-708-4787",
+    "metro_area": "OKC",
+    "geocode": {
+      "address": "544 Interstate 240",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73139",
+      "latitude": "35.403562",
+      "longitude": "-97.523788",
+      "accuracy_score": "0.8",
+      "accuracy_type": "rooftop",
+      "number": "544",
+      "street": "SW 62nd Ter",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oklahoma County",
+      "country": "US",
+      "source": "Oklahoma"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.523788,
+        35.403562
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "238",
+    "restaurant_name": "Roanoke",
+    "address": "890 E Highway 114",
+    "city": "Roanoke",
+    "state": "TX",
+    "zip": "76262",
+    "phone": "682-593-1746",
+    "metro_area": "Dallas",
+    "geocode": {
+      "address": "890 E Highway 114",
+      "city": "Roanoke",
+      "state": "TX",
+      "zip": "76262",
+      "latitude": "32.99912",
+      "longitude": "-97.216308",
+      "accuracy_score": "0.8",
+      "accuracy_type": "rooftop",
+      "number": "890",
+      "street": "W Sh 114",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Denton County",
+      "country": "US",
+      "source": "Denton"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.216308,
+        32.99912
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "242",
+    "restaurant_name": "Midwest City",
+    "address": "433 Planet Ct",
+    "city": "Midwest City",
+    "state": "OK",
+    "zip": "73110",
+    "phone": "405-622-4446",
+    "metro_area": "OKC",
+    "geocode": {
+      "address": "433 Planet Ct",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73110",
+      "latitude": "35.436011",
+      "longitude": "-97.40965",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "433",
+      "street": "Planet Ct",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oklahoma County",
+      "country": "US",
+      "source": "City of Midwest City"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.40965,
+        35.436011
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "22",
+    "restaurant_name": "Woodland Hills",
+    "address": "8702 E. 71st Street South",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74133",
+    "phone": "918-994-1555",
+    "metro_area": "Tulsa",
+    "geocode": {
+      "address": "8702 E. 71st Street South",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74133",
+      "latitude": "36.060454",
+      "longitude": "-95.878627",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8702",
+      "street": "E 71st St S",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tulsa County",
+      "country": "US",
+      "source": "Tulsa"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -95.878627,
+        36.060454
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "71",
+    "restaurant_name": "Barry Rd",
+    "address": "8340 NW Roanridge Rd",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64151",
+    "phone": "816-759-2270",
+    "metro_area": "Kansas City",
+    "geocode": {
+      "address": "8340 NW Roanridge Rd",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64151",
+      "latitude": "39.246198",
+      "longitude": "-94.656459",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8340",
+      "street": "NW Roanridge Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Platte County",
+      "country": "US",
+      "source": "City of Kansas City"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.656459,
+        39.246198
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "110",
+    "restaurant_name": "Promenade",
+    "address": "5340 E. 41st Street South",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74135",
+    "phone": "918-948-8580",
+    "metro_area": "Tulsa",
+    "geocode": {
+      "address": "5340 E. 41st Street South",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74135",
+      "latitude": "36.103821",
+      "longitude": "-95.915395",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "5340",
+      "street": "E 41st St S",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Tulsa County",
+      "country": "US",
+      "source": "Tulsa"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -95.915395,
+        36.103821
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "116",
+    "restaurant_name": "Oak Park",
+    "address": "11855 W. 95th St",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66214",
+    "phone": "913-800-8262",
+    "metro_area": "Kansas City",
+    "geocode": {
+      "address": "11855 W. 95th St",
+      "city": "Overland Park",
+      "state": "KS",
+      "zip": "66214",
+      "latitude": "38.95604",
+      "longitude": "-94.720424",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "11855",
+      "street": "W 95th St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Johnson County",
+      "country": "US",
+      "source": "City of Olathe"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.720424,
+        38.95604
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "136",
+    "restaurant_name": "Hartman Heritage",
+    "address": "19921 E Jackson Dr",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64057",
+    "phone": "816-759-2110",
+    "metro_area": "Kansas City",
+    "geocode": {
+      "address": "19921 E Jackson Dr",
+      "city": "Independence",
+      "state": "MO",
+      "zip": "64057",
+      "latitude": "39.040533",
+      "longitude": "-94.345629",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "19921",
+      "street": "E Jackson Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Jackson County",
+      "country": "US",
+      "source": "Jackson"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.345629,
+        39.040533
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "180",
+    "restaurant_name": "Topeka",
+    "address": "1235 SW Wanamaker Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604",
+    "phone": "785-380-4755",
+    "metro_area": "Topeka",
+    "geocode": {
+      "address": "1235 SW Wanamaker Rd",
+      "city": "Topeka",
+      "state": "KS",
+      "zip": "66604",
+      "latitude": "39.044388",
+      "longitude": "-95.762334",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1235",
+      "street": "SW Wanamaker Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Shawnee County",
+      "country": "US",
+      "source": "Shawnee County"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -95.762334,
+        39.044388
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "40",
+    "restaurant_name": "Wolfchase",
+    "address": "8101 Giacosa Dr",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38133",
+    "phone": "901-881-0808",
+    "metro_area": "Memphis",
+    "geocode": {
+      "address": "8101 Giacosa Dr",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38133",
+      "latitude": "35.198572",
+      "longitude": "-89.793346",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8101",
+      "street": "Giacosa Pl",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Shelby County",
+      "country": "US",
+      "source": "City of Memphis"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -89.793346,
+        35.198572
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "104",
+    "restaurant_name": "Hot Springs",
+    "address": "190 Pakis St",
+    "city": "Hot Springs",
+    "state": "AR",
+    "zip": "71913",
+    "phone": "501-781-2210",
+    "metro_area": "Little Rock",
+    "geocode": {
+      "address": "190 Pakis St",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "zip": "71913",
+      "latitude": "34.463755",
+      "longitude": "-93.058374",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "190",
+      "street": "Pakis St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Garland County",
+      "country": "US",
+      "source": "Arkansas Geographic Information Office"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -93.058374,
+        34.463755
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "154",
+    "restaurant_name": "Rogers",
+    "address": "577 N. 46th St",
+    "city": "Rogers",
+    "state": "AR",
+    "zip": "72756",
+    "phone": "479-616-1991",
+    "metro_area": "Fort Smith",
+    "geocode": {
+      "address": "577 N. 46th St",
+      "city": "Rogers",
+      "state": "AR",
+      "zip": "72756",
+      "latitude": "36.340293",
+      "longitude": "-94.178868",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "577",
+      "street": "N 46th St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Benton County",
+      "country": "US",
+      "source": "Arkansas Geographic Information Office"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.178868,
+        36.340293
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "161",
+    "restaurant_name": "W. Little Rock",
+    "address": "11721 Chenal Pkwy",
+    "city": "W. Little Rock",
+    "state": "AR",
+    "zip": "72211",
+    "phone": "501-218-8840",
+    "metro_area": "Little Rock",
+    "geocode": {
+      "address": "11721 Chenal Pkwy",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72211",
+      "latitude": "34.747311",
+      "longitude": "-92.404034",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "11721",
+      "street": "Chenal Pkwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Pulaski County",
+      "country": "US",
+      "source": "Pulaski"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -92.404034,
+        34.747311
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "201",
+    "restaurant_name": "Southaven",
+    "address": "6572 Airways Blvd",
+    "city": "Southaven",
+    "state": "MS",
+    "zip": "38671",
+    "phone": "662-655-4750",
+    "metro_area": "Memphis",
+    "geocode": {
+      "address": "6572 Airways Blvd",
+      "city": "Southaven",
+      "state": "MS",
+      "zip": "38671",
+      "latitude": "34.962152",
+      "longitude": "-89.989758",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "6572",
+      "street": "Airways Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "DeSoto County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -89.989758,
+        34.962152
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "233",
+    "restaurant_name": "Sherwood",
+    "address": "6000 Warden Rd",
+    "city": "Sherwood",
+    "state": "AR",
+    "zip": "72120",
+    "phone": "501-476-7180",
+    "metro_area": "Little Rock",
+    "geocode": {
+      "address": "6000 Warden Rd",
+      "city": "Sherwood",
+      "state": "AR",
+      "zip": "72120",
+      "latitude": "34.812215",
+      "longitude": "-92.205988",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6000",
+      "street": "Warden Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Pulaski County",
+      "country": "US",
+      "source": "Pulaski"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -92.205988,
+        34.812215
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "248",
+    "restaurant_name": "Conway",
+    "address": "1150 S. Amity Rd",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72032",
+    "phone": "501-585-4322",
+    "metro_area": "Little Rock",
+    "geocode": {
+      "address": "1150 S. Amity Rd",
+      "city": "Conway",
+      "state": "AR",
+      "zip": "72032",
+      "latitude": "35.065117",
+      "longitude": "-92.41416",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1150",
+      "street": "S Amity Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Faulkner County",
+      "country": "US",
+      "source": "Arkansas Geographic Information Office"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -92.41416,
+        35.065117
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "44",
+    "restaurant_name": "Novi",
+    "address": "21091 Haggerty Rd",
+    "city": "Novi",
+    "state": "MI",
+    "zip": "48375",
+    "phone": "248-946-8513",
+    "metro_area": "Detroit",
+    "geocode": {
+      "address": "21091 Haggerty Rd",
+      "city": "Novi",
+      "state": "MI",
+      "zip": "48375",
+      "latitude": "42.441464",
+      "longitude": "-83.435781",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "21091",
+      "street": "Haggerty Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oakland County",
+      "country": "US",
+      "source": "Oakland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -83.435781,
+        42.441464
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "73",
+    "restaurant_name": "Morse Rd",
+    "address": "4175 Morse Crossing",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43219",
+    "phone": "614-471-4416",
+    "metro_area": "Columbus",
+    "geocode": {
+      "address": "4175 Morse Crossing",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43219",
+      "latitude": "40.055953",
+      "longitude": "-82.918841",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4175",
+      "street": "Morse Xing",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Franklin County",
+      "country": "US",
+      "source": "Franklin"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -82.918841,
+        40.055953
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "99",
+    "restaurant_name": "Auburn Hills",
+    "address": "3930 Baldwin Rd",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "zip": "48326",
+    "phone": "248-230-2980",
+    "metro_area": "Detroit",
+    "geocode": {
+      "address": "3930 Baldwin Rd",
+      "city": "Auburn Hills",
+      "state": "MI",
+      "zip": "48326",
+      "latitude": "42.700486",
+      "longitude": "-83.305669",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "3930",
+      "street": "Baldwin Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Oakland County",
+      "country": "US",
+      "source": "Oakland"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -83.305669,
+        42.700486
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "130",
+    "restaurant_name": "Castleton Mall",
+    "address": "6001 E. 86th St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46250",
+    "phone": "317-348-1910",
+    "metro_area": "Indianapolis",
+    "geocode": {
+      "address": "6001 E. 86th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46250",
+      "latitude": "39.911931",
+      "longitude": "-86.065949",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "6001",
+      "street": "E 86th St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Marion County",
+      "country": "US",
+      "source": "Statewide"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.065949,
+        39.911931
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "131",
+    "restaurant_name": "West Indy",
+    "address": "10299 East US 36",
+    "city": "Avon",
+    "state": "IN",
+    "zip": "46123",
+    "phone": "317-200-3030",
+    "metro_area": "Indianapolis",
+    "geocode": {
+      "address": "10299 East US 36",
+      "city": "Avon",
+      "state": "IN",
+      "zip": "46123",
+      "latitude": "39.763495",
+      "longitude": "-86.34253",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "10299",
+      "street": "Us Hwy 36",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Hendricks County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.34253,
+        39.763495
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "189",
+    "restaurant_name": "Allen Park",
+    "address": "3310 Fairlane Dr",
+    "city": "Allen Park",
+    "state": "MI",
+    "zip": "48101",
+    "phone": "313-908-5938",
+    "metro_area": "Detroit",
+    "geocode": {
+      "address": "3310 Fairlane Dr",
+      "city": "Allen Park",
+      "state": "MI",
+      "zip": "48101",
+      "latitude": "42.281392",
+      "longitude": "-83.206788",
+      "accuracy_score": "0.6",
+      "accuracy_type": "rooftop",
+      "number": "3310",
+      "street": "Fairlane",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Wayne County",
+      "country": "US",
+      "source": "Semcog"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -83.206788,
+        42.281392
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "194",
+    "restaurant_name": "Greenwood",
+    "address": "867 US 31 North",
+    "city": "Greenwood",
+    "state": "IN",
+    "zip": "46142",
+    "phone": "317-884-8950",
+    "metro_area": "Indianapolis",
+    "geocode": {
+      "address": "867 US 31 North",
+      "city": "Greenwood",
+      "state": "IN",
+      "zip": "46142",
+      "latitude": "39.629608",
+      "longitude": "-86.121757",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "867",
+      "street": "N 31",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Johnson County",
+      "country": "US",
+      "source": "Statewide"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.121757,
+        39.629608
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "241",
+    "restaurant_name": "Westland",
+    "address": "35613 Warren Rd",
+    "city": "Westland",
+    "state": "MI",
+    "zip": "48185",
+    "phone": "734-629-5204",
+    "metro_area": "Detroit",
+    "geocode": {
+      "address": "35613 Warren Rd",
+      "city": "Westland",
+      "state": "MI",
+      "zip": "48185",
+      "latitude": "42.338682",
+      "longitude": "-83.389114",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "35613",
+      "street": "Warren Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Wayne County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -83.389114,
+        42.338682
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "42",
+    "restaurant_name": "Vernon Hills",
+    "address": "535 N. Lakeview",
+    "city": "Vernon Hills",
+    "state": "IL",
+    "zip": "60061",
+    "phone": "224-433-5450",
+    "metro_area": "Chicago",
+    "geocode": {
+      "address": "535 N. Lakeview",
+      "city": "Vernon Hills",
+      "state": "IL",
+      "zip": "60061",
+      "latitude": "42.236569",
+      "longitude": "-87.950168",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "535",
+      "street": "N Lakeview Cir",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Lake County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.950168,
+        42.236569
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "62",
+    "restaurant_name": "Naperville",
+    "address": "1915 Glacier Park Ave",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540",
+    "phone": "331-472-8740",
+    "metro_area": "Chicago",
+    "geocode": {
+      "address": "1915 Glacier Park Ave",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60540",
+      "latitude": "41.773152",
+      "longitude": "-88.204868",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1915",
+      "street": "Glacier Park Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "DuPage County",
+      "country": "US",
+      "source": "Waco"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -88.204868,
+        41.773152
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "167",
+    "restaurant_name": "Jordan Creek",
+    "address": "140 S. Jordan Creek Pkwy",
+    "city": "W. Des Moines",
+    "state": "IA",
+    "zip": "50266",
+    "phone": "515-528-7788",
+    "metro_area": "Des Moines",
+    "geocode": {
+      "address": "140 S. Jordan Creek Pkwy",
+      "city": "West Des Moines",
+      "state": "IA",
+      "zip": "50266",
+      "latitude": "41.566189",
+      "longitude": "-93.804781",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "140",
+      "street": "S Jordan Creek Pkwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Dallas County",
+      "country": "US",
+      "source": "Dallas"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -93.804781,
+        41.566189
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "175",
+    "restaurant_name": "Grandville",
+    "address": "3676 Potomac Circle SW",
+    "city": "Grandville",
+    "state": "MI",
+    "zip": "49418",
+    "phone": "616-710-3990",
+    "metro_area": "Grand Rapids",
+    "geocode": {
+      "address": "3676 Potomac Circle SW",
+      "city": "Grandville",
+      "state": "MI",
+      "zip": "49418",
+      "latitude": "42.883192",
+      "longitude": "-85.754686",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "3676",
+      "street": "Potomac Cir SW",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Kent County",
+      "country": "US",
+      "source": "Kent"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -85.754686,
+        42.883192
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "182",
+    "restaurant_name": "Algonquin",
+    "address": "1512 S. Randall Rd",
+    "city": "Algonquin",
+    "state": "IL",
+    "zip": "60102",
+    "phone": "847-960-3915",
+    "metro_area": "Chicago",
+    "geocode": {
+      "address": "1512 S. Randall Rd",
+      "city": "Algonquin",
+      "state": "IL",
+      "zip": "60102",
+      "latitude": "42.15012",
+      "longitude": "-88.336577",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "1512",
+      "street": "S Randall Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Kane County",
+      "country": "US",
+      "source": "Mchenry"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -88.336577,
+        42.15012
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "193",
+    "restaurant_name": "Woodland Mall",
+    "address": "3195 28th Street SE R-101",
+    "city": "Kentwood",
+    "state": "MI",
+    "zip": "49512",
+    "phone": "616-466-7810",
+    "metro_area": "Grand Rapids",
+    "geocode": {
+      "address": "3195 28th Street SE R-101",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49506",
+      "latitude": "42.916291",
+      "longitude": "-85.587927",
+      "accuracy_score": "0.9",
+      "accuracy_type": "rooftop",
+      "number": "3195",
+      "street": "28th St SE",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Kent County",
+      "country": "US",
+      "source": "Kent"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -85.587927,
+        42.916291
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "244",
+    "restaurant_name": "Holland",
+    "address": "12383 James St",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49424",
+    "phone": "616-266-1001",
+    "metro_area": "Grand Rapids",
+    "geocode": {
+      "address": "12383 James St",
+      "city": "Holland",
+      "state": "MI",
+      "zip": "49424",
+      "latitude": "42.812216",
+      "longitude": "-86.088162",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "12383",
+      "street": "James St",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Ottawa County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.088162,
+        42.812216
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "41",
+    "restaurant_name": "Reston",
+    "address": "11880 Spectrum Ctr",
+    "city": "Reston",
+    "state": "VA",
+    "zip": "20190",
+    "phone": "571-485-7929",
+    "metro_area": "DC",
+    "geocode": {
+      "address": "11880 Spectrum Ctr",
+      "city": "Reston",
+      "state": "VA",
+      "zip": "20190",
+      "latitude": "38.964348",
+      "longitude": "-77.354661",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "11880",
+      "street": "Spectrum Ctr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Fairfax County",
+      "country": "US",
+      "source": "Fairfax"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.354661,
+        38.964348
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "69",
+    "restaurant_name": "Woodbridge",
+    "address": "2651 Prince William Pkwy",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22192",
+    "phone": "703-595-2910",
+    "metro_area": "DC",
+    "geocode": {
+      "address": "2651 Prince William Pkwy",
+      "city": "Woodbridge",
+      "state": "VA",
+      "zip": "22192",
+      "latitude": "38.650101",
+      "longitude": "-77.292181",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "2651",
+      "street": "Prince William Pkwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Prince William County",
+      "country": "US",
+      "source": "Prince William"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.292181,
+        38.650101
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "199",
+    "restaurant_name": "Exton",
+    "address": "102 Bartlett Avenue",
+    "city": "Exton",
+    "state": "PA",
+    "zip": "19341",
+    "phone": "484-870-3181",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "102 Bartlett Avenue",
+      "city": "Exton",
+      "state": "PA",
+      "zip": "19341",
+      "latitude": "40.021506",
+      "longitude": "-75.629327",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "102",
+      "street": "Bartlett Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Chester County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.629327,
+        40.021506
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "200",
+    "restaurant_name": "Columbia",
+    "address": "8230 Gateway Overlook Dr",
+    "city": "Elkridge",
+    "state": "MD",
+    "zip": "21075",
+    "phone": "410-312-1490",
+    "metro_area": "Baltimore",
+    "geocode": {
+      "address": "8230 Gateway Overlook Dr",
+      "city": "Elkridge",
+      "state": "MD",
+      "zip": "21075",
+      "latitude": "39.185392",
+      "longitude": "-76.796441",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "8230",
+      "street": "Gateway Overlook Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Howard County",
+      "country": "US",
+      "source": "Howard"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.796441,
+        39.185392
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "208",
+    "restaurant_name": "Wyomissing",
+    "address": "796 Woodland Rd",
+    "city": "Wyomissing",
+    "state": "PA",
+    "zip": "19610",
+    "phone": "610-898-3320",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "796 Woodland Rd",
+      "city": "Reading",
+      "state": "PA",
+      "zip": "19610",
+      "latitude": "40.349021",
+      "longitude": "-75.965685",
+      "accuracy_score": "0.62",
+      "accuracy_type": "nearest_rooftop_match",
+      "number": "845",
+      "street": "Woodland Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Berks County",
+      "country": "US",
+      "source": "Berks"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.965685,
+        40.349021
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "234",
+    "restaurant_name": "Towson",
+    "address": "121 E. Joppa Rd",
+    "city": "Towson",
+    "state": "MD",
+    "zip": "21286",
+    "phone": "443-519-2332",
+    "metro_area": "Baltimore",
+    "geocode": {
+      "address": "121 E. Joppa Rd",
+      "city": "Towson",
+      "state": "MD",
+      "zip": "21286",
+      "latitude": "39.401415",
+      "longitude": "-76.60019",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "121",
+      "street": "E Joppa Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Baltimore County",
+      "country": "US",
+      "source": "Baltimore"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.60019,
+        39.401415
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "236",
+    "restaurant_name": "Fair Oaks",
+    "address": "11947U Fair Oaks Mall- G213",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "22033",
+    "phone": "703-988-3577",
+    "metro_area": "DC",
+    "geocode": {
+      "address": "11947U Fair Oaks Mall- G213",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22033",
+      "latitude": "38.86057",
+      "longitude": "-77.35914",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "11947",
+      "street": "Fair Oaks Mall",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Fairfax County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.35914,
+        38.86057
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "141",
+    "restaurant_name": "Woburn",
+    "address": "19 Commerce Way",
+    "city": "Woburn",
+    "state": "MA",
+    "zip": "01801",
+    "phone": "781-995-2314",
+    "metro_area": "Boston",
+    "geocode": {
+      "address": "19 Commerce Way",
+      "city": "Woburn",
+      "state": "MA",
+      "zip": "01801",
+      "latitude": "42.506752",
+      "longitude": "-71.130509",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "19",
+      "street": "Commerce Way",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Middlesex County",
+      "country": "US",
+      "source": "Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.130509,
+        42.506752
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "142",
+    "restaurant_name": "Rocky Hill",
+    "address": "1519 Silas Deane Hwy",
+    "city": "Rocky Hill",
+    "state": "CT",
+    "zip": "06067",
+    "phone": "860-899-1670",
+    "metro_area": "Hartford",
+    "geocode": {
+      "address": "1519 Silas Deane Hwy",
+      "city": "Rocky Hill",
+      "state": "CT",
+      "zip": "06067",
+      "latitude": "41.680509",
+      "longitude": "-72.653683",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "1519",
+      "street": "Silas Deane Hwy",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Hartford County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.653683,
+        41.680509
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "143",
+    "restaurant_name": "Orange",
+    "address": "220 Indian River Rd",
+    "city": "Orange",
+    "state": "CT",
+    "zip": "06477",
+    "phone": "203-687-4300",
+    "metro_area": "Hartford",
+    "geocode": {
+      "address": "220 Indian River Rd",
+      "city": "Orange",
+      "state": "CT",
+      "zip": "06477",
+      "latitude": "41.258617",
+      "longitude": "-73.003508",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "220",
+      "street": "Indian River Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "New Haven County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.003508,
+        41.258617
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "145",
+    "restaurant_name": "West Springfield",
+    "address": "33 Border Way",
+    "city": "W. Springfield",
+    "state": "MA",
+    "zip": "01089",
+    "phone": "413-304-3500",
+    "metro_area": "Springfield",
+    "geocode": {
+      "address": "33 Border Way",
+      "city": "West Springfield",
+      "state": "MA",
+      "zip": "01089",
+      "latitude": "42.13752",
+      "longitude": "-72.627215",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "33",
+      "street": "Border Way",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Hampden County",
+      "country": "US",
+      "source": "Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.627215,
+        42.13752
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "197",
+    "restaurant_name": "Warwick",
+    "address": "650 Bald Hill Rd",
+    "city": "Warwick",
+    "state": "RI",
+    "zip": "02886",
+    "phone": "401-262-4899",
+    "metro_area": "Northeast",
+    "geocode": {
+      "address": "650 Bald Hill Rd",
+      "city": "Warwick",
+      "state": "RI",
+      "zip": "02886",
+      "latitude": "41.719721",
+      "longitude": "-71.483764",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "650",
+      "street": "Bald Hill Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Kent County",
+      "country": "US",
+      "source": "Statewide"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.483764,
+        41.719721
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "223",
+    "restaurant_name": "Holtsville",
+    "address": "45 Middle Ave",
+    "city": "Holtsville",
+    "state": "NY",
+    "zip": "11742",
+    "phone": "631-317-2657",
+    "metro_area": "New York",
+    "geocode": {
+      "address": "45 Middle Ave",
+      "city": "Holtsville",
+      "state": "NY",
+      "zip": "11742",
+      "latitude": "40.818353",
+      "longitude": "-73.056",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "45",
+      "street": "Middle Ave",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Suffolk County",
+      "country": "US",
+      "source": "Suffolk"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.056,
+        40.818353
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "245",
+    "restaurant_name": "Hicksville",
+    "address": "200 Broadway Mall",
+    "city": "Hicksville",
+    "state": "NY",
+    "zip": "11801",
+    "phone": "516-342-7777",
+    "metro_area": "New York",
+    "geocode": {
+      "address": "200 Broadway Mall",
+      "city": "Hicksville",
+      "state": "NY",
+      "zip": "11801",
+      "latitude": "40.77252",
+      "longitude": "-73.531127",
+      "accuracy_score": "0.82",
+      "accuracy_type": "nearest_rooftop_match",
+      "number": "202",
+      "street": "Broadway Mall",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Nassau County",
+      "country": "US",
+      "source": "NYS GIS Program Office, State Geographic Information Officer (GIO)"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.531127,
+        40.77252
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "39",
+    "restaurant_name": "Woodland Park",
+    "address": "1738 Route 46 West",
+    "city": "Woodland Park",
+    "state": "NJ",
+    "zip": "07424",
+    "phone": "973-435-4642",
+    "metro_area": "New York",
+    "geocode": {
+      "address": "1738 Route 46 West",
+      "city": "Little Falls",
+      "state": "NJ",
+      "zip": "07424",
+      "latitude": "40.887345",
+      "longitude": "-74.216853",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "1738",
+      "street": "US Rte 46",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Passaic County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.216853,
+        40.887345
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "56",
+    "restaurant_name": "Gwinnett",
+    "address": "2275 Pleasant Hill Dr",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "phone": "404-991-2400",
+    "metro_area": "Atlanta",
+    "geocode": {
+      "address": "2275 Pleasant Hill Dr",
+      "city": "Duluth",
+      "state": "GA",
+      "zip": "30096",
+      "latitude": "33.961982",
+      "longitude": "-84.136636",
+      "accuracy_score": "0.9",
+      "accuracy_type": "range_interpolation",
+      "number": "2275",
+      "street": "Pleasant Hill Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Gwinnett County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.136636,
+        33.961982
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "57",
+    "restaurant_name": "Buckhead",
+    "address": "1 Buckhead Loop NE, Ste 130",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30326",
+    "phone": "404-991-2500",
+    "metro_area": "Atlanta",
+    "geocode": {
+      "address": "1 Buckhead Loop NE, Ste 130",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30326",
+      "latitude": "33.851926",
+      "longitude": "-84.363637",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "1",
+      "street": "Buckhead Loop NE",
+      "unit_type": "Ste",
+      "unit_number": "130",
+      "county": "Fulton County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.363637,
+        33.851926
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "59",
+    "restaurant_name": "New Brunswick",
+    "address": "51 US Hwy 1",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "zip": "08901",
+    "phone": "732-979-2192",
+    "metro_area": "New York",
+    "geocode": {
+      "address": "51 US Hwy 1",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "latitude": "40.483875",
+      "longitude": "-74.417387",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "51",
+      "street": "Us 1",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Middlesex County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.417387,
+        40.483875
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "61",
+    "restaurant_name": "Paramus",
+    "address": "71 S. State Rt. 17",
+    "city": "Paramus",
+    "state": "NJ",
+    "zip": "07652",
+    "phone": "201-397-1175",
+    "metro_area": "New York",
+    "geocode": {
+      "address": "71 S. State Rt. 17",
+      "city": "Paramus",
+      "state": "NJ",
+      "zip": "07652",
+      "latitude": "40.916567",
+      "longitude": "-74.072788",
+      "accuracy_score": "1",
+      "accuracy_type": "range_interpolation",
+      "number": "71",
+      "street": "Nj 17",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Bergen County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.072788,
+        40.916567
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "72",
+    "restaurant_name": "Princeton",
+    "address": "3567 US Route One",
+    "city": "Princeton",
+    "state": "NJ",
+    "zip": "08540",
+    "phone": "609-681-5656",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "3567 US Route One",
+      "city": "Princeton",
+      "state": "NJ",
+      "zip": "08540",
+      "latitude": "40.343625",
+      "longitude": "-74.693953",
+      "accuracy_score": "0.33",
+      "accuracy_type": "place",
+      "number": false,
+      "street": false,
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Mercer County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.693953,
+        40.343625
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "122",
+    "restaurant_name": "Mall of Georgia",
+    "address": "3206 Buford Dr",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519",
+    "phone": "678-804-7822",
+    "metro_area": "Atlanta",
+    "geocode": {
+      "address": "3206 Buford Dr",
+      "city": "Buford",
+      "state": "GA",
+      "zip": "30519",
+      "latitude": "34.062834",
+      "longitude": "-83.99132",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "3206",
+      "street": "Buford Dr",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Gwinnett County",
+      "country": "US",
+      "source": "Gwinnett"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -83.99132,
+        34.062834
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "125",
+    "restaurant_name": "ATL Town Center",
+    "address": "790 Cobb Place Blvd",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "phone": "678-279-5970",
+    "metro_area": "Atlanta",
+    "geocode": {
+      "address": "790 Cobb Place Blvd",
+      "city": "Kennesaw",
+      "state": "GA",
+      "zip": "30144",
+      "latitude": "34.007858",
+      "longitude": "-84.569988",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "790",
+      "street": "Cobb Place Blvd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Cobb County",
+      "country": "US",
+      "source": "Cobb"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.569988,
+        34.007858
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "149",
+    "restaurant_name": "Neshaminy Mall",
+    "address": "901 Neshaminy Mall",
+    "city": "Bensalem",
+    "state": "PA",
+    "zip": "19020",
+    "phone": "267-984-4980",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "901 Neshaminy Mall",
+      "city": "Bensalem",
+      "state": "PA",
+      "zip": "19020",
+      "latitude": "40.10455",
+      "longitude": "-74.95128",
+      "accuracy_score": "0.33",
+      "accuracy_type": "place",
+      "number": false,
+      "street": false,
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Bucks County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.95128,
+        40.10455
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "166",
+    "restaurant_name": "Mt. Laurel",
+    "address": "4160 Church Rd",
+    "city": "Mt. Laurel",
+    "state": "NJ",
+    "zip": "08054",
+    "phone": "856-437-5360",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "4160 Church Rd",
+      "city": "Mount Laurel",
+      "state": "NJ",
+      "zip": "08054",
+      "latitude": "39.92404",
+      "longitude": "-74.952037",
+      "accuracy_score": "1",
+      "accuracy_type": "rooftop",
+      "number": "4160",
+      "street": "Church Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Burlington County",
+      "country": "US",
+      "source": "NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.952037,
+        39.92404
+      ]
+    }
+  },
+  {
+    "rvp": "",
+    "ad": "",
+    "restaurant_#": "206",
+    "restaurant_name": "Airport Rd",
+    "address": "909 Airport Center Dr",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18109",
+    "phone": "484-240-3826",
+    "metro_area": "Philadelphia",
+    "geocode": {
+      "address": "909 Airport Center Dr",
+      "city": "Allentown",
+      "state": "PA",
+      "zip": "18109",
+      "latitude": "40.656446",
+      "longitude": "-75.428384",
+      "accuracy_score": "0.6",
+      "accuracy_type": "street_center",
+      "number": false,
+      "street": "Airport Rd",
+      "unit_type": false,
+      "unit_number": false,
+      "county": "Lehigh County",
+      "country": "US",
+      "source": "TIGER/Line® dataset from the US Census Bureau"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.428384,
+        40.656446
+      ]
+    }
+  }
+]

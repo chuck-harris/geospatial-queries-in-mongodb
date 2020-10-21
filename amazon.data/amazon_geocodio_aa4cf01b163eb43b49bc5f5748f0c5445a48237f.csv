@@ -1,0 +1,689 @@
+State,Code,Type,Address,City,State,Zip,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+Alabama,BHM1,FC,"975 Powder Plant Road"," Bessemer",AL,35022,33.376421,-87.007727,1,rooftop,975,"Powder Plant Rd",,,Bessemer,AL,"Jefferson County",35022,US,Jefferson
+Arizona,PHX3,FC,"6835 W. Buckeye Rd.",Phoenix,AZ,,33.433218,-112.206616,1,rooftop,6835,"W Buckeye Rd",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,PHX5,FC,"16920 W. Commerce Drive"," Goodyear",AZ,85338,33.412041,-112.421795,1,rooftop,16920,"W Commerce Dr",,,Goodyear,AZ,"Maricopa County",85338,US,Maricopa
+Arizona,PHX6,FC,"4750 W. Mohave Street"," Phoenix",AZ,85043,33.434617,-112.167223,1,rooftop,4750,"W Mohave St",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,PHX7,FC,"800 N. 75th Avenue"," Phoenix",AZ,85043,33.457008,-112.225361,1,rooftop,800,"N 75th Ave",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,TFC1,FC,"5050 W. Mohave Street"," Phoenix",AZ,85043,33.431244,-112.15928,1,range_interpolation,5050,"W Mohave St",,,Phoenix,AZ,"Maricopa County",85043,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,PHX9,FC,"777 S 79th Avenue"," Tolleson",AZ,85353,33.45004,-112.25932,0.33,place,,,,,Tolleson,AZ,"Maricopa County",85353,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,TUS1,FC,"5333 West Lower Buckeye Rd"," Phoenix",AZ,85043,33.420965,-112.175717,1,rooftop,5333,"W Lower Buckeye Rd",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,TUS2,FC,"6701 S. Kolb Rd."," Tuscon",AZ,85043,33.419152,-112.229971,0.5,street_center,,"W Globe Ave",,,Phoenix,AZ,"Maricopa County",85043,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,AZA4,FC,"3333 S 59th Ave",Phoenix,AZ,85043,33.417057,-112.184309,1,rooftop,3333,"S 59th Ave",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,GYR3,FC,"8181 W Roosevelt St",Phoenix,AZ,85043,33.458269,-112.233432,1,range_interpolation,8181,"W Roosevelt St",,,Phoenix,AZ,"Maricopa County",85043,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,GYR4,FC,"10205 W Roosevelt St",Avondale,AZ,85323,33.452455,-112.317025,0.6,street_center,,"W Roosevelt St",,,Avondale,AZ,"Maricopa County",85323,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,-,FC,"3809 E Watkins St",Phoenix,AZ,85034,33.423478,-111.998535,1,rooftop,3809,"E Watkins St",,,Phoenix,AZ,"Maricopa County",85034,US,Maricopa
+Arizona,XUSH,FC,"7037 West Van Buren St",Phoenix,AZ,85043,33.450089,-112.21008,1,rooftop,7037,"W Van Buren St",,,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+California,SNA4,FC,"2496 W Walnut St.",Rialto,CA,92376,34.131296,-117.425356,0.69,nearest_rooftop_match,2510,"W Walnut Ave",,,Rialto,CA,"San Bernardino County",92376,US,"San Bernardino County"
+California,SNA6,FC,"5250 Goodman Road"," Eastvale",CA,92880,33.772959,-116.279138,0.5,street_center,,"Goodman Rd",,,Indio,CA,"Riverside County",92203,US,"TIGER/Line® dataset from the US Census Bureau"
+California,SNA7/8,FC,"555 East Orange Show Rd.","San Benardino",CA,92408,34.079577,-117.276069,1,range_interpolation,555,"E Orange Show Rd",,,"San Bernardino",CA,"San Bernardino County",92408,US,"TIGER/Line® dataset from the US Census Bureau"
+California,SNA9,FC,"5250 Goodman Road"," Eastvale",CA,92880,33.772959,-116.279138,0.5,street_center,,"Goodman Rd",,,Indio,CA,"Riverside County",92203,US,"TIGER/Line® dataset from the US Census Bureau"
+California,SJC7,FC,"188 Mountain House Pkwy"," Tracy",CA,95391,37.77539,-121.578931,0.52,street_center,,"Mountain House Rd",,,Tracy,CA,"Alameda County",95391,US,"TIGER/Line® dataset from the US Census Bureau"
+California,ONT2/5/7,SC,"2020 E Central Avenue","San Benardino",CA,,0,0,0,,,,,,,,,,,
+California,ONT6,FC,"24208 San Michele"," Moreno Valley",CA,92551,33.871059,-117.235499,1,rooftop,24208,"San Michele Rd",,,"Moreno Valley",CA,"Riverside County",92551,US,Riverside
+California,ONT9,FC,"2125 W San Bernardino Ave"," Redlands",CA,,34.075731,-117.228357,1,rooftop,2125,"W San Bernardino Ave",,,Redlands,CA,"San Bernardino County",92374,US,"San Bernardino County"
+California,OAK3,FC,"255 Park Center Drive"," Patterson City",CA,95363-8876,37.46985,-121.165345,1,rooftop,255,"Park Center Dr",,,Patterson,CA,"Stanislaus County",95363,US,"Stanislaus County"
+California,OAK4,FC,"1555 N. Chrisman Road"," Tracy",CA,95304-9370,37.745664,-121.406031,0.9,rooftop,1555,"N Chrisman Rd",,,Tracy,CA,"San Joaquin County",95376,US,"San Joaquin County"
+California,OAK5,SC,"38811 Cherry Street"," Newark",CA,94560,37.51982,-122.01448,1,rooftop,38811,"Cherry St",,,Newark,CA,"Alameda County",94560,US,"Alameda County"
+California,XUSD,FC,"1909 Zephyr Street"," Stockton",CA,95206,37.918005,-121.251009,1,rooftop,1909,"Zephyr St",,,Stockton,CA,"San Joaquin County",95206,US,"San Joaquin County"
+California,LGB3,FC,"4590 Goodman Way",Eastvale,CA,,0,0,0,,,,,,,,,,,
+California,LGB4,FC,"27517 Pioneer Ave"," Redlands",CA,92374,34.079775,-117.204246,1,rooftop,27517,"Pioneer Ave",,,Redlands,CA,"San Bernardino County",92374,US,"San Bernardino County"
+California,LGB6,FC,"20901 Krameria Ave"," Riverside",CA,92518-1513,33.878801,-117.299954,1,rooftop,20901,"Krameria Ave",,,"March Air Reserve Base",CA,"Riverside County",92518,US,Riverside
+California,SMF1,FC,"4900 W Elkhorn Blvd",Sacramento,CA,,38.681913,-121.574327,1,rooftop,4900,"W Elkhorn Blvd",,,Sacramento,CA,"Sacramento County",95835,US,"Secramento County"
+California,SNA7,FC,"555 East Orange Show Rd.","San Benardino",CA,92408,34.079577,-117.276069,1,range_interpolation,555,"E Orange Show Rd",,,"San Bernardino",CA,"San Bernardino County",92408,US,"TIGER/Line® dataset from the US Census Bureau"
+California,OAK6,FC,"38811 Cherry Street"," Newark",California,,37.51982,-122.01448,1,rooftop,38811,"Cherry St",,,Newark,CA,"Alameda County",94560,US,"Alameda County"
+California,ONT8,FC,"24300 Nandina Ave."," Moreno Valley",California,,33.86823,-117.237066,1,rooftop,24300,"Nandina Ave",,,"Moreno Valley",CA,"Riverside County",92551,US,Riverside
+California,LGB8,FC,"1568 N Linden Ave"," Rialto",CA,92376,34.129602,-117.405381,1,rooftop,1568,"N Linden Ave",,,Rialto,CA,"San Bernardino County",92376,US,"San Bernardino County"
+Colorado,DEN5,SC,"19799 E 36th Dr"," Aurora",CO,80011,39.767183,-104.75573,1,rooftop,19799,"E 36th Dr",,,Aurora,CO,"Adams County",80011,US,"City of Aurora"
+Colorado,DEN2,FC,"24006 East 19th Avenue"," Aurora",CO,80019-3705,39.742413,-104.707725,1,rooftop,24006,"E 19th Ave",,,Aurora,CO,"Adams County",80019,US,"City of Aurora"
+Colorado,DEN6,FC,"480 E 55th Ave"," Denver",CO,80216,39.796353,-104.98001,1,range_interpolation,480,"E 55th Ave",,,Denver,CO,"Adams County",80216,US,"TIGER/Line® dataset from the US Census Bureau"
+Colorado,DEN3,FC,"14601 Grant St",Thorton,CO,80023,39.960868,-104.984299,1,rooftop,14601,"Grant St",,,Thornton,CO,"Adams County",80023,US,"City of Thornton"
+Colorado,-,FC,"4222 Integration Loop","Colorado Springs",CO,80916,38.81033,-104.718555,0.3,place,,,,,"Colorado Springs",CO,"El Paso County",80916,US,"TIGER/Line® dataset from the US Census Bureau"
+Connecticut,BDL1,FC,"801 Day Hill Road",Windsor,CT,06095,41.873602,-72.707537,1,rooftop,801,"Day Hill Rd",,,Windsor,CT,"Hartford County",06095,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,BDL5,SC,"29 Research Parkway"," Wallingford",CT,06492,41.494838,-72.763126,0.81,nearest_rooftop_match,25,"Research Pkwy",,,Wallingford,CT,"New Haven County",06492,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,BDL2,FC,"200 Old Iron Ore Rd",Windsor,CT,06095,41.878969,-72.705135,1,range_interpolation,200,"Old Iron Ore Rd",,,Windsor,CT,"Hartford County",06095,US,"TIGER/Line® dataset from the US Census Bureau"
+Connecticut,BDL3,FC,"415 Washington Ave","North Haven",CT,06473,41.409431,-72.843845,1,range_interpolation,415,"Washington Ave",,,"North Haven",CT,"New Haven County",06473,US,"TIGER/Line® dataset from the US Census Bureau"
+Connecticut,BDL6,FC,"120 County Line Dr",Cromwell,CT,06416,41.631763,-72.681151,0.74,nearest_rooftop_match,80,"County Line Dr",,,Cromwell,CT,"Middlesex County",06416,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,"Featured Prep Service",,,Berlin,CT,,0,0,0,,,,,,,,,,,
+Delaware,PHL1,FC,"1 Centerpoint Boulevard"," New Castle",DE,19720,39.663984,-75.590233,1,rooftop,1,"Centerpoint Blvd",,,"Historic New Castle",DE,"New Castle County",19720,US,"New Castle"
+Delaware,PHL3,FC,"1600 Johnson Way"," New Castle",DE,19720,39.659034,-75.589683,1,rooftop,1600,"Johnson Way",,,"Historic New Castle",DE,"New Castle County",19720,US,"New Castle"
+Delaware,PHL7,FC,"560 Merrimac Avenue"," Middletown",DE,19709-4652,39.438652,-75.73318,1,rooftop,560,"Merrimac Ave",,,Middletown,DE,"New Castle County",19709,US,"New Castle"
+Delaware,PHL8,FC,"727 N. Broad Street"," Middletown",DE,19709-1166,39.459351,-75.717506,1,rooftop,727,"N Broad St",,,Middletown,DE,"New Castle County",19709,US,"New Castle"
+Delaware,,FC,"1025 Boxwood Rd",Wilmington,DE,19804,39.725791,-75.61497,1,range_interpolation,1025,"Boxwood Rd",,,Wilmington,DE,"New Castle County",19804,US,"TIGER/Line® dataset from the US Census Bureau"
+Delaware,"FBA Prep Service",,,Wilmington,DE,,39.727113,-75.547844,1,place,,,,,Wilmington,DE,"New Castle County",19801,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,TPA1,FC,"3350 Laurel Ridge Ave"," Ruskin",FL,33570,27.726978,-82.387839,1,rooftop,3350,"Laurel Ridge Ave",,,Ruskin,FL,"Hillsborough County",33570,US,Statewide2
+Florida,TPA2,FC,"1760 County Line Road"," Lakeland",FL,33811,28.020258,-82.053916,1,rooftop,1760,"County Line Rd",,,Lakeland,FL,"Polk County",33811,US,Polk
+Florida,TPA3,FC,"576 C Fred Jones Blvd",Auburndale,FL,33823,28.153646,-81.818129,0.52,nearest_rooftop_match,676,"C Fred Jones Blvd",,,Auburndale,FL,"Polk County",33823,US,"MapWise (and individual Florida counties)"
+Florida,TPA6,FC,"3400 NW 35th Ave Rd",Ocala,FL,34475,29.226909,-82.182185,0.78,rooftop,3400,"NW 35th Street Rd",,,Ocala,FL,"Marion County",34475,US,Marion
+Florida,XUSF,FC,"901 W Landstreet Rd, Suite C",Orlando,FL,32824,28.437593,-81.391905,1,rooftop,901,"W Landstreet Rd",Ste,,Orlando,FL,"Orange County",32824,US,"Orange County"
+Florida,MIA1,FC,"14000 NW 37th Ave",Opalocka,FL,33054,25.899878,-80.261039,1,rooftop,14000,"NW 37th Ave",,,"Opa Locka",FL,"Miami-Dade County",33054,US,"Miami-Dade County"
+Florida,MCO1,FC,"12340 Boggy Creek Rd","Lake Nona",FL,32824,28.38521,-81.315277,1,rooftop,12340,"Boggy Creek Rd",,,Orlando,FL,"Orange County",32824,US,"Orange County"
+Florida,MCO2,FC,"2600 N Normandy Blvd",Deltona,FL,32725,28.940487,-81.257601,1,rooftop,2600,"N Normandy Blvd",,,Deltona,FL,"Volusia County",32725,US,"Volusia County"
+Florida,MCO9,FC,"2841 Access Dr",Davenport,FL,33897,28.228907,-81.659272,0.9,rooftop,2841,"Access Rd NW",,,Davenport,FL,"Polk County",33897,US,Polk
+Florida,,FC,"13200 Southwest 272nd St",Homestead,FL,33032,25.512661,-80.402819,1,rooftop,13200,"SW 272nd St",,,Homestead,FL,"Miami-Dade County",33032,US,"Miami-Dade County"
+Florida,PFL2,FC,"8060 State Rd 33 N",Jupiter,FL,33478,26.935021,-80.246071,0.33,place,,,,,Jupiter,FL,"Palm Beach County",33478,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,,FC,"4490 Corporate Rd North",Jupiter,FL,33478,26.908251,-80.274235,0.6,street_center,,"Corporate Rd N",,,Jupiter,FL,"Palm Beach County",33478,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,MIA1/5,SC,"1900 NW 132nd Place"," Doral",FL,,0,0,0,,,,,,,,,,,
+Florida,MCO1/5,SC,"205 Deen Still Road"," Davenport",FL,33897,28.259312,-81.698697,0.9,range_interpolation,205,"Deen Still Rd",,,Davenport,FL,"Polk County",33897,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,JAX2,FC,"12900 Pecan Park Rd."," Jacksonville",FL,32218-2432,30.46524,-81.679631,1,rooftop,12900,"Pecan Park Rd",,,Jacksonville,FL,"Duval County",32218,US,Duval
+Florida,JAX3,FC,"13333 103rd St. Cecil Commerce Center"," Jacksonville",FL,32221-8686,30.247873,-81.863811,1,rooftop,13333,"103rd St",,,Jacksonville,FL,"Duval County",32221,US,Duval
+Florida,JAX5,SC,"4948 Bulls Bay Hwy"," Jacksonville",FL,32219-3235,30.385114,-81.788631,1,rooftop,4948,"Bulls Bay Hwy",,,Jacksonville,FL,"Duval County",32219,US,Duval
+Florida,JAX7,FC,"10501 Cold Storage Rd #500 Building E",Jacksonville,FL,32725,30.430873,-81.626852,0.9,rooftop,10501,"Cold Storage Rd",#,500,Jacksonville,FL,"Duval County",32218,US,Duval
+Florida,"FBA Prep Service",,,Sunrise,FL,,26.151416,-80.226211,0.8,place,,,,,Sunrise,FL,"Broward County",33313,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,ATL6,SC,"4200 North Commerce"," Atlanta",GA,30344-5707,33.643547,-84.500138,0.9,rooftop,4200,"N Commerce Dr",,,Atlanta,GA,"Fulton County",30349,US,"Fulton County"
+Georgia,ATL8,SC,"2201 Thornton Rd."," Lithia Springs",GA,30122,33.744464,-84.59262,1,rooftop,2201,"Thornton Rd",,,"Lithia Springs",GA,"Douglas County",30122,US,Douglas
+Georgia,ATL7,FC,"6855 Shannon Pkwy"," Union City",GA,30291-2091,33.568769,-84.539411,1,range_interpolation,6855,"Shannon Pkwy",,,"Union City",GA,"Fulton County",30291,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,MGE1,FC,"650 Broadway Ave"," Braselton",GA,30517-3002,34.107423,-83.774382,1,rooftop,650,"Broadway Ave",,,Braselton,GA,"Jackson County",30517,US,Jackson
+Georgia,MGE3,FC,"808 Hog Mountain Rd.",Jefferson,GA,,34.159525,-83.627882,1,rooftop,808,"Hog Mountain Rd",,,Jefferson,GA,"Jackson County",30549,US,Jackson
+Georgia,ATL2,FC,"2255 W Park Blvd","Stone Mountain",GA,30087,33.812174,-84.114633,0.7,rooftop,2255,"W Park Place Blvd",,,"Stone Mountain",GA,"Gwinnett County",30087,US,Gwinnett
+Georgia,,FC,"5000 Lanier Islands Pkwy",Buford,GA,30518,34.143702,-83.959672,1,rooftop,5000,"Lanier Islands Pkwy",,,Buford,GA,"Hall County",30518,US,Hall
+Georgia,,FC,"700 Innovation Pkwy",Appling,GA,30802,33.506592,-82.324225,0.61,nearest_rooftop_match,755,"Innovation Pkwy",,,Appling,GA,"Columbia County",30802,US,Columbia
+Georgia,,FC,"7055 Campbellton Rd",Atlanta,GA,30331,33.693574,-84.616895,0.9,rooftop,7055,"Campbellton Rd SW",,,Atlanta,GA,"Fulton County",30331,US,"Fulton County"
+Georgia,,FC,"5705 Campbellton-Fairburn Rd","Union City",GA,30213,33.602484,-84.607252,1,rooftop,5705,"Campbellton Fairburn Rd",,,Fairburn,GA,"Fulton County",30213,US,"Fulton County"
+Georgia,PGA1,FC,"429 Troy Wright Rd",Pendergrass,GA,30567,34.16233,-83.67795,0.33,place,,,,,Pendergrass,GA,"Jackson County",30567,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,MGE8,FC,"4905 Derrick Rd",Atlanta,GA,30349,33.623679,-84.585034,1,rooftop,4905,"Derrick Rd",,,Atlanta,GA,"Fulton County",30349,US,"Fulton County"
+Georgia,PGA1,FC,"6200 Fulton Industrial Blvd",Atlanta,GA,30336,33.710334,-84.586957,0.9,rooftop,6200,"Fulton Industrial Blvd SW",,,Atlanta,GA,"Fulton County",30336,US,"Fulton County"
+Georgia,SAV3,FC,"7001 Skipper Rd",Macon,GA,31216,32.718359,-83.723124,1,range_interpolation,7001,"Skipper Rd",,,Macon,GA,"Bibb County",31216,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,CSG1,FC,"280 Bridgeport Blvd",Newnan,GA,30263,33.369595,-84.819397,0.33,place,,,,,Newnan,GA,"Coweta County",30263,US,"TIGER/Line® dataset from the US Census Bureau"
+Idaho,BOI2,FC,"5295 East Franklin Rd",Nampa,ID,83687,43.604856,-116.49898,1,range_interpolation,5295,"E Franklin Rd",,,Nampa,ID,"Canyon County",83687,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,MDW2,FC,"401 E Laraway Road"," Joliet",IL,60433,41.483988,-88.070248,1,rooftop,401,"E Laraway Rd",,,Joliet,IL,"Will County",60433,US,Will
+Illinois,MDW4,FC,"201 Emerald Drive"," Joliet",IL,60433,41.486207,-88.075339,1,rooftop,201,"Emerald Dr",,,Joliet,IL,"Will County",60433,US,Will
+Illinois,STL4,FC,"3050 Gateway Commerce Center Drive South"," Edwardsville",IL,62025,38.76934,-90.067119,0.5,street_center,,"Gateway Commerce Center Dr W",,,Edwardsville,IL,"Madison County",62025,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,STL6,FC,"3931 Lakeview Corporate Drive"," Edwardsville",IL,62025,38.798342,-90.076605,0.5,street_center,,"Lakeview Corporate Dr",,,"South Roxana",IL,"Madison County",62087,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,MDW7,FC,"6605 W Monee Manhattan Road"," Monee",IL,60449,41.424958,-87.772327,1,rooftop,6605,"W Monee-Manhattan Rd",,,Monee,IL,"Will County",60449,US,Will
+Illinois,MDW8,FC,"1750 Bridge Dr."," Waukegan",IL,60085-3004,42.328484,-87.902925,1,rooftop,1750,"Bridge Dr",,,Waukegan,IL,"Lake County",60085,US,Lake
+Illinois,MDW9,FC,"2865 Duke Parkway"," Aurora",IL,60502-9551,41.815017,-88.212762,1,rooftop,2865,"Duke Pkwy",,,Aurora,IL,"DuPage County",60502,US,"City of Aurora"
+Illinois,MDW6,FC,"1125 W Remington Blvd"," Romeoville",IL,60556,41.674218,-88.115665,0.9,rooftop,1125,"W Remington Blvd",,,Romeoville,IL,"Will County",60446,US,Will
+Illinois,ORD2,FC,"23714 W. Amoco Rd",Channahon,IL,60410,41.43313,-88.199325,0.33,place,,,,,Channahon,IL,"Will County",60410,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,ORD4,FC,"25810 S. Ridgeland Ave",Monee,IL,60449,41.422109,-87.767959,1,rooftop,25810,"S Ridgeland Ave",,,Monee,IL,"Will County",60449,US,Will
+Illinois,HMW1,FC,"30260 Graaskamp Blvd",Wilmington,IL,60481,41.337265,-88.206639,0.9,rooftop,30260,"S Graaskamp Blvd",,,Wilmington,IL,"Will County",60481,US,Will
+Illinois,,FC,"7001 Vollmer Road",Matteson,IL,60423,41.527908,-87.785751,0.9,range_interpolation,7001,"Vollmer Rd",,,Matteson,IL,"Cook County",60443,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,,FC,"15924 Western Ave",Markham,IL,60428,41.599704,-87.675588,1,rooftop,15924,"Western Ave",,,Markham,IL,"Cook County",60428,US,Cook
+Indiana,XUSE,FC,"5100 S Indianapolis Road"," Whitestown",IN,46075,39.965915,-86.381722,0.7,range_interpolation,5100,"Indianapolis Rd",,,Whitestown,IN,"Boone County",46075,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,XUSE,FC,"5460 Industrial Court #300",Whitestown,IN,46075,40.022608,-86.346179,0.33,place,,,,,Whitestown,IN,"Boone County",46075,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,IND1,FC,"4255 Anson Boulevard"," Whitestown",IN,46075,40.022608,-86.346179,0.33,place,,,,,Whitestown,IN,"Boone County",46075,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,IND2,FC,"715 Airtech Parkway"," Plainfield",IN,46168,39.698248,-86.348666,0.72,nearest_rooftop_match,716,"Airtech Pkwy",,,Plainfield,IN,"Hendricks County",46168,US,Statewide
+Indiana,IND3,FC,"717 Airtech Parkway"," Plainfield",IN,46168,39.698248,-86.348666,0.72,nearest_rooftop_match,716,"Airtech Pkwy",,,Plainfield,IN,"Hendricks County",46168,US,Statewide
+Indiana,IND4,FC,"710 South Girls School Road"," Indianapolis",IN,46214,39.755392,-86.29286,0.9,rooftop,710,"S Girls School Rd",,,Indianapolis,IN,"Marion County",46231,US,Statewide
+Indiana,IND5,FC,"800 S Perry Road"," Plainfield",IN,46168,39.694918,-86.358369,1,rooftop,800,"S Perry Rd",,,Plainfield,IN,"Hendricks County",46168,US,Statewide
+Indiana,IND6,FC,"1453 10th Street"," Jeffersonville",IN,47130,38.289297,-85.728727,1,range_interpolation,1453,"State Rd 62",,,Jeffersonville,IN,"Clark County",47130,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,IND7,FC,"9101 Orly Dr"," Indianapolis",IN,46241,39.674849,-86.325764,0.9,rooftop,9101,"Orly Rd",,,Indianapolis,IN,"Marion County",46231,US,Statewide
+Indiana,SDF8,FC,"900 Patrol Road"," Jeffersonville",IN,47130,38.3789,-85.687152,1,rooftop,900,"Patrol Rd",,,Jeffersonville,IN,"Clark County",47130,US,Statewide
+Indiana,"FBA Prep Service","FBA Indiana Prep",,Portland,IN,,40.431634,-84.983015,1,place,,,,,Portland,IN,"Jay County",47371,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,MQJ2,FC,"19 Bob Glidden Blvd",Whiteland,IN,46184,39.55005,-86.07971,0.33,place,,,,,Whiteland,IN,"Johnson County",46184,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,PIN1,FC,"5510 Exploration Dr",Indianapolis,IN,46241,39.685459,-86.310168,0.55,nearest_rooftop_match,5425,"Exploration Dr",,,Indianapolis,IN,"Marion County",46241,US,Statewide
+Iowa,DSM5,FC,"500 SW 32nd St","Des Moines",IA,50035,41.580255,-93.553992,0.9,range_interpolation,500,"SW 32nd St",,,"Des Moines",IA,"Polk County",50317,US,"TIGER/Line® dataset from the US Census Bureau"
+Kansas,MCI1,FC,"113th Street and Renner Boulevard"," Lenexa",KS,,38.927392,-94.779431,0.29,intersection,,"Renner Blvd",,,"Shawnee Mission",KS,"Johnson County",66219,US,"TIGER/Line® dataset from the US Census Bureau"
+Kansas,MKC4,FC,"19535 Waverly Road"," Edgerton",KS,66021-9588,38.764665,-94.946033,0.6,street_center,,"Waverly Rd",,,Edgerton,KS,"Johnson County",66021,US,"TIGER/Line® dataset from the US Census Bureau"
+Kansas,MCI5,SC,"16851 W 113th Street"," Lenexa",KS,66219,38.921255,-94.782513,1,rooftop,16851,"W 113th St",,,Lenexa,KS,"Johnson County",66219,US,"City of Lenexa"
+Kansas,MKC6,FC,"6925 Riverview Ave."," Kansas City",KS,66102,39.098489,-94.739424,1,rooftop,6925,"Riverview Ave",,,"Kansas City",KS,"Wyandotte County",66102,US,Statewide
+Kansas,TUL1,FC,"2654 N US Highway 169",Coffeyville,KS,67337,37.10274,-95.581896,1,rooftop,2654,"Hwy 169",,,Coffeyville,KS,"Montgomery County",67337,US,Statewide
+Kentucky,SDF1,FC,"1105 S Columbia Avenue"," Campbellsville",KY,42718,37.327963,-85.351697,1,range_interpolation,1105,"S Columbia Ave",,,Campbellsville,KY,"Taylor County",42718,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,SDF2,FC,"4360 Robards Lane"," Louisville",KY,40218,38.195148,-85.692734,1,rooftop,4360,"Robards Ln",,,Louisville,KY,"Jefferson County",40218,US,"Metro Louisville,  LOJIC partners"
+Kentucky,CVG1,FC,"1155 Worldwide Blvd.",Hebron,KY,41048,39.084801,-84.724595,1,range_interpolation,1155,"Worldwide Blvd",,,Hebron,KY,"Boone County",41048,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,CVG2,FC,"1600 Worldwide Blvd.",Hebron,KY,41048,39.086953,-84.728675,1,range_interpolation,1600,"Worldwide Blvd",,,Hebron,KY,"Boone County",41048,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,CVG3,FC,"3680 Langley Drive"," Hebron",KY,41048,39.056466,-84.711427,0.9,range_interpolation,3680,"Langly Dr",,,Hebron,KY,"Boone County",41048,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,CVG5/7,SC," 2285 Litton Lane"," Hebron",KY,41048,39.077018,-84.717271,1,range_interpolation,2285,"Litton Ln",,,Hebron,KY,"Boone County",41048,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,LEX1,FC,"1850 Mercer Road"," Lexington",KY,40511,38.077236,-84.532864,1,rooftop,1850,"Mercer Rd",,,Lexington,KY,"Fayette County",40511,US,"Lexington Fayette"
+Kentucky,LEX2,FC,"172 Trade Street"," Lexington",KY,40511,38.074574,-84.548615,1,rooftop,172,"Trade St",,,Lexington,KY,"Fayette County",40511,US,"Lexington Fayette"
+Kentucky,LEX5,FC,"4600 Olympic Blvd",Erlanger,KY,40511,39.043288,-84.618211,0.72,nearest_rooftop_match,4598,"Olympic Blvd",,,Erlanger,KY,"Kenton County",41018,US,Kenton
+Kentucky,SDF4,FC,"376 Zappos.com Boulevard"," Shepherdesville",KY,40165,37.959505,-85.704609,0.33,place,,,,,Shepherdsville,KY,"Bullitt County",40165,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,SDF6,FC,"271 Omega Parkway"," Shepherdsville",KY,40165,37.959505,-85.704609,0.33,place,,,,,Shepherdsville,KY,"Bullitt County",40165,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,SDF7,FC,"300 Omicron Court"," Shepherdsville",KY,40165,37.959505,-85.704609,0.33,place,,,,,Shepherdsville,KY,"Bullitt County",40165,US,"TIGER/Line® dataset from the US Census Bureau"
+Kentucky,SDF9,FC,"100 W. Thomas P. Echols Lane"," Shepherdsville",KY,40165,37.959505,-85.704609,0.33,place,,,,,Shepherdsville,KY,"Bullitt County",40165,US,"TIGER/Line® dataset from the US Census Bureau"
+Louisiana,,FC,"9441 Cortana Place","Baton Rouge",LA,70815,30.460892,-91.093225,1,range_interpolation,9441,"Cortana Pl",,,"Baton Rouge",LA,"East Baton Rouge Parish",70815,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,BWI1,FC,"2010 Broening Highway"," Baltimore",MD,21224,39.267846,-76.548828,1,rooftop,2010,"Broening Hwy",,,Baltimore,MD,"Baltimore city",21224,US,Statewide
+Maryland,BWI2,FC,"5001 Holabird Avenue"," Baltimore",MD,21224,39.271614,-76.552116,1,range_interpolation,5001,"Holabird Ave",,,Baltimore,MD,"Baltimore city",21224,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,BWI5,SC,"5501 Holabird Avenue"," Baltimore",MD,21224,39.271821,-76.547055,1,range_interpolation,5501,"Holabird Ave",,,Baltimore,MD,"Baltimore city",21224,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,MDT2,FC,"600 Principio Parkway West"," North East",MD,21901-2914,39.594857,-76.003156,1,rooftop,600,"Principio Pkwy W",,,"North East",MD,"Cecil County",21901,US,Cecil
+Maryland,DCA1,FC,"1700 Sparrows Point Blvd",Dundalk,MD,21219,39.222497,-76.469091,0.7,range_interpolation,1700,"State Hwy 151",,,"Sparrows Point",MD,"Baltimore County",21219,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,DCA6,FC,"6001 Bethlehem Blvd",Edgemere,MD,21219,39.236049,-76.491877,0.78,nearest_rooftop_match,6021,"Bethlehem Blvd",,,"Sparrows Point",MD,"Baltimore County",21219,US,Baltimore
+Maryland,XUSP/HBA1,FC,"1100 Woodley Rd",Aberdeen,MD,21001,39.499909,-76.231177,0.33,place,,,,,Aberdeen,MD,"Harford County",21001,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,HSE1,FC,"13905 Crayton Blvd",Hagerstown,MD,21742,39.689684,-77.730422,0.6,street_center,,"Crayton Blvd",,,Hagerstown,MD,"Washington County",21742,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,MTN9,FC,"5300 Nottingham Dr","White Marsh",MD,21236,39.374967,-76.446844,1,rooftop,5300,"Nottingham Dr",,,Nottingham,MD,"Baltimore County",21236,US,Statewide
+Massachusetts,BOS5,SC,"1000 Tech Center Drive"," Stoughton",MA,02072,42.118416,-71.105733,0.33,place,,,,,Stoughton,MA,"Norfolk County",02072,US,"TIGER/Line® dataset from the US Census Bureau"
+Massachusetts,BOS7,FC,"1180 Innovation Way"," Fall River",MA,02722,41.761721,-71.099637,0.9,rooftop,1180,"Innovation Way",,,"Fall River",MA,"Bristol County",02720,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,,FC,"1600 Osgood St","North Andover",MA,01845,42.730998,-71.116361,1,rooftop,1600,"Osgood St",,,"North Andover",MA,"Essex County",01845,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Michigan,DTW5,SC,"19991 Brownstown Center Dr"," Brownstown Charter Twp",MI,48183,42.159635,-83.238271,1,rooftop,19991,"Brownstown Center Dr",,,Trenton,MI,"Wayne County",48183,US,Semcog
+Michigan,DET1,FC,"39000 Amrhein Rd"," Livonia",MI,48150,42.374408,-83.428342,1,range_interpolation,39000,"Amrhein Rd",,,Livonia,MI,"Wayne County",48150,US,"TIGER/Line® dataset from the US Census Bureau"
+Michigan,DET2,FC,"50500 Mound Rd","Shelby Township",MI,48317,42.666239,-83.049924,1,rooftop,50500,"Mound Rd",,,"Shelby Township",MI,"Macomb County",48317,US,Macomb
+Michigan,DTW1,FC,"32801 Ecorse Rd",Romulus,MI,48174,42.252684,-83.362027,1,range_interpolation,32801,"Ecorse Rd",,,Romulus,MI,"Wayne County",48174,US,"TIGER/Line® dataset from the US Census Bureau"
+Michigan,GRR1,FC,"4500 68th St SE",Caledonia,MI,49316,42.839779,-85.550942,1,rooftop,4500,"68th St SE",,,Caledonia,MI,"Kent County",49316,US,Kent
+Michigan,,FC,"1200 Featherstone Rd",Pontiac,MI,48342,42.642572,-83.255793,1,rooftop,1200,"Featherstone Rd",,,Pontiac,MI,"Oakland County",48342,US,Semcog
+Michigan,"FBA Prep Service",,,Oxford,MI,,42.840328,-83.200206,1,place,,,,,Oxford,MI,"Oakland County",48370,US,"TIGER/Line® dataset from the US Census Bureau"
+Michigan,"FBA Prep Service",,,Lapeer,MI,,43.121459,-83.319558,1,place,,,,,Lapeer,MI,"Lapeer County",48446,US,"TIGER/Line® dataset from the US Census Bureau"
+Minnesota,MSP1,FC,"2601 4th Avenue East"," Shakopee",MN,55379,44.800616,-93.488595,1,rooftop,2601,"4th Ave E",,,Shakopee,MN,"Scott County",55379,US,Scott
+Minnesota,MSP5,SC,"5825 11th Avenue East"," Shakopee",MN,55379,44.78835,-93.442779,1,rooftop,5825,"11th Ave E",,,Shakopee,MN,"Scott County",55379,US,Scott
+Missouri,STL8,FC,"4000 Premier Pkwy","St Peters",MO,63376,38.810592,-90.574254,1,rooftop,4000,"Premier Pkwy",,,"Saint Peters",MO,"St. Charles County",63376,US,"St Charles"
+Mississippi,MEM2,FC,"191 Norfolk Southern Way",Byhalia,MS,38611,34.87232,-89.69064,0.33,place,,,,,Byhalia,MS,"Marshall County",38611,US,"TIGER/Line® dataset from the US Census Bureau"
+Mississippi,MEM6,FC,"11505 Progress Way","Olive Branch",MS,38654,34.921172,-89.869062,0.33,place,,,,,"Olive Branch",MS,"DeSoto County",38654,US,"TIGER/Line® dataset from the US Census Bureau"
+Mississippi,PIL1,FC,"1615 Commerce Parkway N","Horn Lake",MS,38637,34.950609,-90.03355,0.33,place,,,,,"Horn Lake",MS,"DeSoto County",38637,US,"TIGER/Line® dataset from the US Census Bureau"
+Nevada,RNO4,FC,"8000 North Virginia Street"," Reno",NV,89506,39.603302,-119.847666,1,rooftop,8000,"N Virginia St",,,Reno,NV,"Washoe County",89506,US,Washoe
+Nevada,LAS2,FC,"3837 Bay Lake Trail #113","Las Vegas",NV,,36.2287,-115.105324,1,rooftop,3837,"Bay Lake Trl",Ste,113,"North Las Vegas",NV,"Clark County",89030,US,"Las Vegas"
+Nevada,LAS6,FC,"4550 Nexus Way"," North Las Vegas",NV,89115,36.266973,-115.074197,1,rooftop,4550,"Nexus Way",,,"Las Vegas",NV,"Clark County",89115,US,"Las Vegas"
+Nevada,RNO1,FC,"1600 East Newlands Dr.",Fernley,NV,89408,39.610927,-119.19277,1,range_interpolation,1600,"E Newlands Dr",,,Fernley,NV,"Lyon County",89408,US,"TIGER/Line® dataset from the US Census Bureau"
+Nevada,RNO2,FC,"8000 North Virginia Street"," Reno",NV,85906,39.603302,-119.847666,0.9,rooftop,8000,"N Virginia St",,,Reno,NV,"Washoe County",89506,US,Washoe
+Nevada,LAS7,FC,"6001 E Tropical Parkway","North Las Vega",NV,89115,36.269357,-115.030218,0.6,street_center,,"E Tropical Pkwy",,,"Las Vegas",NV,"Clark County",89115,US,"TIGER/Line® dataset from the US Census Bureau"
+Nevada,LAS8,FC,"5801 N Nicco Way","Las Vegas",NV,89115,36.267813,-115.049015,0.8,rooftop,5801,"Nicco Way",,,"Nellis Afb",NV,"Clark County",89191,US,Clark
+Nevada,IVSE,FC,"2951 Marion Dr #101","North Las Vega",NV,89115,36.213534,-115.073432,1,rooftop,2951,"Marion Dr",Unit,101,"Las Vegas",NV,"Clark County",89115,US,"Las Vegas"
+Nevada,IVSF,FC,"2921 Marion Dr #109","North Las Vega",NV,89115,36.212803,-115.071288,1,range_interpolation,2921,"Marion Dr",#,109,"Las Vegas",NV,"Clark County",89115,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Hampshire",BOS1,FC,"10 State Street"," Nashua",NH,03063,42.791974,-71.529443,1,rooftop,10,"State St",,,Nashua,NH,"Hillsborough County",03063,US,"City of Nashua"
+"New Hampshire","FBA Prep Service",,,Claremont,NH,,43.37674,-72.34676,1,place,,,,,Claremont,NH,"Sullivan County",03743,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",ACY5,SC,"2277 Center Square Road"," Swedesboro",NJ,,39.75274,-75.318049,1,place,,,,,Swedesboro,NJ,"Gloucester County",08085,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",EWR4,FC,"50 New Canton Way"," Robbinsville",NJ,08691,40.195609,-74.565267,1,rooftop,50,"New Canton Way",,,Robbinsville,NJ,"Mercer County",08691,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",EWR5,SC,"301 Blair Road #100"," Avenel",NJ,07001,40.573149,-74.25829,1,range_interpolation,301,"Blair Rd",Ste,100,Avenel,NJ,"Middlesex County",07001,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",EWR6,FC,"275 Omar Avenue"," Avenel",NJ,07001,40.582619,-74.257478,1,rooftop,275,"Omar Ave",,,Avenel,NJ,"Middlesex County",07001,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",EWR7,FC,"275 Omar Avenue"," Avenel",NJ,07001,40.582619,-74.257478,1,rooftop,275,"Omar Ave",,,Avenel,NJ,"Middlesex County",07001,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",EWR9,FC,"8003 Industrial Avenue"," Carteret",NJ,07008,40.596692,-74.226742,1,rooftop,8003,"Industrial Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",LGA7,FC,"380 Middlesex Avenue"," Carteret",NJ,07008,40.564059,-74.221066,1,rooftop,380,"Middlesex Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",LGA8,FC,"380 Middlesex Avenue"," Carteret",NJ,07008,40.564059,-74.221066,1,rooftop,380,"Middlesex Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",LGA6,FC,"8003 Industrial Ave. ",Carteret,NJ,07008,40.596692,-74.226742,1,rooftop,8003,"Industrial Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",LGA9,FC,"2170 State Route 27"," Edison",NJ,08817-3332,40.529204,-74.382838,1,rooftop,2170,"Lincoln Hwy",,,Edison,NJ,"Middlesex County",08817,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",TEB3,FC,"2651 Oldmans Creek Rd"," Swedesboro",NJ,,39.714562,-75.335813,0.6,street_center,,"Pedricktown Harrisonville Rd",,,Swedesboro,NJ,"Gloucester County",08085,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",TEB6,FC,"22 Highstown-Cranbury Station Road"," Cranbury Township",NJ,08512,40.323116,-74.516597,0.33,place,,,,,Cranbury,NJ,"Middlesex County",08512,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",ABE8,FC,"309 Cedar Lane"," Florence Township",NJ,08518,40.11803,-74.795966,0.87,range_interpolation,309,"Cedar St",,,Florence,NJ,"Burlington County",08518,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",EWR8,FC,"698 US-46"," Teterboro",NJ,07608,40.862529,-74.06002,1,range_interpolation,698,"US Rte 46",,,Teterboro,NJ,"Bergen County",07608,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",LGA5/HNE1,FC,"2205 State Route 27"," Edison",NJ,08817-3332,40.533251,-74.382064,1,rooftop,2205,"Lincoln Hwy",,,Edison,NJ,"Middlesex County",08817,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",ACY1,FC,"240 Mantua Grove Rd","West Deptford",NJ,08066,39.827613,-75.220539,1,range_interpolation,240,"Mantua Grove Rd",,,"West Deptford",NJ,"Gloucester County",08066,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",ACY2,FC,"1101 E Pearl St",Burlington,NJ,08016,40.083944,-74.84171,1,rooftop,1101,"E Pearl St",,,Burlington,NJ,"Burlington County",08016,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",TTN2,FC,"343 Half Acre Rd","Cranbury Township",NJ,08512,40.3156,-74.501031,1,range_interpolation,343,"Half Acre Rd",,,Cranbury,NJ,"Middlesex County",08512,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",IVSC,FC,"1225 Forest Pkwy","West Deptford",NJ,08066,39.828875,-75.213163,1,rooftop,1225,"Forest Pkwy",,,Paulsboro,NJ,"Gloucester County",08066,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",IVSD,FC,"800 Arlington Blvd",Swedesboro,NJ,08085,39.773677,-75.340142,1,rooftop,800,"Arlington Blvd",,,Swedesboro,NJ,"Gloucester County",08085,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",XUSQ,FC,"152 Route 206",Hillsborough,NJ,08844,40.537374,-74.623716,1,rooftop,152,"US Highway 206",,,Hillsborough,NJ,"Somerset County",08844,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey","FBA Prep Service",,,"West Orange",NJ,,40.789944,-74.22719,1,place,,,,,"West Orange",NJ,"Essex County",07052,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey","FBA Prep Service",,,"East Hanover",NJ,,40.816349,-74.367747,1,place,,,,,"East Hanover",NJ,"Morris County",07936,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Mexico",,FC,"12945 Comfort Way NW",Albuquerue,NM,87121,35.07343,-106.797768,0.74,nearest_rooftop_match,12907,"Comfort Way NW",,,Albuquerque,NM,"Bernalillo County",87121,US,Albuquerque
+"New York",BUF5,SC,"4201 Walden Avenue"," Lancaster",NY,14086,42.921329,-78.62462,1,rooftop,4201,"Walden Ave",,,Lancaster,NY,"Erie County",14086,US,Erie
+"New York",JFK8/DYY6,FC,"566 Gulf Ave","Staten Island",NY,10314,40.615876,-74.188077,1,rooftop,566,"Gulf Ave",,,"Staten Island",NY,"Richmond County",10314,US,"City of New York"
+"New York",ALB1,FC,"1835 US 9",Schodack,NY,12033,42.538505,-73.678308,0.9,range_interpolation,1835,"Us Hwy 9",,,Castleton-On-Hudson,NY,"Rensselaer County",12033,US,"TIGER/Line® dataset from the US Census Bureau"
+"New York","FBA Prep Service",,,Newburgh,NY,,41.539574,-74.057223,1,place,,,,,Newburgh,NY,"Orange County",12550,US,"TIGER/Line® dataset from the US Census Bureau"
+"North Carolina",CLT5,SC,"1745 Derita Road"," Concord",NC,28027,35.389719,-80.718882,1,range_interpolation,1745,"Derita Rd",,,Concord,NC,"Cabarrus County",28027,US,"TIGER/Line® dataset from the US Census Bureau"
+"North Carolina",RDU5,SC,"1805 TW Alexander Drive"," Durham",NC,27703,35.923119,-78.831287,1,rooftop,1805,"T W Alexander Dr",,,Durham,NC,"Durham County",27703,US,Durham
+"North Carolina",CLT2,FC,"10240 Old Dowd Rd"," Charlotte",NC,28214,35.245937,-80.996746,1,rooftop,10240,"Old Dowd Rd",,,Charlotte,NC,"Mecklenburg County",28214,US,Mecklenburg
+"North Carolina","FBA Prep Service",,,Newport,NC,,34.766818,-76.878174,1,place,,,,,Newport,NC,"Carteret County",28570,US,"TIGER/Line® dataset from the US Census Bureau"
+"North Carloina",CLT3,FC,"6500 Davidson Hwy",Concord,NC,28027,35.437409,-80.686778,1,rooftop,6500,"Davidson Hwy",,,Concord,NC,"Cabarrus County",28027,US,Cabarrus
+"North Carloina",CLT4,FC,"8000 Tuckaseegee Rd",Charlotte,NC,28214,35.244875,-80.964169,1,rooftop,8000,"Tuckaseegee Rd",,,Charlotte,NC,"Mecklenburg County",28214,US,Mecklenburg
+"North Carloina",CLT9,FC,"3620 Reeves Ridge Rd",Charlotte,NC,28214,35.261079,-80.984199,1,rooftop,3620,"Reeves Ridge Dr",,,Charlotte,NC,"Mecklenburg County",28214,US,Mecklenburg
+"North Carloina",GSO1,FC,"1656 Old Greensboro",Kernersville,NC,27284,36.105977,-80.021115,1,rooftop,1656,"Old Greensboro Rd",,,Kernersville,NC,"Guilford County",27284,US,Forsyth
+"North Carloina",RDU1,FC,"4851 Jones Sausage Rd",Garner,NC,27529,35.714803,-78.586903,1,rooftop,4851,"Jones Sausage Rd",,,Garner,NC,"Wake County",27529,US,Wake
+Ohio,CLE2,FC,"21500 Emery Road","North Randall",OH,44128,41.434977,-81.529829,1,range_interpolation,21500,"Emery Rd",,,Cleveland,OH,"Cuyahoga County",44128,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,CLE3,FC,"1155 Babbitt Rd",Euclid,OH,44132,41.592984,-81.511803,1,range_interpolation,1155,"Babbitt Rd",,,Euclid,OH,"Cuyahoga County",44132,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,CMH2,FC,"6050 Gateway Court",Groveport,OH,43125,39.848553,-82.932182,1,rooftop,6050,"Gateway Ct",,,Groveport,OH,"Franklin County",43125,US,"City of Columbus"
+Ohio,CMH3,FC,"700 Gateway Blvd",Monroe,OH,45050,39.448492,-84.374549,0.33,place,,,,,Monroe,OH,"Butler County",45050,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,CMH4,FC,"1550 W Main St","West Jefferson",OH,43162,39.942941,-83.297807,0.9,range_interpolation,1550,"W Main St",,,"West Jefferson",OH,"Madison County",43162,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,CMH6/HCM1,FC,"3538 TradePort Court",Lockbourne,OH,43137,39.78233,-82.947827,1,rooftop,3538,"Tradeport Ct",,,Lockbourne,OH,"Pickaway County",43137,US,Pickaway
+Ohio,PCW1,FC,"27400 Crossroads Parkway",Rossford,OH,43460,41.550393,-83.583066,0.66,nearest_rooftop_match,27430,"Crossroads Pkwy",,,Perrysburg,OH,"Wood County",43551,US,"City of Perrysburg"
+Ohio,AKC1,FC,"2400 Romig Rd",Akron,OH,44320,41.049481,-81.58315,1,rooftop,2400,"Romig Rd",,,Akron,OH,"Summit County",44320,US,Summit
+Ohio,POH1,FC,"3880 Groveport Rd",Obetz,OH,43207,39.887341,-82.953426,1,rooftop,3880,"Groveport Rd",,,Obetz,OH,"Franklin County",43207,US,Franklin
+Ohio,POH2,FC,"1901 Beggrow St",Lockbourne,OH,43137,39.83768,-82.948884,1,rooftop,1901,"Beggrow St",,,Lockbourne,OH,"Franklin County",43137,US,"City of Columbus"
+Ohio,CLE5,SC,"8685 Independence Parkway"," Twinsburg",OH,44087,41.305756,-81.467369,1,rooftop,8685,"Independence Pkwy",,,Twinsburg,OH,"Summit County",44087,US,Summit
+Ohio,CMH1,FC,"11903 National Road SW"," Etna",OH,43062,39.956792,-82.709619,1,range_interpolation,11903,"National Rd SW",,,Etna,OH,"Licking County",43062,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,CMH2,FC,"2700 Rohr Road"," Groveport",OH,43125,39.843306,-82.930051,1,rooftop,2700,"Rohr Rd",,,Groveport,OH,"Franklin County",43125,US,Franklin
+Ohio,"FBA Prep Service",,,Geneva,OH,,41.7769,-80.949898,1,place,,,,,Geneva,OH,"Ashtabula County",44041,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,"FBA Prep Service",,,Dayton,OH,,39.750471,-84.268593,1,place,,,,,Dayton,OH,"Montgomery County",45401,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,"FBA Prep Service",,,Cincinnati,OH,,39.166759,-84.53822,1,place,,,,,Cincinnati,OH,"Hamilton County",45201,US,"TIGER/Line® dataset from the US Census Bureau"
+Oklahoma,TUL2,FC,"4040 N 125th East Ave",Tulsa,OK,74116,36.104984,-95.837809,0.6,range_interpolation,4040,"S 125th East Ave",,,Tulsa,OK,"Tulsa County",74146,US,"TIGER/Line® dataset from the US Census Bureau"
+Oklahoma,OKC1,FC,"9201 S Portland Ave","Oklahoma City",OK,73159,35.374806,-97.581178,1,rooftop,9201,"S Portland Ave",,,"Oklahoma City",OK,"Cleveland County",73159,US,Oklahoma
+Oregon,PDX5,SC,"5647 NE Huffman St"," Hillsboro",OR,97124,45.558935,-122.919637,1,rooftop,5647,"NE Huffman St",,,Hillsboro,OR,"Washington County",97124,US,Washington
+Oregon,"FBA Prep Service",unnamed,,Hillsboro,OR,,45.458397,-122.977963,1,place,,,,,Hillsboro,OR,"Washington County",97123,US,"TIGER/Line® dataset from the US Census Bureau"
+Oregon,"FBA Prep Service",,,Eugene,OR,,44.067988,-123.080181,1,place,,,,,Eugene,OR,"Lane County",97401,US,"TIGER/Line® dataset from the US Census Bureau"
+Oregon,"FBA Prep Service",,,Eugene,OR,,44.067988,-123.080181,1,place,,,,,Eugene,OR,"Lane County",97401,US,"TIGER/Line® dataset from the US Census Bureau"
+Oregon,"FBA Prep Service",,,Hillsboro,OR,,45.458397,-122.977963,1,place,,,,,Hillsboro,OR,"Washington County",97123,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,AVP1,FC,"550 Oak Ridge Road"," Hazleton",PA,18202,40.924319,-76.080888,1,range_interpolation,550,"Oak Ridge Rd",,,"Hazle Township",PA,"Luzerne County",18202,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,AVP6,FC,"1 Commerce Road"," Pittston",PA,18640,41.327147,-75.724516,1,range_interpolation,1,"Commerce Rd",,,Pittston,PA,"Luzerne County",18640,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,AVP8,FC,"250 Enterprise Way"," Pittston",PA,18640,41.29823,-75.738725,0.33,place,,,,,Pittston,PA,"Luzerne County",18640,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,ABE2,FC,"705 Boulder Drive"," Breinigsville",PA,18031,40.557833,-75.614972,0.8,rooftop,705,"Boulder Dr",,,Trexlertown,PA,"Lehigh County",18087,US,Lehigh
+Pennsylvania,ABE3,FC,"650 Boulder Drive"," Breinigsville",PA,18031,40.556358,-75.62176,1,rooftop,650,"Boulder Dr",,,Breinigsville,PA,"Lehigh County",18031,US,Lehigh
+Pennsylvania,ABE4,FC,"1610 Van Buren Rd."," Easton",PA,18045-1707,40.740572,-75.277277,1,rooftop,1610,"Van Buren Rd",,,Easton,PA,"Northampton County",18045,US,Northampton
+Pennsylvania,ABE5,FC,"6455 Allentown Boulevard"," Harrisburg",PA,17112,40.324852,-76.773074,1,rooftop,6455,"Allentown Blvd",,,Harrisburg,PA,"Dauphin County",17112,US,Dauphin
+Pennsylvania,MDT1,FC,"2 Ames Drive"," Carlisle",PA,17015,40.16661,-77.241492,1,rooftop,2,"Ames Dr",,,Carlisle,PA,"Cumberland County",17015,US,Cumberland
+Pennsylvania,PHL4,FC,"21 Roadway Drive"," Carlisle",PA,17015,40.227298,-77.114515,1,rooftop,21,"Roadway Dr",,,Carlisle,PA,"Cumberland County",17015,US,Cumberland
+Pennsylvania,PHL5,FC,"500 McCarthy Drive"," Lewisberry",PA,17339,40.17159,-76.836761,1,rooftop,500,"McCarthy Dr",,,Lewisberry,PA,"York County",17339,US,York
+Pennsylvania,PHL6,FC,"675 Allen Road"," Carlisle",PA,17015,40.174981,-77.231622,1,rooftop,675,"Allen Rd",,,Carlisle,PA,"Cumberland County",17015,US,Cumberland
+Pennsylvania,PIT5,SC,"2250 Roswell Drive"," Pittsburgh",PA,15205,40.444708,-80.082824,1,rooftop,2250,"Roswell Dr",,,Pittsburgh,PA,"Allegheny County",15205,US,Allegheny
+Pennsylvania,XUSC,FC,"40 Logistics Drive"," Carlisle",PA,17013,40.188967,-77.22562,1,rooftop,40,"Logistics Dr",,,Carlisle,PA,"Cumberland County",17013,US,Cumberland
+Pennsylvania,AVP2/3,FC,"298 1st Ave"," Gouldsboro",PA,18424,41.274588,-75.500069,1,rooftop,298,"1st Ave",,,Gouldsboro,PA,"Lackawanna County",18424,US,Lackawanna
+Pennsylvania,PHL9,FC,"2 Ames Drive"," Carlisle",PA,17015,40.16661,-77.241492,1,rooftop,2,"Ames Dr",,,Carlisle,PA,"Cumberland County",17015,US,Cumberland
+Pennsylvania,PIT1,,"2250 Roswell Drive"," Pittsburgh",PA,15205,40.444708,-80.082824,1,rooftop,2250,"Roswell Dr",,,Pittsburgh,PA,"Allegheny County",15205,US,Allegheny
+Pennsylvania,ABE5,FC,"2455 Boulevard of the Generals",Norristown,PA,19403,40.124608,-75.397217,1,rooftop,2455,"Boul Of The Generals",,,Norristown,PA,"Montgomery County",19403,US,Montgomery
+Pennsylvania,XUSG,FC,"9645 West Hills Ct",Kutztown,PA,19530,40.585691,-75.700284,1,rooftop,9645,"W Hills Ct",,,Kutztown,PA,"Lehigh County",19530,US,Lehigh
+Pennsylvania,PIT2,FC,"1200 Westport Rd","Findlay Township",PA,15126,40.450698,-80.316173,1,rooftop,1200,"Westport Rd",,,Imperial,PA,"Allegheny County",15126,US,Allegheny
+Pennsylvania,PPA1,FC,"545 Oak Hill Rd",Mountaintop,PA,18707,41.132155,-75.88836,1,range_interpolation,545,"Oak Hill Rd",,,"Mountain Top",PA,"Luzerne County",18707,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,TEN1,FC,"1002 Patriot Pkwy",Reading,PA,19605,40.374852,-75.9461,1,rooftop,1002,"Patriot Py",,,Reading,PA,"Berks County",19605,US,Berks
+Pennsylvania,RDG1,FC,"3563 Mountain Rd",Hamburg,PA,19526,40.521322,-76.102407,1,rooftop,3563,"Mountain Rd",,,Hamburg,PA,"Berks County",19526,US,Berks
+"South Carolina",CAE1,FC,"4400 12th Street Extension"," West Columbia",SC,29172,33.911125,-81.04912,1,rooftop,4400,"12th Street Ext",,,"West Columbia",SC,"Lexington County",29172,US,Lexington
+"South Carolina",GSP1,FC,"402 John Dodd Road"," Spartanburg",SC,29303-6312,35.009142,-82.028872,1,range_interpolation,402,"John Dodd Rd",,,Spartanburg,SC,"Spartanburg County",29303,US,"TIGER/Line® dataset from the US Census Bureau"
+"South Carolina",XUSU,FC,"845 Paragon Way","Rock Hill",SC,29730,34.962061,-80.973315,1,rooftop,845,"Paragon Way",,,"Rock Hill",SC,"York County",29730,US,"City of Rock Hill"
+"South Carolina",CAE3,FC,"222 Old Wire Rd","West Columbia",SC,29172,33.894502,-81.042806,1,rooftop,222,"Old Wire Rd",,,"West Columbia",SC,"Lexington County",29172,US,Lexington
+Tennessee,BNA1,FC,"14840 Central Pike"," Lebanon",TN,37090,36.132693,-86.405225,1,range_interpolation,14840,"Central Pike",,,Lebanon,TN,"Wilson County",37090,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,BNA2,FC,"500 Duke Drive"," Lebanon",TN,37090,36.118774,-86.409988,0.8,rooftop,500,"Duke Dr",,,"Mount Juliet",TN,"Wilson County",37122,US,Statewide
+Tennessee,BNA3,FC,"2020 Joe B Jackson Parkway"," Murfreesboro",TN,37127,35.778115,-86.363673,1,rooftop,2020,"Joe B Jackson Pkwy",,,Murfreesboro,TN,"Rutherford County",37127,US,"City of Murfreesboro"
+Tennessee,BNA5,SC,"50 Airways Blvd"," Nashville",TN,37217,36.127774,-86.691736,1,range_interpolation,50,"Airways Blvd",,,Nashville,TN,"Davidson County",37217,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,CHA1,FC,"7200 Discovery Drive"," Chattanooga",TN,37416,35.068587,-85.142778,1,rooftop,7200,"Discovery Dr",,,Chattanooga,TN,"Hamilton County",37416,US,"City of Chattanooga"
+Tennessee,CHA2,FC,"225 Infinity Drive NW"," Charleston",TN,37310,35.224608,-84.717221,0.33,place,,,,,Charleston,TN,"Bradley County",37310,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,MEM4,FC,"4055 New Allen Rd",Raliegh,TN,38128,35.221478,-89.956313,1,range_interpolation,4055,"New Allen Rd",,,Memphis,TN,"Shelby County",38128,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,RAD1,FC,"3818 Logistics Way",Antioch,TN,37013,36.036032,-86.645598,0.33,place,,,,,Antioch,TN,"Davidson County",37013,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DFW1,FC,"2700 Regent Boulevard"," DFW Airport",TX,75261,32.932083,-97.026254,0.8,rooftop,2700,"Regent Blvd",,,Irving,TX,"Dallas County",75063,US,Dallas
+Texas,DFW8,SC,"2700 Regent Boulevard"," DFW Airport",TX,75261,32.932083,-97.026254,0.8,rooftop,2700,"Regent Blvd",,,Irving,TX,"Dallas County",75063,US,Dallas
+Texas,DFW6,FC,"940 W Bethel Road"," Coppell",TX,75019-4424,32.957997,-97.016933,1,rooftop,940,"W Bethel Rd",,,Coppell,TX,"Dallas County",75019,US,Dallas
+Texas,DFW7,FC,"700 Westport Parkway"," Fort Worth",TX,76177-4513,32.971855,-97.337776,0.8,rooftop,700,"Westport Pkwy",,,Haslet,TX,"Tarrant County",76052,US,"Tarrant County"
+Texas,FTW3/4,FC,"15201 Heritage Parkway"," Fort Worth",TX,76177-2517,33.00901,-97.295178,0.87,rooftop,15201,Heritage,,,"Fort Worth",TX,"Denton County",76177,US,Tarrant
+Texas,SAT1,FC,"6000 Enterprise Avenue"," Schertz",TX,78154,29.594807,-98.292277,0.6,street_center,,"Enterprise Ave",,,Schertz,TX,"Guadalupe County",78154,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,SAT5,SC,"1410 S. Callaghan Road"," San Antonio",TX,78227,29.420988,-98.597887,1,rooftop,1410,"S Callaghan Rd",,,"San Antonio",TX,"Bexar County",78227,US,"San Antonio"
+Texas,XUSB,FC,"14900 Frye Road"," Fort Worth",TX,76155,32.818379,-97.04308,1,rooftop,14900,"Frye Rd",,,"Fort Worth",TX,"Tarrant County",76155,US,"Tarrant County"
+Texas,HOU1,SC,"8120 Humble Westfield Road"," Humble",TX,77338,29.999833,-95.302282,1,rooftop,8120,"Humble Westfield Rd",,,Humble,TX,"Harris County",77338,US,"City of Houston"
+Texas,FTW2,FC,"2701 W Bethel Rd"," Coppell",TX,75019-4424,32.951904,-97.027014,1,rooftop,2701,"W Bethel Rd",,,Coppell,TX,"Dallas County",75019,US,Dallas
+Texas,FTW7,FC,"944 W. Sandy Lake Rd"," Coppell",TX,75019-3989,32.975147,-97.021498,1,rooftop,944,"W Sandy Lake Rd",,,Coppell,TX,"Dallas County",75019,US,Dallas
+Texas,FTW8,FC,"3351 Balmorhea Dr.",Dallas,TX,75241,32.635864,-96.77232,0.9,rooftop,3351,"Balmorhea Dr",,,Lancaster,TX,"Dallas County",75134,US,Dallas
+Texas,SAT2,FC,"1401 E McCarty Ln"," San Marcos",TX,78666,29.837857,-97.963704,1,rooftop,1401,"E McCarty Ln",,,"San Marcos",TX,"Hays County",78666,US,Capcog
+Texas,HOU2,FC,"10550 Ella Blvd"," Houston",TX,77038-2324,29.936865,-95.431747,0.72,nearest_rooftop_match,10600,"Ella Blvd",,,Houston,TX,"Harris County",77038,US,Harris
+Texas,HOU3,FC,"31819 Highway Blvd",Katy,TX,77449,29.837562,-95.733756,0.33,place,,,,,Katy,TX,"Harris County",77449,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,HOU7,FC,"16225 Tomball Pkwy",Houston,TX,77064,29.941841,-95.528206,1,rooftop,16225,"Tomball Pkwy",,,Houston,TX,"Harris County",77064,US,"City of Houston"
+Texas,DFW5,FC,"4121 International Pkwy",Carrollton,TX,75007,33.0199,-96.850716,1,rooftop,4121,"International Pkwy",,,Carrollton,TX,"Denton County",75007,US,"City of Carrollton"
+Texas,DAL2,FC,"2601 S. Airfield Dr",Irving,TX,75038,32.932083,-97.026254,0.22,nearest_rooftop_match,2700,"N Airfield Dr",,,Irving,TX,"Dallas County",75063,US,Dallas
+Texas,DAL3,FC,"1301 Chalk Hill Rd",Dallas,TX,75211,32.75605,-96.905303,1,rooftop,1301,"Chalk Hill Rd",,,Dallas,TX,"Dallas County",75211,US,Dallas
+Texas,FTW6,FC,"2601 W Bethel Rd",Grapevine,TX,75261,32.951904,-97.027014,0.8,rooftop,2601,"Bethel Rd",,,Coppell,TX,"Dallas County",75019,US,Dallas
+Texas,ITX1,FC,"9851 Fallbrook Pines Dr #100",Houston,TX,77064,29.926861,-95.571367,1,range_interpolation,9851,"Fallbrook Dr",#,100,Houston,TX,"Harris County",77064,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,ITX2/HH02,FC,"6911 Fairbanks N",Houston,TX,77040,29.866599,-95.524712,0.87,range_interpolation,6911,Fairbanks,,,Houston,TX,"Harris County",77040,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,HOU8,FC,"10507 Harlem Rd",Richmond,TX,77407,29.662032,-95.714406,1,rooftop,10507,"Harlem Rd",,,Richmond,TX,"Fort Bend County",77407,US,"Fort Bend"
+Texas,PTX1,FC,"2101 Danieldale Rd",Lancaster,TX,75134,32.63336,-96.798866,1,rooftop,2101,"Danieldale Rd",,,Lancaster,TX,"Dallas County",75134,US,Dallas
+Texas,,FC,"1400 Southport Pkwy",Wilmer,TX,75172,32.622122,-96.672921,1,rooftop,1400,"Southport Pkwy",,,Wilmer,TX,"Dallas County",75172,US,Dallas
+Texas,,FC,"2000 E Pecan St",Austin,TX,78660,30.435423,-97.611251,0.9,range_interpolation,2000,"Pecan St E",,,Pflugerville,TX,"Travis County",78660,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,AFW1,FC,"1511 NE Loop 820","Ft Worth",TX,76131,32.84203,-97.335204,1,range_interpolation,1511,"NE Loop 820",,,"Fort Worth",TX,"Tarrant County",76131,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,,FC,"9155 Southlink Drive",Dallas,TX,75241,32.639647,-96.74468,1,rooftop,9155,"Southlink Dr",,,Dallas,TX,"Dallas County",75241,US,Dallas
+Texas,,FC,"12101 Emerald Pass Drive","El Paso",TX,79928,31.694152,-106.226241,0.5,street_center,,"Emerald Creek Dr",,,"El Paso",TX,"El Paso County",79928,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,,FC,"2000 Exchange Pkwy",Waco,TX,,31.552011,-97.1382,0.33,place,,,,,Waco,TX,"McLennan County",76701,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,"FBA Prep Service",,,Tyler,TX,,32.321937,-95.302223,1,place,,,,,Tyler,TX,"Smith County",75701,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,"FBA Prep Service",,,Spicewood,TX,,30.475472,-98.156407,0.9,place,,,,,Spicewood,TX,"Burnet County",78669,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,"FBA Prep Service",,,Austin,TX,,30.326374,-97.771258,1,place,,,,,Austin,TX,"Travis County",73301,US,"TIGER/Line® dataset from the US Census Bureau"
+Virginia,RIC1,FC,"5000 Commerce Way"," Petersburg",VA,23803,37.194732,-77.493401,1,rooftop,5000,"Commerce Way",,,"North Dinwiddie",VA,"Dinwiddie County",23803,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,RIC2,FC,"1901 Meadowville Technology Parkway"," Chester",VA,23836,37.351119,-77.326862,1,rooftop,1901,"Meadowville Technology Pkwy",,,Chester,VA,"Chesterfield County",23836,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,RIC3,SC,"1901 Meadowville Technology Parkway"," Chester",VA,23836,37.351119,-77.326862,1,rooftop,1901,"Meadowville Technology Pkwy",,,Chester,VA,"Chesterfield County",23836,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,RIC3,FC,"4949 Commerce Rd",Richmond,VA,,37.458453,-77.42745,1,rooftop,4949,"Commerce Rd",,,Richmond,VA,"Richmond city",23234,US,"City of Richmond"
+Virginia,BWI1,FC,"45121 Global Plaza"," Sterling",VA,20166,38.986069,-77.439878,1,rooftop,45121,"Global Plz",,,Sterling,VA,"Loudoun County",20166,US,Loudoun
+Virginia,BWI4,FC,"165 Business Blvd"," Clear Brook",VA,22624-1568,39.28938,-78.078664,1,rooftop,165,"Business Blvd",,,"Clear Brook",VA,"Frederick County",22624,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,RIC5,SC,"11600 N Lakeridge Pkwy"," Ashland",VA,23005,37.717087,-77.450079,1,rooftop,11600,"Lakeridge Pkwy",,,Ashland,VA,"Hanover County",23005,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,,FC,"2020 Northgate Commerce Pkwy",Suffolk,VA,23435,36.809189,-76.477704,1,rooftop,2020,"Northgate Commerce Pkwy",,,Suffolk,VA,"Suffolk city",23435,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,,FC,"4701 Commerce Rd",Richmond,VA,23234,37.461202,-77.427842,1,rooftop,4701,"Commerce Rd",,,Richmond,VA,"Richmond city",23234,US,"City of Richmond"
+Virginia,,FC,"7000 Hardware DR","Prince George",VA,23875,37.201193,-77.278207,1,rooftop,7000,"Hardware Dr",,,"Prince George",VA,"Prince George County",23875,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,"FBA Prep Service",,,Lorton,VA,,38.692865,-77.204031,1,place,,,,,Lorton,VA,"Fairfax County",22079,US,"TIGER/Line® dataset from the US Census Bureau"
+Washington,BFI1,FC,"1800 140th Avenue"," E Sumner",WA,,47.241154,-122.243434,1,rooftop,1800,"140th Ave E",,,Sumner,WA,"Pierce County",98390,US,Pierce
+Washington,BFI3,FC,"2700 Center Drive"," Dupont",WA,98327,47.09676,-122.63124,1,place,,,,,Dupont,WA,"Pierce County",98327,US,"TIGER/Line® dataset from the US Census Bureau"
+Washington,BFI4,SC,"21005 64th Ave S"," Kent",WA,98032,47.414393,-122.25781,1,rooftop,21005,"64th Ave S",,,Kent,WA,"King County",98032,US,King
+Washington,BFI5,SC," 20526 59th Pl S",Kent,WA,,47.417326,-122.259898,1,rooftop,20526,"59th Pl S",,,Kent,WA,"King County",98032,US,King
+Washington,SEA6,FC,"2646 Rainier Avenue"," South Seattle",WA,98144,47.579613,-122.296958,1,rooftop,2646,"Rainier Ave S",,,Seattle,WA,"King County",98144,US,King
+Washington,SEA8,FC,"1227 124th Avenue Northeast"," Bellevue",WA,,47.622445,-122.175439,1,rooftop,1227,"124th Ave NE",,,Bellevue,WA,"King County",98005,US,King
+Washington,BFI7,FC,"1800 140th Ave E"," Sumner",WA,98390,47.241154,-122.243434,1,rooftop,1800,"140th Ave E",,,Sumner,WA,"Pierce County",98390,US,Pierce
+Washington,BFI6,FC,"21005 64th Ave. South",Kent,WA,98032,47.414393,-122.25781,1,rooftop,21005,"64th Ave S",,,Kent,WA,"King County",98032,US,King
+Wisconsin,MKE5,SC,"11211 Burlington Road"," Kenosha",WI,53144,42.612031,-87.944337,1,rooftop,11211,"Burlington Rd",,,Kenosha,WI,"Kenosha County",53144,US,Kenosha
+Wisconsin,MKE1,FC,"3501 120th Ave"," Kenosha",WI,,42.608479,-87.951036,1,rooftop,3501,"120th Ave",,,Kenosha,WI,"Kenosha County",53144,US,Kenosha
+Wisconsin,"FBA Prep Service",,,Madison,WI,,43.06956,-89.423861,1,place,,,,,Madison,WI,"Dane County",53701,US,"TIGER/Line® dataset from the US Census Bureau"
+Colorado,,"Whole Foods","17900 East 32nd Ave #30",Aurora,CO,80011,39.758585,-104.777663,1,rooftop,17900,"E 32nd Ave",Ste,30,Aurora,CO,"Adams County",80011,US,"City of Aurora"
+Connecticut,,"Whole Foods","400 East Johnson Ave",Chesire,CT,06410,41.553173,-72.874387,1,rooftop,400,"E Johnson Ave",,,Cheshire,CT,"New Haven County",06410,US,"Connecticut Geospatial Information Systems Council"
+Georgia,,"Whole Foods","211 BDC Parkway",Braselton,GA,30517,34.102359,-83.776608,1,rooftop,211,"Bdc Pkwy",,,Braselton,GA,"Jackson County",30517,US,Jackson
+Illinois,,"Whole Foods","720 E 111th St",Chicago,IL,60628,41.694514,-87.603659,1,rooftop,720,"E 111th St",,,Chicago,IL,"Cook County",60628,US,"City of Chicago"
+Massachusetts,,"Whole Foods","15 Parker St",Gloucester,MA,01930,42.615782,-70.650704,1,rooftop,15,"Parker St",,,Gloucester,MA,"Essex County",01930,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Maryland,,"Whole Foods","1555 Cabin Branch Dr",Landover,MD,20785,38.912413,-76.903449,1,rooftop,1555,"Cabin Branch Dr",,,Hyattsville,MD,"Prince George's County",20785,US,"Prince Georges"
+Maryland,,"Whole Foods","1905 Clarkson Way",Hyattsville,MD,20785,38.915957,-76.902111,1,rooftop,1905,"Clarkson Way",,,Hyattsville,MD,"Prince George's County",20785,US,"Prince Georges"
+Texas,,"Whole Foods","840 Interchange Blvd",Austin,TX,78721,30.253078,-97.685046,1,rooftop,840,"Interchange Blvd",,,Austin,TX,"Travis County",78721,US,Capcog
+Arizona,UAZ1/DPX1,"Prime Hub","500 S 48th St",Phoenix,AZ,85034,33.443083,-111.979149,1,rooftop,500,"S 48th St",,,Phoenix,AZ,"Maricopa County",85034,US,Maricopa
+Colorado,UCO1,"Prime Hub","480 E. 55th Ave",Denver,CO,80216,39.796353,-104.98001,1,range_interpolation,480,"E 55th Ave",,,Denver,CO,"Adams County",80216,US,"TIGER/Line® dataset from the US Census Bureau"
+Colorado,UCO2,"Prime Hub","3550 Frontier Ave",Boulder,CO,80301,40.022392,-105.248492,1,rooftop,3550,"Frontier Ave",,,Boulder,CO,"Boulder County",80301,US,"City of Boulder"
+Florida,UFL1/DMI1,"Prime Hub","15600 NW 15th Ave","Miami Gardens",FL,33169,25.91768,-80.22605,1,rooftop,15600,"NW 15th Ave",,,Miami,FL,"Miami-Dade County",33169,US,"Miami-Dade County"
+Florida,UFL2,"Prime Hub","191 NE 23rd St","Miami Gardens",FL,33137,25.799092,-80.19127,1,range_interpolation,191,"NE 23rd St",,,Miami,FL,"Miami-Dade County",33137,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,UFL3,"Prime Hub","4440 East Adamo Dr #305",Tampa,FL,33605,27.952499,-82.408831,0.87,range_interpolation,4440,"State Hwy 60",#,305,Tampa,FL,"Hillsborough County",33605,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,UFL4/SFL1,"Prime Hub","7469 Kingspointe Pkwy",Orlando,FL,32819,28.459025,-81.440114,1,rooftop,7469,"Kingspointe Pkwy",,,Orlando,FL,"Orange County",32819,US,"Orange County"
+Florida,UFL5,"Prime Hub","4769 Oak Fair Blvd",Tampa,FL,33610,27.992535,-82.352977,1,rooftop,4769,"Oak Fair Blvd",,,Tampa,FL,"Hillsborough County",33610,US,"Hillsborough County"
+Georgia,UGA1/UGA2,"Prime Hub","2302 Marietta Blv NW",Atlanta,GA,30318,33.818342,-84.451368,1,rooftop,2302,"Marietta Blvd NW",,,Atlanta,GA,"Fulton County",30318,US,"City of Atlanta"
+Georgia,UGA3,"Prime Hub","2160 Breckenridge Blvd #100",Lawrenceville,GA,30043,33.968049,-84.082412,1,rooftop,2160,"Breckinridge Blvd",Ste,100,Lawrenceville,GA,"Gwinnett County",30043,US,Gwinnett
+Illinois,UIL1,"Prime Hub","1111 N Cherry Ave",Chicago,IL,60642,41.901922,-87.652186,1,rooftop,1111,"N Cherry Ave",,,Chicago,IL,"Cook County",60642,US,"City of Chicago"
+Illinois,UIL2,"Prime Hub","1250 N Mittel Blvd","Wood Dale",IL,60191,41.99027,-87.989527,1,range_interpolation,1250,"N Mittel Blvd",,,"Wood Dale",IL,"DuPage County",60191,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,UIN1,"Prime Hub","710 South Girls School Road",Indianapolis,IN,46231,39.755392,-86.29286,1,rooftop,710,"S Girls School Rd",,,Indianapolis,IN,"Marion County",46231,US,Statewide
+Maryland,UMD1,"Prime Hub","5001 Holabird Ave",Baltimore,MD,21224,39.271614,-76.552116,1,range_interpolation,5001,"Holabird Ave",,,Baltimore,MD,"Baltimore city",21224,US,"TIGER/Line® dataset from the US Census Bureau"
+Massachusetts,UMA3,"Prime Hub","30 Northampton St",Boston,MA,02118,42.333863,-71.076143,1,rooftop,30,"Northampton St",,,Boston,MA,"Suffolk County",02118,US,"City of Boston"
+Michigan,UMI1,"Prime Hub","19991 Brownstown Center Dr Bldg 9",Trenton,MI,48183,42.159635,-83.238271,1,rooftop,19991,"Brownstown Center Dr",Bldg,9,Trenton,MI,"Wayne County",48183,US,Semcog
+Michigan,UMI2,"Prime Hub","999 Chicago Rd",Troy,MI,48083,42.544028,-83.114909,1,rooftop,999,"Chicago Rd",,,Troy,MI,"Oakland County",48083,US,Oakland
+"New York",JFK2/JFK7,"Prime Hub","7 W 34th St","New York",NY,10001,40.74894,-73.985334,1,rooftop,7,"W 34th St",,,"New York",NY,"New York County",10001,US,"City of New York"
+"New York",UNY1,"Prime Hub","501 2nd Ave",Brooklyn,NY,11232,40.660462,-74.005301,1,range_interpolation,501,"2nd Ave",,,Brooklyn,NY,"Kings County",11232,US,"TIGER/Line® dataset from the US Census Bureau"
+"Nw Jersey",UNJ1,"Prime Hub","940 Monroe St",Honoken,NJ,07030,40.749334,-74.037127,1,range_interpolation,940,"Monroe St",,,Hoboken,NJ,"Hudson County",07030,US,"TIGER/Line® dataset from the US Census Bureau"
+"North Carolina",UNC1,"Prime Hub","300 Dalton Ave",Charlotte,NC,28206,35.240006,-80.830993,1,rooftop,300,"Dalton Ave",,,Charlotte,NC,"Mecklenburg County",28206,US,Mecklenburg
+"North Carolina",UNC2,"Prime Hub","3200 Bush St",Raleigh,NC,27609,35.82394,-78.613338,1,rooftop,3200,"Bush St",,,Raleigh,NC,"Wake County",27609,US,Wake
+"North Carolina",UNC3/HCL1,"Prime Hub","4525 Statesville Rd",Charlotte,NC,28269,35.282301,-80.835621,1,rooftop,4525,"Statesville Rd",,,Charlotte,NC,"Mecklenburg County",28269,US,Mecklenburg
+Ohio,UOH1,"Prime Hub","5845 Highland Ridge Dr",Cincinnati,OH,45232,39.192642,-84.498325,1,rooftop,5845,"Highland Ridge Dr",,,Cincinnati,OH,"Hamilton County",45232,US,Hamilton
+Ohio,UOH2,"Prime Hub","3563 Interchange Rd",Columbus,OH,43204,39.972241,-83.100326,1,rooftop,3563,"Interchange Rd",,,Columbus,OH,"Franklin County",43204,US,Franklin
+Pennsylvania,UPA1,"Prime Hub","4100 Chestnut St",Philadelphia,PA,19104,39.955609,-75.205511,1,rooftop,4100,"Chestnut St",,,Philadelphia,PA,"Philadelphia County",19104,US,Philadelphia
+Tennessee,UTN1,"Prime Hub","410 Harding Industrial Dr",Nashville,TN,37211,36.092471,-86.689468,1,rooftop,410,"Harding Industrial Dr",,,Nashville,TN,"Davidson County",37211,US,"City of Nashville"
+Texas,UTX1,"Prime Hub","2700 Regent Boulevard",Irving,TX,75063,32.932083,-97.026254,1,rooftop,2700,"Regent Blvd",,,Irving,TX,"Dallas County",75063,US,Dallas
+Texas,UTX2,"Prime Hub","2209 B Rutland Rd",Austin,TX,78758,30.38107,-97.718033,0.9,rooftop,2209,"Rutland Dr",,,Austin,TX,"Travis County",78758,US,Capcog
+Texas,UTX3,"Prime Hub","4221 Way Out West Drive #200",Houston,TX,77092,29.833858,-95.500175,0.8,nearest_rooftop_match,4213,"Way Out West Dr",#,200,Houston,TX,"Harris County",77092,US,"City of Houston"
+Texas,UTX4,"Prime Hub","6627 Maple Ave",Dallas,TX,75235,32.828387,-96.845787,1,rooftop,6627,"Maple Ave",,,Dallas,TX,"Dallas County",75235,US,Dallas
+Texas,UTX5,"Prime Hub","4848 Perrin Creek #680","San Antonio",TX,78217,29.526053,-98.400303,1,rooftop,4848,"Perrin Crk",Ste,680,"San Antonio",TX,"Bexar County",78217,US,"San Antonio"
+Texas,UTX7/DDA3,"Prime Hub","4601 Gold Spike Dr","Ft Worth",TX,76106,32.828373,-97.354489,1,rooftop,4601,"Gold Spike Dr",,,"Fort Worth",TX,"Tarrant County",76106,US,"Tarrant County"
+Virginia,UVA1/DDC3,"Prime Hub","5617 Industrial Dr Suite A",Springfield,VA,22151,38.799892,-77.168862,1,rooftop,5617,"Industrial Dr",Ste,A,Springfield,VA,"Fairfax County",22151,US,Fairfax
+Virginia,UVA2,"Prime Hub","804 Greenbrier Circle",Chesapeake,VA,23320,36.791893,-76.231018,1,rooftop,804,"Greenbrier Cir",,,Chesapeake,VA,"Chesapeake city",23320,US,"City of Chesapeake"
+Virginia,UVA3,"Prime Hub","2263 Dabney Rd",Richmond,VA,23230,37.583752,-77.481462,1,rooftop,2263,"Dabney Rd",,,Richmond,VA,"Henrico County",23230,US,Henrico
+Georgia,XEW1/ATL7,"Inbound Cross Dock","6855 Shannon Pkwy","Union City",GA,30291,33.568769,-84.539411,1,range_interpolation,6855,"Shannon Pkwy",,,"Union City",GA,"Fulton County",30291,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,MDW2,"Inbound Cross Dock","250 Emerald Drive",Joliet,IL,60433,41.484956,-88.075027,1,rooftop,250,"Emerald Dr",,,Joliet,IL,"Will County",60433,US,Will
+Indiana,IND9,"Inbound Cross Dock","1151 S Graham Rd",Greenwood,IN,46143,39.589917,-86.063616,1,range_interpolation,1151,"S Graham Rd",,,Greenwood,IN,"Johnson County",46143,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",ABE8,"Inbound Cross Dock","309 Cedar Lane",Florence,NJ,08518,40.11803,-74.795966,0.87,range_interpolation,309,"Cedar St",,,Florence,NJ,"Burlington County",08518,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",TEB9,"Inbound Cross Dock","601 Randolph Rd",Somerset,NJ,08873,40.529058,-74.556064,0.9,range_interpolation,601,"Randolph Rd",,,Somerset,NJ,"Somerset County",08873,US,"TIGER/Line® dataset from the US Census Bureau"
+"North Carolina",CLT2,"Inbound Cross Dock","10240 Old Dowd Rd",Charlotte,NC,28214,35.245937,-80.996746,1,rooftop,10240,"Old Dowd Rd",,,Charlotte,NC,"Mecklenburg County",28214,US,Mecklenburg
+Pennsylvania,AVP1,"Inbound Cross Dock","550 Oak Ridge Road",Hazleton,PA,18202,40.924319,-76.080888,1,range_interpolation,550,"Oak Ridge Rd",,,"Hazle Township",PA,"Luzerne County",18202,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,MEM1,"Inbound Cross Dock","3282 E Holmes Rd",Memphis,TN,38118,35.006331,-89.95379,1,range_interpolation,3282,"E Holmes Rd",,,Memphis,TN,"Shelby County",38118,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,FTW1,"Inbound Cross Dock","3333 Lyndon B Johnson Freeway",Dallas,TX,75241,32.657393,-96.736319,0.6,street_center,,"Lyndon B Johnson Fwy",,,Dallas,TX,"Dallas County",75241,US,"TIGER/Line® dataset from the US Census Bureau"
+Connecticut,,"Air Gateway","100 Cargo Rd","Windsor Locks",CT,06096,41.933846,-72.660245,0.33,place,,,,,"Windsor Locks",CT,"Hartford County",06096,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,KLAL,"Air Gateway","4145 Kidron Rd",Lakeland,FL,33811,27.993155,-82.031742,1,rooftop,4145,"Kidron Rd",,,Lakeland,FL,"Polk County",33811,US,"City of Lakeland"
+Illinois,KRFD,"Air Gateway","5824 Kishwaukee Rd",Rockford,IL,61109,42.194704,-89.116403,1,rooftop,5824,"Kishwaukee Rd",,,Rockford,IL,"Winnebago County",61109,US,Winnebago
+Maryland,KBWI,"Air Gateway","27350 Mathison Way",Baltimore,MD,21240,39.173866,-76.671519,0.23,place,,,,,Baltimore,MD,"Baltimore city",21240,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,KILN,"Air Gateway","150 Ruane Dr",Wilmington,OH,45177,39.434604,-83.780236,0.6,street_center,,"Ruane Dr",,,Wilmington,OH,"Clinton County",45177,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,KAFW,"Air Gateway","301 Intermodal Pkwy","Ft Worth",TX,76177,32.98352,-97.323793,1,rooftop,301,"Intermodal Pkwy N",,,"Fort Worth",TX,"Tarrant County",76177,US,"Tarrant County"
+Virginia,KRB2,"Air Gateway","7000 Hardware Dr","Prince George",VA,23875,37.201193,-77.278207,1,rooftop,7000,"Hardware Dr",,,"Prince George",VA,"Prince George County",23875,US,"Virginia Geographic Information Network (VGIN)"
+Arizona,DPX1,"Last Mile Facility","500 S 48th St",Phoenix,AZ,85034,33.443083,-111.979149,1,rooftop,500,"S 48th St",,,Phoenix,AZ,"Maricopa County",85034,US,Maricopa
+Arizona,DPX3,"Last Mile Facility","550 E Elliot Rd",Chandler,AZ,85225,33.350653,-111.833679,1,rooftop,550,"E Elliot Rd",,,Chandler,AZ,"Maricopa County",85225,US,Maricopa
+Arizona,DPX4,"Last Mile Facility","1516 W 17th St",Tempe,AZ,85281,33.410659,-111.964297,1,rooftop,1516,"W 17th St",,,Tempe,AZ,"Maricopa County",85281,US,Maricopa
+Arizona,DPX5,"Last Mile Facility","2150 E Riverview Dr",Phoenix,AZ,85034,33.419876,-112.035513,0.9,rooftop,2150,"E Riverview Dr",,,Phoenix,AZ,"Maricopa County",85040,US,Maricopa
+Arizona,SPX6,"Last Mile Facility","13995 West Lower Buckeye Rd",Goodyear,AZ,85338,33.421182,-112.358838,0.67,nearest_rooftop_match,13970,"W Lower Buckeye Rd",,,Goodyear,AZ,"Maricopa County",85338,US,Maricopa
+Arizona,SPX7,"Last Mile Facility","3405 S McQueen Rd",Chandler,AZ,85286,33.276793,-111.824347,0.8,range_interpolation,3405,"S McQueen Rd",,,Chandler,AZ,"Maricopa County",85249,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,SPX8,"Last Mile Facility","7875 W Buckeye Rd Building 2",Phoenix,AZ,85043,33.435275,-112.227666,0.72,nearest_rooftop_match,7825,"W Buckeye Rd",Bldg,2,Phoenix,AZ,"Maricopa County",85043,US,Maricopa
+Arizona,SAZ1/VAZ1/HPX1,"Last Mile Facility","3333 S 7th St",Phoenix,AZ,85040,33.415975,-112.06332,1,rooftop,3333,"S 7th St",,,Phoenix,AZ,"Maricopa County",85040,US,Maricopa
+Arizona,DTU1,"Last Mile Facility","3841 N Hwy Dr",Tucson,AZ,85705,32.271355,-110.992051,0.33,place,,,,,Tucson,AZ,"Pima County",85705,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,DTU2,"Last Mile Facility","775 W Silverlake Rd",Tucson,AZ,85713,32.198697,-110.981906,1,rooftop,775,"W Silverlake Rd",,,Tucson,AZ,"Pima County",85713,US,Pima
+Arizona,DTU3,"Last Mile Facility","2550 N Nevada St",Chandler,AZ,85225,33.342784,-111.836829,1,rooftop,2550,"N Nevada St",,,Chandler,AZ,"Maricopa County",85225,US,Maricopa
+Arizona,DTU8,"Last Mile Facility","3003 S 38th St",Phoenix,AZ,85040,33.418705,-111.999612,1,range_interpolation,3003,"S 38th St",,,Phoenix,AZ,"Maricopa County",85040,US,"TIGER/Line® dataset from the US Census Bureau"
+Arizona,HTC1,"Last Mile Facility","5990 S Country Club Rd",Tucson,AZ,85706,32.144165,-110.927206,1,rooftop,5990,"S Country Club Rd",,,Tucson,AZ,"Pima County",85706,US,Pima
+Arkansas,DLR1,"Last Mile Facility","1900 Pine St","North Little Rock",AR,72114,34.772346,-92.259704,0.9,rooftop,1900,"N Pine St",,,"North Little Rock",AR,"Pulaski County",72114,US,Pulaski
+Arkansas,DLR2,"Last Mile Facility","12401 Interstate 30","Little Rock",AR,72009,34.645526,-92.421033,0.9,rooftop,12401,"Interstate 30",,,"Little Rock",AR,"Pulaski County",72209,US,Pulaski
+Arkansas,DLR3,"Last Mile Facility","400 Sharkley Dr",Maumelle,AR,72113,34.857241,-92.390298,0.33,place,,,,,Maumelle,AR,"Pulaski County",72113,US,"TIGER/Line® dataset from the US Census Bureau"
+Colorado,DCS1,"Last Mile Facility","7704 Milton E Proby Pkwy","Colorado Springs",CO,80916,38.789558,-104.703194,1,rooftop,7704,"Milton E Proby Pkwy",,,"Colorado Springs",CO,"El Paso County",80916,US,Statewide
+Colorado,DCS3,"Last Mile Facility","4303 Grinnell Blvd","Colorado Springs",CO,80911,38.734693,-104.719542,0.6,street_center,,"Grinnell Blvd",,,"Colorado Springs",CO,"El Paso County",80911,US,"TIGER/Line® dataset from the US Census Bureau"
+Colorado,DDE5,"Last Mile Facility","6951 S Blackhawk St",Englewood,CO,80112,39.590357,-104.827245,1,rooftop,6951,"S Blackhawk St",,,Englewood,CO,"Arapahoe County",80112,US,"Arapahoe County"
+Colorado,DDE6,"Last Mile Facility","6150 Downing St Bldg 5",Denver,CO,80216,39.808068,-104.972778,1,rooftop,6150,"Downing St",Bldg,5,Denver,CO,"Adams County",80216,US,Adams
+Colorado,DDE8,"Last Mile Facility","4555 E 37th St",Loveland,CO,80538,40.428921,-105.011726,0.8,nearest_rooftop_match,4567,"E 37th St",,,Loveland,CO,"Larimer County",80538,US,"City of Loveland"
+Colorado,HDE1,"Last Mile Facility","19799 E 36th Ave Bldy #29",Aurora,CO,80011,39.767183,-104.75573,0.87,rooftop,19799,"E 36th Dr",#,29,Aurora,CO,"Adams County",80011,US,"City of Aurora"
+Colorado,DDV2,"Last Mile Facility","900 E 128th Ave",Thorton,CO,80241,39.927497,-104.972702,1,rooftop,900,"E 128th Ave",,,Thornton,CO,"Adams County",80241,US,"City of Thornton"
+Colorado,DDV5,"Last Mile Facility","2889 Himalaya Dr Bldg 15",Aurora,CO,80011,39.756869,-104.755245,0.87,rooftop,2889,"Himalaya Rd",Bldg,15,Aurora,CO,"Adams County",80011,US,Adams
+Connecticut,DBL1,"Last Mile Facility","71 Horizon Drive",Bristol,CT,06010,41.650315,-72.913486,1,rooftop,71,"Horizon Dr",,,Bristol,CT,"Hartford County",06010,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,DBL8,"Last Mile Facility","8 Old Sherman Turnpike #24",Danbury,CT,06810,41.41124,-73.406141,0.99,rooftop,8-24,"Old Sherman Tpke",#,24,Danbury,CT,"Fairfield County",06810,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,HBD1,"Last Mile Facility","65 Holmes Rd",Newington,CT,06615,41.708912,-72.744318,0.9,rooftop,65,"Holmes Rd",,,Newington,CT,"Hartford County",06111,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,DOB2,"Last Mile Facility","425 S Cherry St",Wallingford,CT,06492,41.441387,-72.836396,1,rooftop,425,"S Cherry St",,,Wallingford,CT,"New Haven County",06492,US,"Connecticut Geospatial Information Systems Council"
+Connecticut,DOB4,"Last Mile Facility","500 Long Beach Blvd",Stratford,CT,06615,41.163964,-73.154942,1,rooftop,500,"Long Beach Blvd",,,Stratford,CT,"Fairfield County",06615,US,"City of Stratford"
+Connecticut,DYO5,"Last Mile Facility","7120 Main St",Trumbull,CT,06611,41.294331,-73.243534,1,rooftop,7120,"Main St",,,Trumbull,CT,"Fairfield County",06611,US,"Town of Trumbull"
+Connecticut,DCY9,"Last Mile Facility","48 Boston Post Rd",Orange,CT,06477,41.277864,-72.983466,1,rooftop,48,"Boston Post Rd",,,Orange,CT,"New Haven County",06477,US,"Connecticut Geospatial Information Systems Council"
+Delaware,DPH4,"Last Mile Facility","1500 Johnson Way","New Castle",DE,19720,39.659874,-75.586619,1,rooftop,1500,"Johnson Way",,,"Historic New Castle",DE,"New Castle County",19720,US,"New Castle"
+Florida,DMI2,"Last Mile Facility","15600 NW 15th Ave","Miami Gardens",FL,33169,25.91768,-80.22605,1,rooftop,15600,"NW 15th Ave",,,Miami,FL,"Miami-Dade County",33169,US,"Miami-Dade County"
+Florida,DMI3,"Last Mile Facility","3200 Northwest 67th Ave",Miami,FL,33122,25.813496,-80.307323,1,rooftop,3200,"NW 67th Ave",,,Miami,FL,"Miami-Dade County",33122,US,"Miami-Dade County"
+Florida,DMI4,"Last Mile Facility","251 International Pkwy",Sunrise,FL,33325,26.123427,-80.341705,1,rooftop,251,"International Pkwy",,,Sunrise,FL,"Broward County",33325,US,Broward
+Florida,DMI6,"Last Mile Facility","6703 NW 7th St",Miami,FL,33126,25.777609,-80.30641,1,rooftop,6703,"NW 7th St",,,Miami,FL,"Miami-Dade County",33126,US,Statewide2
+Florida,DMI7,"Last Mile Facility","6729 Belvedere Rd","West Palm Beach",FL,33413,26.694617,-80.149017,1,rooftop,6729,"Belvedere Rd",,,"West Palm Beach",FL,"Palm Beach County",33413,US,"Palm Beach County"
+Florida,HMI1,"Last Mile Facility","1900 NW 132nd Place",Doral,FL,33182,25.793986,-80.411171,1,rooftop,1900,"NW 132nd Pl",,,Miami,FL,"Miami-Dade County",33182,US,"Miami-Dade County"
+Florida,DMO1,"Last Mile Facility","7469 Kingspointe Pkwy",Orlando,FL,32819,28.459025,-81.440114,1,rooftop,7469,"Kingspointe Pkwy",,,Orlando,FL,"Orange County",32819,US,"Orange County"
+Florida,DMO3,"Last Mile Facility","1216 S Orange Blossom Trail",Orange,FL,32805,28.52782,-81.39706,1,rooftop,1216,"S Orange Blossom Trl",,,Orlando,FL,"Orange County",32805,US,Statewide2
+Florida,DMO4,"Last Mile Facility","3880 Mason Ave","Daytona Beach",FL,32114,29.227186,-81.02964,0.6,street_center,,"Mason Ave",,,"Daytona Beach",FL,"Volusia County",32114,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,DMO6,"Last Mile Facility","700 Banyan Trail","Boca Raton",FL,33431,26.377763,-80.117381,1,rooftop,700,"Banyan Trl",,,"Boca Raton",FL,"Palm Beach County",33431,US,"Palm Beach County"
+Florida,HMO1,"Last Mile Facility","901 West Landstreet Rd",Orlando,FL,32824,28.437593,-81.391905,1,rooftop,901,"W Landstreet Rd",,,Orlando,FL,"Orange County",32824,US,"Orange County"
+Florida,DJX1,"Last Mile Facility","11084 Cabot Commerce Circle Bldg 4",Jacksonville,FL,32226,30.433647,-81.576263,1,rooftop,11084,"Cabot Commerce Cir",Bldg,4,Jacksonville,FL,"Duval County",32226,US,Duval
+Florida,DJX2,"Last Mile Facility","4645 Blanding Bvd",Jacksonville,FL,32210,30.257686,-81.741145,1,rooftop,4645,"Blanding Blvd",,,Jacksonville,FL,"Duval County",32210,US,Duval
+Florida,DJX6,"Last Mile Facility","3960 Inman Rd","St Augustine",FL,32084,29.92452,-81.403027,1,rooftop,3960,"Inman Rd",,,"Saint Augustine",FL,"St. Johns County",32084,US,"St Johns"
+Florida,HJX1,"Last Mile Facility","2780 Lloyd Rd","West Jacksonville",FL,32254,30.357472,-81.759883,0.87,rooftop,2780,"Lloyd Rd",,,Jacksonville,FL,"Duval County",32254,US,Duval
+Florida,DSR1,"Last Mile Facility","2906 Corporate Way",Palmetto,FL,34221,27.580894,-82.534481,1,rooftop,2906,"Corporate Way",,,Palmetto,FL,"Manatee County",34221,US,"Manatee County"
+Florida,DTP1,"Last Mile Facility","8824 E Adamo Dr",Tampa,FL,33619,27.952195,-82.357139,1,rooftop,8824,"E Adamo Dr",,,Tampa,FL,"Hillsborough County",33619,US,"Hillsborough County"
+Florida,DTP2,"Last Mile Facility","9900 18th St N","St Petersburg",FL,33716,27.862682,-82.658544,1,rooftop,9900,"18th St N",,,"Saint Petersburg",FL,"Pinellas County",33716,US,"City of Pinellas Park"
+Florida,DTP7,"Last Mile Facility","1003 N Taylor Rd",Seffner,FL,33584,28.005777,-82.289387,1,rooftop,1003,"N Taylor Rd",,,Seffner,FL,"Hillsborough County",33584,US,"Hillsborough County"
+Florida,HTP1,"Last Mile Facility","9799 International Ct N","St Petersburg",FL,33716,27.861226,-82.653041,1,rooftop,9799,"International Ct N",,,"Saint Petersburg",FL,"Pinellas County",33716,US,"Pinellas County"
+Florida,HPB1,"Last Mile Facility","6729 Belvedere Rd Bldg 5","Palm Beach",FL,33413,26.694617,-80.149017,1,rooftop,6729,"Belvedere Rd",Bldg,5,"West Palm Beach",FL,"Palm Beach County",33413,US,"Palm Beach County"
+Florida,DFL1,"Last Mile Facility","3880 NE 39th Ave",Gainesville,FL,32609,29.686442,-82.276768,1,rooftop,3880,"NE 39th Ave",,,Gainesville,FL,"Alachua County",32609,US,"City of Gainesville"
+Florida,DFL3,"Last Mile Facility","2121 NW 67th Place ",Gainesville,FL,32653,29.715231,-82.351771,1,rooftop,2121,"NW 67th Pl",,,Gainesville,FL,"Alachua County",32653,US,Alachua
+Florida,DFL4,"Last Mile Facility","4401 Seaboard Rd",Orlando,FL,32808,28.581762,-81.437882,1,rooftop,4401,"Seaboard Rd",,,Orlando,FL,"Orange County",32808,US,Statewide2
+Florida,DFL5,"Last Mile Facility","3150 Shelby Industrial Dr",Apopka,FL,32703,28.681678,-81.56674,0.8,nearest_rooftop_match,3142,"Shelby Industrial Dr",,,Apopka,FL,"Orange County",32703,US,"Orange County"
+Florida,DFL7,"Last Mile Facility","8100 State Road 33",Lakeland,FL,33809,28.151457,-81.887943,1,rooftop,8100,"Hwy 33 N",,,Lakeland,FL,"Polk County",33809,US,Polk
+Florida,DMF1,"Last Mile Facility","5700 NW 37th Ave",Hialeah,FL,33142,25.826527,-80.258143,1,rooftop,5700,"NW 37th Ave",,,Miami,FL,"Miami-Dade County",33142,US,"Miami-Dade County"
+Florida,DMF3,"Last Mile Facility","2800 N Andrews Ave Ext","Pompano Beach ",FL,33064,26.264154,-80.138105,1,rooftop,2800,"N Andrews Ave",,,"Pompano Beach",FL,"Broward County",33064,US,Broward
+Florida,DMF5,"Last Mile Facility","13450 NW 14th St",Miami,FL,33182,25.785106,-80.412678,1,rooftop,13450,"NW 14th St",,,Miami,FL,"Miami-Dade County",33182,US,"Miami-Dade County"
+Florida,DMF8,"Last Mile Facility","13133 34th St N",Clearwater,FL,33762,27.891809,-82.679679,1,range_interpolation,13133,"34th St N",,,Clearwater,FL,"Pinellas County",33762,US,"TIGER/Line® dataset from the US Census Bureau"
+Florida,,"Last Mile Facility","3300 NW 31st Ave","Pompano Beach ",FL,33069,26.268262,-80.16632,1,rooftop,3300,"NW 31st Ave",,,"Pompano Beach",FL,"Broward County",33069,US,Broward
+Florida,DMO7,"Last Mile Facility","9775 Air Commerce Pkwy",Orlando,FL,32827,28.422684,-81.341711,1,rooftop,9775,"Air Commerce Pkwy",,,Orlando,FL,"Orange County",32827,US,"Orange County"
+Florida,DFM2,"Last Mile Facility","10016 Bavaria Rd","Ft Myers",FL,33913,26.56236,-81.791014,1,rooftop,10016,"Bavaria Rd",,,"Fort Myers",FL,"Lee County",33913,US,Loveland
+Florida,DFM3,"Last Mile Facility","770 Commerce Dr",Venice,FL,34292,27.113335,-82.375623,1,rooftop,770,"Commerce Dr",,,Venice,FL,"Sarasota County",34292,US,"Sarasota County"
+Florida,HRS1,"Last Mile Facility","7916 Drew Circle","Ft Myers",FL,33967,26.487383,-81.826032,1,rooftop,7916,"Drew Cir",,,"Fort Myers",FL,"Lee County",33967,US,Loveland
+Florida,DVB1,"Last Mile Facility","7440 Commercial Circle","Ft Pierce",FL,34951,27.473715,-80.407245,1,rooftop,7440,"Commercial Cir",,,"Fort Pierce",FL,"St. Lucie County",34951,US,Loveland
+Florida,HMB1,"Last Mile Facility","8792 Ely Rd",Penscola,FL,32514,30.523331,-87.200819,1,rooftop,8792,"Ely Rd",,,Pensacola,FL,"Escambia County",32514,US,Escambia
+Florida,,"Last Mile Facility","8760 Davis Blvd",Naples,FL,34104,26.153008,-81.687631,1,rooftop,8760,"Davis Blvd",,,Naples,FL,"Collier County",34104,US,"Collier County"
+Georgia,DAT1,"Last Mile Facility","4800 Highlands Pkwy SE",Smyrna,GA,30082,33.830327,-84.507537,1,rooftop,4800,"Highlands Pkwy",,,Smyrna,GA,"Cobb County",30082,US,Cobb
+Georgia,DAT2,"Last Mile Facility","1700 Belle Meade Ct",Lawrenceville,GA,30043,33.961541,-84.056591,1,rooftop,1700,"Belle Meade Ct",,,Lawrenceville,GA,"Gwinnett County",30043,US,Gwinnett
+Georgia,DAT3,"Last Mile Facility","2750 Sullivan Rd",Atlanta,GA,30337,33.62326,-84.479504,1,rooftop,2750,"Sullivan Rd",,,Atlanta,GA,"Fulton County",30337,US,"Fulton County"
+Georgia,DAT6,"Last Mile Facility","7055 Campbellton Rd",Atlanta,GA,30331,33.693574,-84.616895,0.9,rooftop,7055,"Campbellton Rd SW",,,Atlanta,GA,"Fulton County",30331,US,"Fulton County"
+Georgia,HAT1,"Last Mile Facility","3185 Fayetteville Rd SE",Atlanta,GA,30316,33.690959,-84.345062,1,range_interpolation,3185,"Fayetteville Rd SE",,,Atlanta,GA,"DeKalb County",30316,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,DGE2,"Last Mile Facility","140 Commerce Ct",Rincon,GA,31326,32.285205,-81.287526,0.33,place,,,,,Rincon,GA,"Effingham County",31326,US,"TIGER/Line® dataset from the US Census Bureau"
+Georgia,DGE4,"Last Mile Facility","1500 Crossgate Rd","Port Wentworth",GA,31407,32.148001,-81.175849,1,rooftop,1500,"Crossgate Rd",,,"Port Wentworth",GA,"Chatham County",31407,US,"City of Savannah"
+Georgia,DGE9,"Last Mile Facility","5000 Lanier Islands Pkwy Bldg 2",Buford,GA,30518,34.143702,-83.959672,1,rooftop,5000,"Lanier Islands Pkwy",Bldg,2,Buford,GA,"Hall County",30518,US,Hall
+Georgia,,"Last Mile Facility","6945 Button Gwinnett Dr",Doraville,GA,30340,33.906964,-84.239201,1,rooftop,6945,"Button Gwinnett Dr",,,Atlanta,GA,"Gwinnett County",30340,US,Gwinnett
+Iowa,DIA1,"Last Mile Facility","250TH St NW","North Liberty",IA,52317,41.752806,-91.697067,1,street_center,,"250th St NW",,,"North Liberty",IA,"Johnson County",52317,US,"TIGER/Line® dataset from the US Census Bureau"
+Iowa,DIA3,"Last Mile Facility","1301 E Gateway Dr Bldg 5",Grimes,IA,50111,41.697991,-93.775854,0.62,nearest_rooftop_match,1251,"NE Gateway Dr",Bldg,5,Grimes,IA,"Polk County",50111,US,Polk
+Iowa,DIA4,"Last Mile Facility","2500 Heinz Rd","Iowa City",IA,52240,41.632677,-91.488275,1,rooftop,2500,"Heinz Rd",,,"Iowa City",IA,"Johnson County",52240,US,Johnson
+Illinois,DCH1,"Last Mile Facility","2801 S Western Ave",Chicago,IL,60608,41.840572,-87.68413,1,rooftop,2801,"S Western Ave",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+Illinois,DCH2,"Last Mile Facility","8290 Austin Ave","Morton Grove",IL,60053,42.031672,-87.777677,1,rooftop,8290,"Austin Ave",,,"Morton Grove",IL,"Cook County",60053,US,Cook
+Illinois,DCH3,"Last Mile Facility","4500 Western Ave",Lisle,IL,60532,41.803286,-88.097275,1,rooftop,4500,"Western Ave",,,Lisle,IL,"DuPage County",60532,US,Dupage
+Illinois,DCH4,"Last Mile Facility","401 Terrace Dr",Mudelein,IL,60060,42.254313,-87.985719,1,rooftop,401,"Terrace Dr",,,Mundelein,IL,"Lake County",60060,US,Lake
+Illinois,DCH5,"Last Mile Facility","2450 Northwest Pkwy",Elgin,IL,60124,42.094343,-88.337395,0.9,range_interpolation,2450,"Northwest Pkwy",,,Elgin,IL,"Kane County",60123,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DCH6,"Last Mile Facility","206 S Pinnacle Dr",Romeoville,IL,60446,41.617307,-88.118221,1,rooftop,206,"S Pinnacle Dr",,,Romeoville,IL,"Will County",60446,US,Will
+Illinois,DCH7,"Last Mile Facility","250 Airport Rd",Elgin,IL,60123,42.067167,-88.286356,0.9,range_interpolation,250,"Airport Rd",,,Elgin,IL,"Kane County",60123,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DCH8,"Last Mile Facility","1801 5th Ave Bldgs 1/2/3","Melrose Park",IL,60160,41.908053,-87.839948,1,range_interpolation,1801,"5th Ave",,,"Melrose Park",IL,"Cook County",60160,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DXH6,"Last Mile Facility","3800 Finley Rd #3","Downers Grove",IL,60515,41.833597,-88.025532,0.6,street_center,,"Finley Rd",#,3,"Downers Grove",IL,"DuPage County",60515,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DLN2,"Last Mile Facility","1400 S Laramie Ave",Cicero,IL,60804,41.861944,-87.754412,1,range_interpolation,1400,"S Laramie Ave",,,Cicero,IL,"Cook County",60804,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DLN3,"Last Mile Facility","1455 W Shure Dr","Arlington Heights",IL,60004,42.133734,-87.998286,1,rooftop,1455,"W Shure Dr",,,"Arlington Heights",IL,"Cook County",60004,US,Cook
+Illinois,DLN4,"Last Mile Facility","10500 S Woodlawn Ave",Chicago,IL,60628,41.713603,-87.592411,0.6,street_center,,"S Woodlawn Ave",,,Chicago,IL,"Cook County",60628,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DLN8,"Last Mile Facility","315 South Hicks Rd",Palatine,IL,60067,42.103685,-88.0323,1,rooftop,315,"S Hicks Rd",,,Palatine,IL,"Cook County",60067,US,Cook
+Illinois,,"Last Mile Facility","23700 Bluff Rd",Channahon,IL,60410,41.43547,-88.188066,0.9,rooftop,23700,"W Bluff Rd",,,Channahon,IL,"Will County",60410,US,Will
+Illinois,HCH2,"Last Mile Facility","2350 S Wood St",Chicago,IL,60608,41.848582,-87.671356,1,rooftop,2350,"S Wood St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+Illinois,HMW1,"Last Mile Facility","30260 Graaskamp Blvd",Wimington,IL,60481,41.337265,-88.206639,0.9,rooftop,30260,"S Graaskamp Blvd",,,Wilmington,IL,"Will County",60481,US,Will
+Illinois,SIL1,"Last Mile Facility","2379 Davey Rd",Woodbridge,IL,60517,41.685178,-88.037968,1,rooftop,2379,"Davey Rd",,,Woodridge,IL,"Will County",60517,US,Will
+Illinois,DIL1,"Last Mile Facility","2901 Boardwalk Dr",Champaign,IL,61822,40.149164,-88.262154,0.6,street_center,,"Boardwalk Dr",,,Champaign,IL,"Champaign County",61822,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DIL5,"Last Mile Facility","808 Discovery Dr","West Chicago",IL,60185,41.872265,-88.252013,0.71,nearest_rooftop_match,805,"Discovery Dr",,,"West Chicago",IL,"DuPage County",60185,US,Dupage
+Illinois,DIL7,"Last Mile Facility","3609 Howard St",Skokie,IL,60076,42.018906,-87.718617,1,range_interpolation,3609,"Howard St",,,Skokie,IL,"Cook County",60076,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DLI4,"Last Mile Facility","3077 Gateway Commerce Center Dr South",Edwardsville,IL,62025,38.76934,-90.067119,0.5,street_center,,"Gateway Commerce Center Dr W",,,Edwardsville,IL,"Madison County",62025,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,DLI5,"Last Mile Facility","5106 State Route 111","Pontoon Beach",IL,62040,38.748779,-90.070923,1,range_interpolation,5106,"State Rte 111",,,"Granite City",IL,"Madison County",62040,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,HLU1,"Last Mile Facility","3931 Lakeview Corporate Drive",Edwardsville,IL,62048,38.801471,-90.07635,0.6,street_center,,"Lakeview Corporate Dr",,,Hartford,IL,"Madison County",62048,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,,"Last Mile Facility","3507 W 51st St","Gage Park",IL,60632,41.800539,-87.713514,1,range_interpolation,3507,"W 51st St",,,Chicago,IL,"Cook County",60632,US,"TIGER/Line® dataset from the US Census Bureau"
+Illinois,,"Last Mile Facility","2420 S Halsted St",Bridgeport,IL,60608,41.847955,-87.648425,1,rooftop,2420,"S Halsted St",,,Chicago,IL,"Cook County",60608,US,"City of Chicago"
+Illinois,,"Last Mile Facility","7557 South 78th Ave",Brideview,IL,60455,41.755543,-87.812464,1,rooftop,7557,"S 78th Ave",,,Bridgeview,IL,"Cook County",60455,US,Cook
+Indiana,HIN1,"Last Mile Facility","6057 Churchman Bypass Rd",Indianapolis,IN,46203,39.712293,-86.062588,1,range_interpolation,6057,"Churchman Byp",,,Indianapolis,IN,"Marion County",46203,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,DIN1,"Last Mile Facility","5850 W 80th St",Indianapolis,IN,46278,39.898858,-86.264119,1,rooftop,5850,"W 80th St",,,Indianapolis,IN,"Marion County",46278,US,Statewide
+Indiana,DIN2,"Last Mile Facility","2100 E 15th Ave",Gary,IN,46402,41.58822,-87.311222,1,rooftop,2100,"E 15th Ave",,,Gary,IN,"Lake County",46402,US,Lake
+Indiana,DIN3,"Last Mile Facility","5545 Chet Waggoner Ct #200","South Bend",IN,46628,41.716559,-86.335738,0.33,place,,,,,"South Bend",IN,"St. Joseph County",46628,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,DIN4,"Last Mile Facility","1621 Collins Rd",Greenwood,IN,46143,39.59412,-86.054465,1,range_interpolation,1621,"Collins Rd",,,Greenwood,IN,"Johnson County",46143,US,"TIGER/Line® dataset from the US Census Bureau"
+Indiana,DIN6,"Last Mile Facility","8610 Avionics Dr","Ft Wayne",IN,46809,41.006286,-85.195485,1,rooftop,8610,"Avionics Dr",,,"Fort Wayne",IN,"Allen County",46809,US,Allen
+Indiana,,"Last Mile Facility","14831 Foundation Ave",Evansville,IN,47725,38.112162,-87.48344,0.9,rooftop,14831,"Foundation Ave",,,Evansville,IN,"Vanderburgh County",47711,US,"City of Evansville"
+Kansas,DMC3,"Last Mile Facility","4054 Powell Dr",Shawnee,KS,66226,39.054719,-94.854514,1,rooftop,4054,"Powell Dr",,,"Shawnee Mission",KS,"Johnson County",66226,US,"City of Olathe"
+Kansas,HMC1,"Last Mile Facility","27200 West 157th St",Johnson,KS,66031,38.844954,-94.900912,1,rooftop,27200,"W 157th St",,,"New Century",KS,"Johnson County",66031,US,"City of Olathe"
+Kansas,,"Last Mile Facility","4044 N Toben",Wichita,KS,67226,37.757244,-97.230743,1,rooftop,4044,"N Toben St",,,Wichita,KS,"Sedgwick County",67226,US,"City of Wichita"
+Kansas,,"Last Mile Facility","17800 College Blvd",Lenex,KS,66219,38.932742,-94.790833,1,rooftop,17800,"College Blvd",,,Lenexa,KS,"Johnson County",66219,US,Statewide
+Maryland,DBA1,"Last Mile Facility","86 Alco Pl #98",Lansdowne,MD,21227,39.246932,-76.65072,1,rooftop,86,"Alco Pl",#,98,Halethorpe,MD,"Baltimore County",21227,US,Baltimore
+Maryland,DBA2,"Last Mile Facility","7458 New Ridge Rd",Hanover,MD,21076,39.170993,-76.70655,1,rooftop,7458,"New Ridge Rd",,,Hanover,MD,"Anne Arundel County",21076,US,"Anne Arundel County"
+Maryland,DBA3,"Last Mile Facility","8411 Kelso Dr",Essex,MD,21221,39.324112,-76.487588,1,rooftop,8411,"Kelso Dr",,,Essex,MD,"Baltimore County",21221,US,Statewide
+Maryland,DBA7,"Last Mile Facility","16604 Industrial Labe",Williamsport,MD,21795,39.600202,-77.795267,1,rooftop,16604,"Industrial Ln",,,Williamsport,MD,"Washington County",21795,US,Statewide
+Maryland,DBA8,"Last Mile Facility","7021 Dorsey Rd",Hanover,MD,21076,39.17104,-76.724787,1,rooftop,7021,"Dorsey Rd",,,Hanover,MD,"Anne Arundel County",21076,US,"Anne Arundel County"
+Maryland,DDC2,"Last Mile Facility","861 E Gude Dr",Rockville,MD,20850,39.106295,-77.151315,1,range_interpolation,861,"E Gude Dr",,,Rockville,MD,"Montgomery County",20850,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,DMD4,"Last Mile Facility","102 Fulfillment Dr",Edgewood,MD,21040,39.434799,-76.293579,0.33,place,,,,,Edgewood,MD,"Harford County",21040,US,"TIGER/Line® dataset from the US Census Bureau"
+Maryland,DMD8,"Last Mile Facility","9 Jay Gould Ct",Waldorf,MD,20602,38.611425,-76.910616,1,rooftop,9,"Jay Gould Ct",,,Waldorf,MD,"Charles County",20602,US,Statewide
+Maryland,DMD9,"Last Mile Facility","1000 Prince Georges Blvd","Upper Marlboro",MD,20774,38.874094,-76.724883,1,rooftop,1000,"Prince Georges Blvd",Uppr,,"Upper Marlboro",MD,"Prince George's County",20774,US,"Prince Georges"
+Maryland,DLD1,"Last Mile Facility","7659 Solley Rd","Glen Burnie",MD,21060,39.168968,-76.5539,1,rooftop,7659,"Solley Rd",,,"Glen Burnie",MD,"Anne Arundel County",21060,US,"Anne Arundel County"
+Maryland,DLD7,"Last Mile Facility","10100 Willowdale Rd",Lanham,MD,20706,38.955887,-76.831096,1,rooftop,10100,"Willowdale Rd",,,Lanham,MD,"Prince George's County",20706,US,"Prince Georges"
+Maryland,SMD1,"Last Mile Facility","7200 Dorsey Run Rd",Elkridge,MD,21075,39.171481,-76.761457,1,rooftop,7200,"Dorsey Run Rd",,,Elkridge,MD,"Howard County",21075,US,Howard
+Maryland,,"Last Mile Facility","5801 Columbia Park Rd",Landover,MD,20785,38.915948,-76.906841,1,rooftop,5801,"Columbia Park Rd",,,Hyattsville,MD,"Prince George's County",20785,US,"Prince Georges"
+Maryland,,"Last Mile Facility","700 N Frederick Rd",Gaithersburg,MD,20879,39.151998,-77.216532,1,rooftop,700,"N Frederick Ave",,,Gaithersburg,MD,"Montgomery County",20879,US,Montgomery
+Maryland,,"Last Mile Facility","10406 Tucker St",Beltsville,MD,20705,39.024249,-76.912586,1,rooftop,10406,"Tucker St",,,Beltsville,MD,"Prince George's County",20705,US,"Prince Georges"
+Maryland,HBA1,"Last Mile Facility","1100 Woodley Rd",Aberdeen,MD,21001,39.499909,-76.231177,0.33,place,,,,,Aberdeen,MD,"Harford County",21001,US,"TIGER/Line® dataset from the US Census Bureau"
+Massachusetts,DBO2,"Last Mile Facility","500 Sprague St",Dedham,MA,02026,42.234175,-71.140546,1,rooftop,500,"Sprague St",,,Dedham,MA,"Norfolk County",02026,US,"City of Dedham"
+Massachusetts,DBO3,"Last Mile Facility","8 Industrial Rd",Milford,MA,01757,42.139748,-71.492855,1,rooftop,8,"Industrial Rd",,,Milford,MA,"Worcester County",01757,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DBO7,"Last Mile Facility","161 Lower Westfield Rd",Holyoke,MA,01040,42.176048,-72.647607,1,rooftop,161,"Lower Westfield Rd",,,Holyoke,MA,"Hampden County",01040,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DBO8,"Last Mile Facility","24 Alger St",Boston,MA,02127,42.332973,-71.05782,1,range_interpolation,24,"Alger St",,,"South Boston",MA,"Suffolk County",02127,US,"TIGER/Line® dataset from the US Census Bureau"
+Massachusetts,DBO9,"Last Mile Facility","30 Commerce Blvd",Middleborough,MA,02346,41.907828,-70.955506,1,rooftop,30,"Commerce Blvd",,,Middleboro,MA,"Plymouth County",02346,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DMH9,"Last Mile Facility","135 American Legion Highway",Revere,MA,02151,42.413559,-71.000294,1,rooftop,135,"American Legion Hwy",,,Revere,MA,"Suffolk County",02151,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DAS8,"Last Mile Facility","110 Fordham Rd",Wilmington,MA,01887,42.562268,-71.140316,1,rooftop,110,"Fordham Rd",,,Wilmington,MA,"Middlesex County",01887,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DCB2,"Last Mile Facility","560 West St",Mansfield,MA,02048,42.023583,-71.245882,1,rooftop,560,"West St",,,Mansfield,MA,"Bristol County",02048,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DCB4,"Last Mile Facility","750 Everett St",Westwood,MA,02062,42.209698,-71.176408,1,rooftop,750,"Everett St",,,Norwood,MA,"Norfolk County",02062,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DCB8,"Last Mile Facility","351 Maple St",Bellingham,MA,02019,42.102348,-71.453259,1,rooftop,351,"Maple St",,,Bellingham,MA,"Norfolk County",02019,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,,"Last Mile Facility","39 Prestige Way",Kingston,MA,02360,41.968449,-70.705282,1,rooftop,39,"Prestige Way",,,Plymouth,MA,"Plymouth County",02360,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DBC3,"Last Mile Facility","800 John Quincy Adams Rd",Tauton,MA,02780,41.954013,-71.132568,1,rooftop,800,"John Quincy Adams Rd",,,Taunton,MA,"Bristol County",02780,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DBC6,"Last Mile Facility","100 Industrial Park Rd",Hingham,MA,02043,42.173871,-70.911877,1,rooftop,100,"Industrial Park Rd",,,Hingham,MA,"Plymouth County",02043,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Massachusetts,DTB8,"Last Mile Facility","4400 Computer Dr",Westborough,MA,01581,42.292193,-71.575892,1,rooftop,4400,"Computer Dr",,,Westborough,MA,"Worcester County",01581,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+Michigan,DDT1,"Last Mile Facility","1400 E 10 Mile Rd","Hazel Park",MI,48030,42.474845,-83.091904,1,rooftop,1400,"E 10 Mile Rd",,,"Hazel Park",MI,"Oakland County",48030,US,Oakland
+Michigan,DDT2,"Last Mile Facility","11457 Hannon Rd",Romulus,MI,48147,42.219915,-83.42427,0.9,range_interpolation,11457,"Hannan Rd",,,Romulus,MI,"Wayne County",48174,US,"TIGER/Line® dataset from the US Census Bureau"
+Michigan,DDT3,"Last Mile Facility","28415 Automation Blvd","Lyon Township",MI,48393,42.497559,-83.569208,1,rooftop,28415,"Automation Blvd",,,Wixom,MI,"Oakland County",48393,US,Oakland
+Michigan,DDT4,"Last Mile Facility","7009 W Mountain Hope Hwy",Lansing,MI,48917,42.722414,-84.652032,0.33,place,,,,,Lansing,MI,"Eaton County",48917,US,"TIGER/Line® dataset from the US Census Bureau"
+Michigan,DDT6,"Last Mile Facility","1200 Featherstone Rd",Pontiac,MI,48342,42.642572,-83.255793,1,rooftop,1200,"Featherstone Rd",,,Pontiac,MI,"Oakland County",48342,US,Semcog
+Michigan,DGR1,"Last Mile Facility","2935 Walkent Ct NW",Walker,MI,49544,43.020839,-85.721074,1,rooftop,2935,"Walkent Ct NW",,,"Grand Rapids",MI,"Kent County",49544,US,Kent
+Michigan,DGR3,"Last Mile Facility","33600 Mound Rd","Sterling Heights",MI,48310,42.540152,-83.044003,0.9,rooftop,33600,"Mound Rd",,,"Sterling Heights",MI,"Macomb County",48312,US,Semcog
+Michigan,HDT2,"Last Mile Facility","12795 Premier Center Ct",Plymouth,MI,48170,42.366737,-83.489679,0.33,place,,,,,Plymouth,MI,"Wayne County",48170,US,"TIGER/Line® dataset from the US Census Bureau"
+Mississippi,,"Last Mile Facility","46 Industrial Park Rd",Lucedale,MS,39452,30.929756,-88.589197,1,range_interpolation,46,"Industrial Park Rd",,,Lucedale,MS,"George County",39452,US,"TIGER/Line® dataset from the US Census Bureau"
+Missouri,DLI1,"Last Mile Facility","441 Hazelwood Logistics Center Dr Bldg 4",Hazelwood,MO,63042,38.766731,-90.383765,1,rooftop,441,"Hazelwood Logistics Center Dr",Bldg,4,Hazelwood,MO,"St. Louis County",63042,US,"St Louis"
+Missouri,DLI2,"Last Mile Facility","830 James S McDonnell Blvd",Hazelwood,MO,63042,38.77792,-90.392163,1,rooftop,830,"James S Mcdonnell Blvd",,,Hazelwood,MO,"St. Louis County",63042,US,"St Louis"
+Missouri,DLI6,"Last Mile Facility","6201 Aviator Dr",Hazelwood,MO,63042,38.771765,-90.357294,1,rooftop,6201,"Aviator Dr",,,Hazelwood,MO,"St. Louis County",63042,US,"St Louis"
+Missouri,DMC2,"Last Mile Facility","3601 Enterprise DR","Kansas City",MO,64129,39.058724,-94.493734,1,rooftop,3601,"Enterprise Dr",,,"Kansas City",MO,"Jackson County",64129,US,Jackson
+"New Jersey",DEW1,"Last Mile Facility","2 Empire Blvd",Moonachie,NJ,07074,40.833802,-74.053073,1,range_interpolation,2,"Empire Blvd",,,Moonachie,NJ,"Bergen County",07074,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DEW2,"Last Mile Facility","630 Sullivan Rd",Elizabeth,NJ,07201,40.668181,-74.187422,1,range_interpolation,630,"Sullivan Rd",,,Elizabeth,NJ,"Union County",07201,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DEW5,"Last Mile Facility","10 Princess Rd","Lawrence Township",NJ,08648,40.284584,-74.702928,1,rooftop,10,"Princess Rd",,,"Lawrence Township",NJ,"Mercer County",08648,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DEW8,"Last Mile Facility","281 Benigno Blvd",Bellmawr,NJ,08031,39.861803,-75.089852,1,rooftop,281,"Benigno Blvd",,,Bellmawr,NJ,"Camden County",08031,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DNJ1/HEW1,"Last Mile Facility","380 Middlesex Avenue",Carteret,NJ,07008,40.564059,-74.221066,1,rooftop,380,"Middlesex Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",HEW2,"Last Mile Facility","100 Forge Way",Rockaway,NJ,07866,40.920104,-74.494846,1,rooftop,100,"Forge Way",,,Rockaway,NJ,"Morris County",07866,US,Morris
+"New Jersey",DNJ2,"Last Mile Facility","555 Macarthur Blvd",Mahwah,NJ,07430,41.071981,-74.172164,1,rooftop,555,"Macarthur Blvd",,,Mahwah,NJ,"Bergen County",07430,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DNJ6,"Last Mile Facility","118 Moonachie Ave",Carlstadt,NJ,07072,40.834507,-74.057404,0.8,range_interpolation,118,"Moonachie Ave",,,Moonachie,NJ,"Bergen County",07074,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DNJ7,"Last Mile Facility","81 International Dr S","Mount Olive",NJ,07828,40.888684,-74.715944,0.87,rooftop,81,"International Dr",,,"Budd Lake",NJ,"Morris County",07828,US,Morris
+"New Jersey",DJZ1,"Last Mile Facility","125 North St",Teterboro,NJ,07608,40.864285,-74.049978,1,rooftop,125,"North St",,,Teterboro,NJ,"Bergen County",07608,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJZ2,"Last Mile Facility","610 Washington Ave",Carlstadt,NJ,07072,40.825244,-74.058167,1,range_interpolation,610,"Washington Ave",,,Carlstadt,NJ,"Bergen County",07072,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DJZ3,"Last Mile Facility","377 Roosevelt Ave",Carteret,NJ,07008,40.580159,-74.21459,1,rooftop,377,"Roosevelt Ave",,,Carteret,NJ,"Middlesex County",07008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJZ4,"Last Mile Facility","50 Central Ave",Kearny,NJ,07032,40.723427,-74.113029,1,range_interpolation,50,"Central Ave",,,Kearny,NJ,"Hudson County",07032,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DJZ5,"Last Mile Facility","429 Delancy St",Newark,NJ,07105,40.715914,-74.149824,1,range_interpolation,429,"Delancy St",,,Newark,NJ,"Essex County",07105,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DJZ6,"Last Mile Facility","1800 Lower Rd",Linden,NJ,07036,40.609355,-74.25326,1,rooftop,1800,"Lower Rd",,,Linden,NJ,"Union County",07036,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJZ8,"Last Mile Facility","1 Paddock St",Avenel,NJ,07001,40.58607,-74.272534,1,range_interpolation,1,"Paddock St",,,Avenel,NJ,"Middlesex County",07001,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DJR5,"Last Mile Facility","670 Belleville Turnpike",Kearny,NJ,07032,40.767269,-74.126251,1,rooftop,670,"Belleville Tpke",,,Kearny,NJ,"Hudson County",07032,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJR6,"Last Mile Facility","5 Logistics Drive",Kearny,NJ,07032,40.75175,-74.122937,0.33,place,,,,,Kearny,NJ,"Hudson County",07032,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DNY5,"Last Mile Facility","10 Patton Drive ","West Caldwell",NJ,07006,40.861216,-74.281568,1,rooftop,10,"Patton Dr",,,"West Caldwell",NJ,"Essex County",07006,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJE1,"Last Mile Facility","8 B Court","South Edison",NJ,08817,40.510796,-74.405657,0.8,rooftop,8,"Gates Pl",,,Edison,NJ,"Middlesex County",08817,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJE2,"Last Mile Facility","1250 Forest Pkwy",Paulsboro,NJ,08066,39.823555,-75.208516,1,rooftop,1250,"Forest Pkwy",,,Paulsboro,NJ,"Gloucester County",08066,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DJE3,"Last Mile Facility","2320 Center Square Rd",Logan,NJ,08085,39.75274,-75.318049,0.67,place,,,,,Swedesboro,NJ,"Gloucester County",08085,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",DJE6,"Last Mile Facility","79 Thomas McGovern Dr","Jersey City",NJ,07305,40.701631,-74.061708,1,rooftop,79,"T Mcgovern Dr",,,"Jersey City",NJ,"Hudson County",07305,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",DNK5,"Last Mile Facility","105 Avenue A",Bayonne,NJ,07002,40.64857,-74.141034,1,range_interpolation,105,"Ave A",,,Bayonne,NJ,"Hudson County",07002,US,"TIGER/Line® dataset from the US Census Bureau"
+"New Jersey",HPH1,"Last Mile Facility","10 Patton Drive ",Caldwell,NJ,07006,40.861216,-74.281568,1,rooftop,10,"Patton Dr",,,"West Caldwell",NJ,"Essex County",07006,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",HNE1,"Last Mile Facility","1225 Forest Pkwy West",Deptford,NJ,08066,39.828875,-75.213163,1,rooftop,1225,"Forest Pkwy",,,Paulsboro,NJ,"Gloucester County",08066,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New Jersey",HNE1,"Last Mile Facility","2205 State Route 27",Edison,NJ,08817,40.533251,-74.382064,1,rooftop,2205,"Lincoln Hwy",,,Edison,NJ,"Middlesex County",08817,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"New York",DNY1,"Last Mile Facility","60 East 42nd St","New York",NY,10165,40.752285,-73.978464,0.9,rooftop,60,"E 42nd St",,,"New York",NY,"New York County",10017,US,"City of New York"
+"New York",DNY4,"Last Mile Facility","201 Grumman Rd W",Bethpage,NY,11714,40.747625,-73.492609,1,rooftop,201,"Grumman Rd W",,,Bethpage,NY,"Nassau County",11714,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DAL1,"Last Mile Facility","75 Cohoes Ave","Green Island Village",NY,12183,42.753191,-73.693149,1,rooftop,75,"Cohoes Ave",,,Troy,NY,"Albany County",12183,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DRO1,"Last Mile Facility","330 Clay Rd",Rochester,NY,14623,43.08394,-77.617713,1,rooftop,330,"Clay Rd",,,Rochester,NY,"Monroe County",14623,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DBK1,"Last Mile Facility","1 Bulova Ave",Woodside,NY,11377,40.762536,-73.903433,1,range_interpolation,1,"Bulova Ave",,,Woodside,NY,"Queens County",11377,US,"TIGER/Line® dataset from the US Census Bureau"
+"New York",DBK6,"Last Mile Facility","2300 Linden Blvd",Brooklyn,NY,11208,40.663796,-73.877831,1,rooftop,2300,"Linden Blvd",,,Brooklyn,NY,"Kings County",11208,US,"City of New York"
+"New York",DNJ3,"Last Mile Facility","1300 Viele Ave",Bronx,NY,10474,40.80675,-73.883977,1,rooftop,1300,"Viele Ave",,,Bronx,NY,"Bronx County",10474,US,"City of New York"
+"New York",HNY1,"Last Mile Facility","80 Grumman Rd",Bethpage,NY,11714,40.743344,-73.490291,0.9,rooftop,80,"Grumman Rd W",,,Bethpage,NY,"Nassau County",11714,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DAB3,"Last Mile Facility","10 Jupiter Lane",Colonie,NY,12205,42.717322,-73.839734,1,rooftop,10,"Jupiter Ln",,,Albany,NY,"Albany County",12205,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DAB4,"Last Mile Facility","1785 NY-5S",Amsterdam,NY,12010,42.906298,-74.229042,0.33,place,,,,,Amsterdam,NY,"Montgomery County",12010,US,"TIGER/Line® dataset from the US Census Bureau"
+"New York",DAB8,"Last Mile Facility","100 Precision Dr",Shirley,NY,11967,40.847275,-72.874315,1,rooftop,100,"Precision Dr",,,Shirley,NY,"Suffolk County",11967,US,Suffolk
+"New York",,"Last Mile Facility","30B Post Rd",Colonie,NY,12205,42.723163,-73.850785,1,rooftop,"30 B","Post Rd",,,Albany,NY,"Albany County",12205,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DYY6,"Last Mile Facility","566 Gulf Ave","Staten Island",NY,10314,40.615876,-74.188077,1,rooftop,566,"Gulf Ave",,,"Staten Island",NY,"Richmond County",10314,US,"City of New York"
+"New York",DBU2,"Last Mile Facility","2 Westbury Ave","Carle Place",NY,11501,40.747739,-73.622038,0.9,rooftop,2,"Westbury Ave",,,"Carle Place",NY,"Nassau County",11514,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DYO1,"Last Mile Facility","500 Hudson Valley Ave","New Windsor",NY,12553,41.485305,-74.104082,1,rooftop,500,"Hudson Valley Ave",,,"New Windsor",NY,"Orange County",12553,US,Orange
+"New York",DZY1,"Last Mile Facility","3850 21st St","Long Island City",NY,11101,40.743867,-73.948557,0.6,street_center,,"21st St",,,"Long Island City",NY,"Queens County",11101,US,"TIGER/Line® dataset from the US Census Bureau"
+"New York",DXY4,"Last Mile Facility","200 Oritani Dr",Blauvelt,NY,10913,41.0766,-73.956683,1,rooftop,200,"Oritani Dr",,,Blauvelt,NY,"Rockland County",10913,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",,"Last Mile Facility","400 Oritani Dr",Blauvelt,NY,10913,41.075313,-73.957709,1,rooftop,400,"Oritani Dr",,,Blauvelt,NY,"Rockland County",10913,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",DBU1,"Last Mile Facility","800 River Pkwy",Tonawanda,NY,14150,42.99704,-78.878659,0.33,place,,,,,Tonawanda,NY,"Erie County",14150,US,"TIGER/Line® dataset from the US Census Bureau"
+"New York",DYR7,"Last Mile Facility","717 Broadway Ave",Holbrook,NY,11741,40.775536,-73.064042,1,rooftop,717,"Broadway Ave",,,Holbrook,NY,"Suffolk County",11741,US,Suffolk
+"New York",,"Last Mile Facility","6834 Kirkville Rd",Dewitt,NY,13057,43.076296,-76.049069,1,rooftop,6834,"Kirkville Rd",,,"East Syracuse",NY,"Onondaga County",13057,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"New York",,"Last Mile Facility","66-26 Metropolitan Ave","Middle Village",NY,11379,40.71216,-73.890711,1,rooftop,66-26,"Metropolitan Ave",,,"Middle Village",NY,"Queens County",11379,US,"City of New York"
+"New York",,"Last Mile Facility","55-15 Grand Ave",Maspeth,NY,11378,40.718852,-73.913636,0.99,rooftop,55-16,"Grand Ave",,,Maspeth,NY,"Queens County",11378,US,"City of New York"
+"North Carolina",DLT1,"Last Mile Facility","3830 Parrott Dr",Charlotte,NC,28214,35.243563,-80.992523,1,rooftop,3830,"Parrott Dr",,,Charlotte,NC,"Mecklenburg County",28214,US,Mecklenburg
+"North Carolina",DLT2,"Last Mile Facility","7929 National Service Rd",Colfax,NC,27409,36.083063,-79.975505,1,rooftop,7929,"National Service Rd",,,Greensboro,NC,"Guilford County",27409,US,"NC Geographic Information Coordinating Council"
+"North Carolina",DLT3,"Last Mile Facility","413 Goodman Rd",Concord,NC,28027,35.407183,-80.697823,1,rooftop,413,"Goodman Rd",,,Concord,NC,"Cabarrus County",28027,US,Cabarrus
+"North Carolina",DLT6,"Last Mile Facility","1610 Old Greensboro Rd",Kernersville,NC,27284,36.10906,-80.027593,1,rooftop,1610,"Old Greensboro Rd",,,Kernersville,NC,"Guilford County",27284,US,Forsyth
+"North Carolina",DRT1,"Last Mile Facility","224 N Hoover Rd",Durham,NC,27703,35.994136,-78.856941,1,rooftop,224,"N Hoover Rd",,,Durham,NC,"Durham County",27703,US,Durham
+"North Carolina",DRT4,"Last Mile Facility","394 Fanning Fields Rd","Mills River",NC,28759,35.415016,-82.548339,1,rooftop,394,"Fanning Fields Rd",,,"Mills River",NC,"Henderson County",28759,US,"NC Geographic Information Coordinating Council"
+"North Carolina",DRT8,"Last Mile Facility","1275 Person St",Durham,NC,27703,35.964965,-78.873013,1,rooftop,1275,"Person St",,,Durham,NC,"Durham County",27703,US,Durham
+"North Carolina",DRT9,"Last Mile Facility","1000 Innovation Ave",Morrisville,NC,27560,35.870285,-78.821527,1,rooftop,1000,"Innovation Ave",,,Morrisville,NC,"Wake County",27560,US,Wake
+"North Carolina",HCL1,"Last Mile Facility","4525 Statesville Ave",Charlotte,NC,28269,35.282301,-80.835621,1,rooftop,4525,"Statesville Rd",,,Charlotte,NC,"Mecklenburg County",28269,US,Mecklenburg
+"North Carolina",HRD1,"Last Mile Facility","1805 TW Alexander Drive",Durham,NC,27703,35.923119,-78.831287,1,rooftop,1805,"T W Alexander Dr",,,Durham,NC,"Durham County",27703,US,Durham
+"North Carolina",,"Last Mile Facility","6495 Franz Warner Pkwy",Whitsett,NC,27377,36.053254,-79.603483,1,rooftop,6495,"Franz Warner Pkwy",,,Whitsett,NC,"Guilford County",27377,US,Guilford
+Ohio,DCN1,"Last Mile Facility","4250 Port Union Rd",Fairfield,OH,45011,39.332113,-84.487016,1,range_interpolation,4250,"Port Union Rd",,,"West Chester",OH,"Butler County",45011,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DCL1,"Last Mile Facility","26555 Bluestone Blvd",Euclid,OH,44132,41.606292,-81.497314,0.33,place,,,,,Euclid,OH,"Cuyahoga County",44132,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DCL2,"Last Mile Facility","2823 Gilchrist Rd",Akron,OH,44305,41.062191,-81.425102,1,rooftop,2823,"Gilchrist Rd",,,Akron,OH,"Summit County",44305,US,Summit
+Ohio,DCL3,"Last Mile Facility","12111 DeBartolo Dr","North Jackson",OH,44451,41.096412,-80.88201,1,rooftop,12111,"Debartolo Dr",,,"North Jackson",OH,"Mahoning County",44451,US,Mahoning
+Ohio,DCL4,"Last Mile Facility","24800 Miles Rd","Bedford Heights",OH,44146,41.424098,-81.496437,0.6,street_center,,"Miles Rd",,,Bedford,OH,"Cuyahoga County",44146,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DCL7,"Last Mile Facility","10801 Madison Ave",Cleveland,OH,44102,41.476889,-81.760614,1,range_interpolation,10801,"Madison Ave",,,Cleveland,OH,"Cuyahoga County",44102,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DCM1,"Last Mile Facility","4100 Lockbourne Industrial Pkwy",Columbus,OH,43207,39.882942,-82.962638,1,rooftop,4100,"Lockbourne Industrial Pkwy",,,Columbus,OH,"Franklin County",43207,US,Franklin
+Ohio,DCM2,"Last Mile Facility","2000 Composite Dr",Kettering,OH,45420,39.717059,-84.134172,0.22,place,,,,,Dayton,OH,"Montgomery County",45420,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DCM3,"Last Mile Facility","43500 Victory Pkwy",Solon,OH,44139,41.386753,-81.440322,0.33,place,,,,,Solon,OH,"Cuyahoga County",44139,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,DKY4,"Last Mile Facility","3191 River Rd",Cincinnati,OH,45204,39.086212,-84.574946,1,range_interpolation,3191,"River Rd",,,Cincinnati,OH,"Hamilton County",45204,US,"TIGER/Line® dataset from the US Census Bureau"
+Ohio,HCE1,"Last Mile Facility","8685 Independence Parkway",Twinsburg,OH,44087,41.305756,-81.467369,1,rooftop,8685,"Independence Pkwy",,,Twinsburg,OH,"Summit County",44087,US,Summit
+Ohio,HCE2,"Last Mile Facility","23371 Aurora Rd","Bedford Heights",OH,44146,41.418269,-81.510782,1,rooftop,23371,"Aurora Rd",,,Bedford,OH,"Cuyahoga County",44146,US,Cuyahoga
+Ohio,HCM1,"Last Mile Facility","3538 TradePort Court Bldg 2",Lockbourne,OH,43137,39.78233,-82.947827,1,rooftop,3538,"Tradeport Ct",Bldg,2,Lockbourne,OH,"Pickaway County",43137,US,Pickaway
+Ohio,DCM5,"Last Mile Facility","8591 Mink St Sw",Etna,OH,43062,39.967609,-82.72351,1,rooftop,8591,"Mink St SW",,,Etna,OH,"Licking County",43062,US,Licking2
+Ohio,DCM6,"Last Mile Facility","1280 London-Groveport Rd","Grove City",OH,43123,39.826204,-83.039288,1,range_interpolation,1280,"London Groveport Rd",,,"Grove City",OH,"Franklin County",43123,US,"TIGER/Line® dataset from the US Census Bureau"
+Oklahoma,DOK1,"Last Mile Facility","4401 E Hefner Rd","Oklahoma City",OK,73131,35.581119,-97.439644,1,rooftop,4401,"E Hefner Rd",,,"Oklahoma City",OK,"Oklahoma County",73131,US,Oklahoma
+Oklahoma,DOK2,"Last Mile Facility","13510 E 59th St",Tulsa,OK,74134,36.077543,-95.825638,0.8,rooftop,13510,"E 59th St S",,,"Broken Arrow",OK,"Tulsa County",74012,US,Tulsa
+Oklahoma,DOK3,"Last Mile Facility","6101 SW 44th St","Oklahoma City",OK,73179,35.421492,-97.621531,1,rooftop,6101,"SW 44th St",,,"Oklahoma City",OK,"Oklahoma County",73179,US,Oklahoma
+Oklahoma,DOK4,"Last Mile Facility","6801 S Air Depot Blvd","Oklahoma City",OK,73135,35.398123,-97.407176,1,rooftop,6801,"S Air Depot Blvd",,,"Oklahoma City",OK,"Oklahoma County",73135,US,Oklahoma
+Oklahoma,HOK1,"Last Mile Facility","1414 S Council Rd","Oklahoma City",OK,73128,35.451373,-97.653107,1,rooftop,1414,"S Council Rd",,,"Oklahoma City",OK,"Oklahoma County",73128,US,Oklahoma
+Pennsylvania,DPH1,"Last Mile Facility","4219 Richmond St",Philadelphia,PA,19137,39.994076,-75.07705,1,rooftop,4219,"Richmond St",,,Philadelphia,PA,"Philadelphia County",19137,US,Philadelphia
+Pennsylvania,DPH2,"Last Mile Facility","500 American Ave","King of Prussia",PA,19406,40.094181,-75.401878,1,rooftop,500,"American Ave",,,"King Of Prussia",PA,"Montgomery County",19406,US,Montgomery
+Pennsylvania,DPH6,"Last Mile Facility","2001 Gehman Rd",Harleysville,PA,19438,40.253248,-75.346154,1,rooftop,2001,"Gehman Rd",,,Harleysville,PA,"Montgomery County",19438,US,Montgomery
+Pennsylvania,DPH7,"Last Mile Facility","10 Industrial Rd",Elizabethtown,PA,17022,40.160426,-76.662653,1,rooftop,10,"Industrial Rd",,,Elizabethtown,PA,"Lancaster County",17022,US,Lancaster
+Pennsylvania,DPH8,"Last Mile Facility","7575 Brewster Ave",Philadelphia,PA,19153,39.903756,-75.23255,1,rooftop,7575,"Brewster Ave",,,Philadelphia,PA,"Philadelphia County",19153,US,Philadelphia
+Pennsylvania,DDP2,"Last Mile Facility","2400 S Weccacoe Ave",Philadelphia,PA,19148,39.916287,-75.142932,1,range_interpolation,2400,"Weccacoe Ave",,,Philadelphia,PA,"Philadelphia County",19148,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,DDP7,"Last Mile Facility","3750 State Rd",Bensalem,PA,19020,40.083539,-74.916647,1,rooftop,3750,State,,,Bensalem,PA,"Bucks County",19020,US,Bucks
+Pennsylvania,DDP9,"Last Mile Facility","3025 House Meeting Rd",Philadelphia,PA,19154,40.096485,-74.983219,0.33,place,,,,,Philadelphia,PA,"Philadelphia County",19154,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,DEW4,"Last Mile Facility","2251 Cabot Blvd W",Langhorne,PA,19047,40.191885,-74.86765,1,range_interpolation,2251,"Cabot Blvd W",,,Langhorne,PA,"Bucks County",19047,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,DPP1,"Last Mile Facility","501 North Dr",Sewickley,PA,15143,40.530888,-80.138852,1,rooftop,501,"North Dr",,,Sewickley,PA,"Allegheny County",15143,US,Allegheny
+Pennsylvania,DPP7,"Last Mile Facility","177 McClaren Woods Dr",Corapolis,PA,15108,40.463464,-80.220259,0.78,range_interpolation,177,"McClaren Rd",,,Coraopolis,PA,"Allegheny County",15108,US,"TIGER/Line® dataset from the US Census Bureau"
+Pennsylvania,HPT1,"Last Mile Facility","4800 McClaren Woods Dr",Corapolis,PA,15108,40.460039,-80.219963,1,rooftop,4800,"McClaren Woods Dr",,,Coraopolis,PA,"Allegheny County",15108,US,Allegheny
+Pennsylvania,DAE1,"Last Mile Facility","2595 Brodhead Rd",Bethlehem,PA,18020,40.680192,-75.357504,1,rooftop,2595,"Brodhead Rd",,,Bethlehem,PA,"Northampton County",18020,US,Northampton
+Pennsylvania,DAE3,"Last Mile Facility","2150 North Park Dr",Hazleton,PA,18202,40.965401,-76.001873,0.6,street_center,,"Park St",,,Hazleton,PA,"Luzerne County",18202,US,"TIGER/Line® dataset from the US Census Bureau"
+"Rhode Island",DRI1,"Last Mile Facility","10 Dupont Dr",Providence,RI,02907,41.800515,-71.439009,1,range_interpolation,10,"Dupont Dr",,,Providence,RI,"Providence County",02907,US,"TIGER/Line® dataset from the US Census Bureau"
+"South Carolina",DSC1,"Last Mile Facility","9801 Highway 78",Ladson,SC,29456,32.994509,-80.109764,1,rooftop,9801,"Highway 78",,,Ladson,SC,"Charleston County",29456,US,Charleston
+"South Carolina",DSC2,"Last Mile Facility","131 Overland Dr",Cayce,SC,29172,33.939935,-81.088601,1,rooftop,131,"Overland Dr",,,"West Columbia",SC,"Lexington County",29172,US,Lexington
+"South Carolina",DSC3,"Last Mile Facility","744 Frontage Rd",Greenville,SC,29611,34.785146,-82.451755,1,rooftop,744,"Frontage Rd",,,Greenville,SC,"Greenville County",29611,US,Greenville
+"South Carolina",DSC4,"Last Mile Facility","7406 Magi Rd",Hanahan,SC,29410,32.952925,-80.008495,0.9,range_interpolation,7406,"Magi Rd",,,Hanahan,SC,"Berkeley County",29410,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,DNA1,"Last Mile Facility","2813 Brick Church Pike",Nashville,TN,37207,36.22069,-86.776593,1,rooftop,2813,"Brick Church Pike",,,Nashville,TN,"Davidson County",37207,US,"City of Nashville"
+Tennessee,DNA2,"Last Mile Facility","2 Dell Pkwy",Nashville,TN,37217,36.095669,-86.605267,0.6,street_center,,"Del Crest Dr",,,Nashville,TN,"Davidson County",37217,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,DNA3,"Last Mile Facility","710 Myatt Dr",Madison,TN,37115,36.291869,-86.700835,1,rooftop,710,"Myatt Dr",,,Madison,TN,"Davidson County",37115,US,"City of Nashville"
+Tennessee,HBN1,"Last Mile Facility","10 Dell Pkwy",Nashville,TN,37217,36.095669,-86.605267,0.6,street_center,,"Del Crest Dr",,,Nashville,TN,"Davidson County",37217,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,HCT1/CHA1,"Last Mile Facility","7200 Discovery Drive",Chattanooga,TN,37416,35.068587,-85.142778,1,rooftop,7200,"Discovery Dr",,,Chattanooga,TN,"Hamilton County",37416,US,"City of Chattanooga"
+Tennessee,DTN2/HME1,"Last Mile Facility","109 W McLemore",Memphis,TN,38106,35.116163,-90.06617,1,range_interpolation,109,"W McLemore Ave",,,Memphis,TN,"Shelby County",38106,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,DTN3,"Last Mile Facility","2211 Sycamore Dr",Knoxville,TN,37921,35.981371,-83.96638,1,range_interpolation,2211,"Sycamore Dr",,,Knoxville,TN,"Knox County",37921,US,"TIGER/Line® dataset from the US Census Bureau"
+Tennessee,DTN4,"Last Mile Facility","3347 Pearson",Memphis,TN,38118,35.072476,-89.95188,1,rooftop,3347,"Pearson Rd",,,Memphis,TN,"Shelby County",38118,US,"City of Memphis"
+Tennessee,DTN7,"Last Mile Facility","242 Mason Rd","La Vergne",TN,37086,36.005324,-86.584268,1,rooftop,242,"Mason Rd",,,"La Vergne",TN,"Rutherford County",37086,US,"City of Murfreesboro"
+Tennessee,DTN8,"Last Mile Facility","1000 Richard Petty Way",Lebanon,TN,37090,36.118515,-86.263,0.33,place,,,,,Lebanon,TN,"Wilson County",37090,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DAU1,"Last Mile Facility","4616-6 West Howard Lane",Austin,TX,78728,30.445192,-97.709329,1,rooftop,4616,"W Howard Ln",,,Austin,TX,"Travis County",78728,US,Capcog
+Texas,DAU2,"Last Mile Facility","7000 Metropolis Dr",Austin,TX,78744,30.206079,-97.704425,1,rooftop,7000,"Metropolis Dr",,,Austin,TX,"Travis County",78744,US,Capcog
+Texas,DAU5,"Last Mile Facility","2956 Main St",Buda,TX,78610,30.087847,-97.801592,1,rooftop,2956,"Main St",,,Buda,TX,"Hays County",78610,US,Hays
+Texas,DAU7,"Last Mile Facility","3150 Chisholm Trade Rd","Round Rock",TX,78681,30.546529,-97.69541,1,rooftop,3150,"Chisholm Trail Rd",,,"Round Rock",TX,"Williamson County",78681,US,"Round Rock"
+Texas,HAU1,"Last Mile Facility","5811 Trade Center Dr Bldg 10",Austin,TX,78744,30.210445,-97.720129,1,rooftop,5811,"Trade Center Dr",Bldg,10,Austin,TX,"Travis County",78744,US,Capcog
+Texas,DDA1,"Last Mile Facility","12401 N Stemmons Fwy","Farmers Branch",TX,75234,32.918045,-96.900815,1,rooftop,12401,"N Stemmons Fwy",,,Dallas,TX,"Dallas County",75234,US,Dallas
+Texas,DDA2,"Last Mile Facility","3838 W Miller Rd",Garland,TX,75041,32.89393,-96.688643,1,rooftop,3838,"W Miller Rd",,,Garland,TX,"Dallas County",75041,US,"City of Garland"
+Texas,DDA3,"Last Mile Facility","4601 Gold Spike Dr","Ft Worth",TX,76106,32.828373,-97.354489,1,rooftop,4601,"Gold Spike Dr",,,"Fort Worth",TX,"Tarrant County",76106,US,"Tarrant County"
+Texas,DDA8,"Last Mile Facility","8901 Forney Rd",Dallas,TX,75227,32.779299,-96.668608,1,rooftop,8901,"Forney Rd",,,Dallas,TX,"Dallas County",75227,US,Dallas
+Texas,DDA9,"Last Mile Facility","3700 San Jacinto Dr","Ft Worth",TX,76126,32.723361,-97.491996,0.5,street_center,,"San Jacinto Dr",,,"Fort Worth",TX,"Tarrant County",76116,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,STX2,"Last Mile Facility","1625 Hutton Dr",Carrollton,TX,75006,32.943478,-96.909646,1,rooftop,1625,"Hutton Dr",,,Carrollton,TX,"Dallas County",75006,US,"City of Carrollton"
+Texas,HDA1,"Last Mile Facility","2701 W Bethel Rd",Coppell,TX,75261,32.951904,-97.027014,0.9,rooftop,2701,"W Bethel Rd",,,Coppell,TX,"Dallas County",75019,US,Dallas
+Texas,DHX1,"Last Mile Facility","3031 Sam Houston Parkway E Bldg 7",Houston,TX,77032,29.938001,-95.474402,0.9,range_interpolation,3031,"Sam Houston Pkwy",Bldg,7,Houston,TX,"Harris County",77038,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DHX3,"Last Mile Facility","12900 W Airport Rd","Sugar Land",TX,77478,29.647948,-95.611131,1,rooftop,12900,"W Airport Blvd",,,"Sugar Land",TX,"Fort Bend County",77478,US,"Greater Houston"
+Texas,DHX5,"Last Mile Facility","1102 Stat Hwy 161","Grand Prairie",TX,75051,32.73101,-97.020415,1,rooftop,1102,"S Hwy 161",,,"Grand Prairie",TX,"Dallas County",75051,US,Tarrant
+Texas,DDX1,"Last Mile Facility","4949 Amon Carter Blvd","Ft Worth",TX,76155,32.835434,-97.050564,1,rooftop,4949,"Amon Carter Blvd",,,"Fort Worth",TX,"Tarrant County",76155,US,"Tarrant County"
+Texas,DDX6,"Last Mile Facility","16399 Gateway Path",Frisco,TX,75078,33.244312,-96.767551,0.3,street_center,,"N Coit Rd",,,Prosper,TX,"Collin County",75078,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DDX7,"Last Mile Facility","1101 South Gateway Blvd",Forney,TX,75126,32.753653,-96.432745,0.61,nearest_rooftop_match,1105,"N Gateway Blvd",,,Forney,TX,"Kaufman County",75126,US,Kaufman
+Texas,DDF1,"Last Mile Facility","1303 Ridgeview Dr",Lewisville,TX,75057,33.023396,-96.981437,1,rooftop,1303,"Ridgeview Dr",,,Lewisville,TX,"Denton County",75057,US,"City of Lewisville"
+Texas,DHO1,"Last Mile Facility","11720 N Gessner Rd Bldg 5",Houston,TX,77064,29.941016,-95.544346,1,rooftop,11720,"N Gessner Rd",Bldg,5,Houston,TX,"Harris County",77064,US,"City of Houston"
+Texas,DHO4,"Last Mile Facility","5615 W Fuqua St",Houston,TX,77085,29.609878,-95.471869,1,rooftop,5615,"W Fuqua St",,,Houston,TX,"Harris County",77085,US,"City of Houston"
+Texas,DHO5,"Last Mile Facility","875 S Lockwood Dr",Houston,TX,77023,29.741013,-95.330106,1,range_interpolation,875,"S Lockwood Dr",,,Houston,TX,"Harris County",77023,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DHO7,"Last Mile Facility","28420 West Ten Blvd",Katy,TX,77494,29.74063,-95.829571,0.33,place,,,,,Katy,TX,"Harris County",77494,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,HHO2,"Last Mile Facility","6911 Fairbanks N",Houston,TX,77040,29.866599,-95.524712,0.87,range_interpolation,6911,Fairbanks,,,Houston,TX,"Harris County",77040,US,"TIGER/Line® dataset from the US Census Bureau"
+Texas,DSX1,"Last Mile Facility","6422 E Campus Dr","San Antonio",TX,78247,29.599311,-98.360589,1,rooftop,6422,"E Campus",,,"San Antonio",TX,"Bexar County",78247,US,"San Antonio"
+Texas,DSX3,"Last Mile Facility","1120 N Foster Rd","San Antonio",TX,78219,29.435255,-98.358172,1,rooftop,1120,"N Foster Rd",,,"San Antonio",TX,"Bexar County",78219,US,"San Antonio"
+Texas,HSX1,"Last Mile Facility","3660 Thousand Oaks Dr","San Antonio",TX,78247,29.563527,-98.424954,1,rooftop,3660,"Thousand Oaks Dr",,,"San Antonio",TX,"Bexar County",78247,US,Bexar
+Virginia,DDC3,"Last Mile Facility","5617 Industrial Dr Suite E",Springfield,VA,22151,38.799892,-77.168862,1,rooftop,5617,"Industrial Dr",Ste,E,Springfield,VA,"Fairfax County",22151,US,Fairfax
+Virginia,DDC4,"Last Mile Facility","44301 Mercure Circle","Sterling Heights",VA,20166,38.986522,-77.475145,1,rooftop,44301,"Mercure Cir",,,Sterling,VA,"Loudoun County",20166,US,Loudoun
+Virginia,DDC9,"Last Mile Facility","5533 Wellington Rd",Gainesville,VA,20155,38.797288,-77.595038,1,rooftop,5533,"Wellington Rd",,,Gainesville,VA,"Prince William County",20155,US,"Prince William"
+Virginia,DRC1,"Last Mile Facility","4101 Carolina Ave",Richmond,VA,23222,37.587667,-77.411251,1,rooftop,4101,"Carolina Ave",,,Richmond,VA,"Henrico County",23222,US,Henrico
+Virginia,DVA2,"Last Mile Facility","1601 Bellwood Rd",Richmond,VA,23237,37.41423,-77.418257,1,rooftop,1601,"Bellwood Rd",,,Richmond,VA,"Chesterfield County",23237,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,DVA5,"Last Mile Facility","11920 Balls Ford Rd Bldg 1",Manassas,VA,20109,38.794122,-77.549887,1,rooftop,11920,"Balls Ford Rd",Bldg,1,Manassas,VA,"Prince William County",20109,US,"Prince William"
+Virginia,HRC1,"Last Mile Facility","4949 Commerce Rd",Richmond,VA,23234,37.458453,-77.42745,1,rooftop,4949,"Commerce Rd",,,Richmond,VA,"Richmond city",23234,US,"City of Richmond"
+Virginia,SDC1/HDC1,"Last Mile Facility","6885 Commercial Dr",Springfield,VA,22151,38.801033,-77.181531,1,rooftop,6885,"Commercial Dr",,,Springfield,VA,"Fairfax County",22151,US,"Virginia Geographic Information Network (VGIN)"
+Virginia,DOR1,"Last Mile Facility","1920 Campostella Rd",Chesapeake,VA,23324,36.788087,-76.265357,1,rooftop,1920,"Campostella Rd",,,Chesapeake,VA,"Chesapeake city",23324,US,"City of Chesapeake"
+Virginia,DOR2,"Last Mile Facility","1400 Sewells Point Rd",Norfolk,VA,23502,36.866583,-76.228182,1,rooftop,1400,"Sewells Point Rd",,,Norfolk,VA,"Norfolk city",23502,US,"City of Norfolk"
+Virginia,HVB1,"Last Mile Facility","7421 Central Business Park Dr",Norfolk,VA,23320,36.909905,-76.248552,0.9,rooftop,7421,"Central Business Park Dr",,,Norfolk,VA,"Norfolk city",23513,US,"City of Norfolk"

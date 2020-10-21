@@ -1,0 +1,116 @@
+Address,City,State,Zip,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+"5005 E. Ray Rd",Phoenix,AZ,85044,33.31917,-111.975678,1,rooftop,5005,"E Ray Rd",,,Phoenix,AZ,"Maricopa County",85044,US,Maricopa
+"7873 W. Bell Rd",Peoria,AZ,85382,33.63768,-112.22663,1,rooftop,7873,"W Bell Rd",,,Peoria,AZ,"Maricopa County",85382,US,Maricopa
+"1710 S. Power Rd",Mesa,AZ,85206,33.385023,-111.685276,1,rooftop,1710,"S Power Rd",,,Mesa,AZ,"Maricopa County",85206,US,"City of Mesa"
+"4411 Bryant Irvin Rd","Ft. Worth",TX,76132,32.68625,-97.413002,1,rooftop,4411,"Bryant Irvin Rd",,,"Fort Worth",TX,"Tarrant County",76132,US,"Tarrant County"
+"13005 South Freeway",Burleson,"TX ",76028,32.568725,-97.317818,1,rooftop,13005,"South Fwy",,,Burleson,TX,"Tarrant County",76028,US,"Tarrant County"
+"114 Interstate 20 Service Rd",Weatherford,TX,76086,32.729332,-97.786449,1,rooftop,114,"E Interstate 20",,,Weatherford,TX,"Parker County",76086,US,Parker
+"6536 NW Loop 820","Fort Worth",TX,76135,32.804292,-97.428254,1,rooftop,6536,"NW Loop 820",,,"Fort Worth",TX,"Tarrant County",76135,US,Tarrant
+"1350 Northwest Hwy",Garland,"TX ",75041,32.863756,-96.647539,1,rooftop,1350,"Northwest Hwy",,,Garland,TX,"Dallas County",75041,US,"City of Garland"
+"4301 Broadway",Tyler,TX,75703,32.302388,-95.301414,0.9,rooftop,4301,"S Broadway Ave",,,Tyler,TX,"Smith County",75703,US,Smith
+"747 IH 30 Center East",Rockwall,TX,75087,32.898401,-96.463034,1,rooftop,747,"E Interstate 30",,,Rockwall,TX,"Rockwall County",75087,US,Rockwall
+"4300 Saint Michael Dr",Texarkana,TX,75503,33.453741,-94.09685,1,rooftop,4300,"St Michael Dr",,,Texarkana,TX,"Bowie County",75503,US,Bowie
+"4970 N. George Bush Frwy",Garland,"TX ",75040,32.961958,-96.635076,0.9,rooftop,4970,"N George Bush Hwy",,,Garland,TX,"Dallas County",75044,US,"City of Garland"
+"200 W. Loop 281",Longview,TX,75605,32.54121,-94.749724,0.9,rooftop,200,"W Loop 281",,,Longview,TX,"Gregg County",75604,US,"City of Longview"
+"2011 Copeland Rd",Arlington,TX,76011,32.758753,-97.076551,0.9,rooftop,2011,"E Copeland",,,Arlington,TX,"Tarrant County",76011,US,Tarrant
+"2400 N. Belt Line Rd",Irving,TX,75062,32.839683,-96.992949,1,rooftop,2400,"N Beltline Rd",,,Irving,TX,"Dallas County",75062,US,Dallas
+"4306 W. Loop 250 North",Midland,TX,79707,32.030891,-102.145164,1,rooftop,4306,"W Loop 250 N",,,Midland,TX,"Midland County",79707,US,Midland
+"2500 Airport Freeway",Bedford,TX,76022,32.835691,-97.1286,1,rooftop,2500,"Airport Fwy",,,Bedford,TX,"Tarrant County",76022,US,"Tarrant County"
+"6709 Slide Rd",Lubbock,TX,79424,33.533634,-101.921931,1,rooftop,6709,"Slide Rd",,,Lubbock,TX,"Lubbock County",79424,US,Lubbock
+"6250 North Freeway","Fort Worth",TX,76137,32.856517,-97.312261,1,rooftop,6250,"North Fwy",,,"Fort Worth",TX,"Tarrant County",76137,US,"Tarrant County"
+"5117 S. Padre Island Dr.","Corpus Christi",TX,78411,27.711139,-97.378675,1,rooftop,5117,"S Padre Island Dr",,,"Corpus Christi",TX,"Nueces County",78411,US,Nueces
+"7695 N. Academy Blvd","Colorado Springs",CO,80920,38.943887,-104.799705,1,rooftop,7695,"N Academy Blvd",,,"Colorado Springs",CO,"El Paso County",80920,US,"El Paso"
+"8555 S. Quebec St.","Highlands Ranch",CO,80126,39.538698,-104.91546,0.6,street_center,,"S Quebec St",,,Littleton,CO,"Douglas County",80126,US,"TIGER/Line® dataset from the US Census Bureau"
+"14255 W. Colfax","Golden ",CO,80401,39.734931,-105.160839,1,rooftop,14255,"W Colfax Ave",,,Lakewood,CO,"Jefferson County",80401,US,"Jefferson County"
+"2190 Southgate Rd","Colorado Springs",CO,80906,38.800567,-104.817177,0.69,nearest_rooftop_match,2205,"Southgate Rd",,,"Colorado Springs",CO,"El Paso County",80906,US,"El Paso"
+"6369 S. Southlands Pkwy","Aurora ",CO,80016,39.601867,-104.711624,1,rooftop,6369,"S Southlands Pkwy",,,Aurora,CO,"Arapahoe County",80016,US,"City of Aurora"
+"6015 Sky Pond Dr",Loveland,CO,80538,40.4128,-104.9919,0.82,nearest_rooftop_match,6017,"Sky Pond Dr Spr",,,Loveland,CO,"Larimer County",80538,US,"City of Loveland"
+"5832 Barnes Rd","Colorado Springs",CO,80922,38.895779,-104.717979,1,rooftop,5832,"Barnes Rd",,,"Colorado Springs",CO,"El Paso County",80922,US,"El Paso"
+"74 Beacon Dr","Greenville ",SC,29615,34.857727,-82.265239,1,rooftop,74,"Beacon Dr",,,Greenville,SC,"Greenville County",29615,US,Greenville
+"1102 Walnut St","Cary ",NC,27511,35.770837,-78.763299,1,rooftop,1102,"Walnut St",,,Cary,NC,"Wake County",27511,US,Cary
+"115 Glensford Dr","Fayetteville ",NC,28314,35.068334,-78.95959,1,rooftop,115,"Glensford Dr",,,Fayetteville,NC,"Cumberland County",28314,US,Cumberland
+"8001 Concord Mills Blvd",Concord,NC,28027,35.369524,-80.716094,1,rooftop,8001,"Concord Mills Blvd",,,Concord,NC,"Cabarrus County",28027,US,Cabarrus
+"10710 Providence Rd",Charlotte,NC,28277,35.064089,-80.770685,1,rooftop,10710,"Providence Rd",,,Charlotte,NC,"Mecklenburg County",28277,US,Mecklenburg
+"8315 Northlake Commons Blvd",Charlotte,NC,28216,35.348175,-80.856062,1,rooftop,8315,"Northlake Commons Bv",,,Charlotte,NC,"Mecklenburg County",28216,US,Mecklenburg
+"2409 E. Franklin Blvd",Gastonia,NC,28054,35.260744,-81.135982,1,rooftop,2409,"E Franklin Blvd",,,Gastonia,NC,"Gaston County",28054,US,Gaston
+"3250 Rolling Oaks Blvd",Kissimmee,FL,34747,28.345712,-81.614605,0.8,nearest_rooftop_match,3240,"Rolling Oaks Blvd",,,Kissimmee,FL,"Osceola County",34747,US,Osceola
+"12517 State Rd 535",Orlando,FL,32836,28.383069,-81.503758,1,rooftop,12517,"State Road 535",,,Orlando,FL,"Orange County",32836,US,"Orange County"
+"1505 N. Central Expy",Plano,TX,75075,33.020289,-96.710145,1,range_interpolation,1505,"N Central Expy",,,Plano,TX,"Collin County",75075,US,"TIGER/Line® dataset from the US Census Bureau"
+"1930 N. Rock Rd",Wichita,KS,67206,37.719049,-97.243771,1,rooftop,1930,"N Rock Rd",,,Wichita,KS,"Sedgwick County",67206,US,"City of Wichita"
+"5000 State Hwy 121",Plano,TX,75024,33.096474,-96.803473,1,rooftop,5000,"State Hwy 121",,,Plano,TX,"Collin County",75024,US,Plano
+"1220 Market Place",Irving,TX,75063,32.918074,-96.964508,1,rooftop,1220,"Market Pl",,,Irving,TX,"Dallas County",75063,US,Tarrant
+"213 N. Central Expy ",Allen,TX,75013,33.105655,-96.677335,1,rooftop,213,"N Central Expy",,,Allen,TX,"Collin County",75013,US,Plano
+"3111 Midwestern Pkwy","Wichita Falls",TX,76308,33.870343,-98.532803,1,range_interpolation,3111,"Midwestern Pkwy",,,"Wichita Falls",TX,"Wichita County",76308,US,"TIGER/Line® dataset from the US Census Bureau"
+"2347 N. Maize Rd",Wichita,KS,67205,37.72522,-97.463317,1,rooftop,2347,"N Maize Rd",,,Wichita,KS,"Sedgwick County",67205,US,"City of Wichita"
+"4855 Belt Line Rd",Addison,TX,75254,32.954762,-96.828712,1,rooftop,4855,"Belt Line Rd",,,Dallas,TX,"Dallas County",75254,US,Dallas
+"8930 State Hwy 121, Ste 530",McKinney,TX,75070,33.129093,-96.732373,1,rooftop,8930,"State Hwy 121",Ste,121,"Mc Kinney",TX,"Collin County",75070,US,Plano
+"5960 W. Parker Rd, Ste 210",Plano,TX,75093,33.044229,-96.827892,0.9,rooftop,5960/5964,"W Parker Rd",Ste,210,Plano,TX,"Collin County",75093,US,Plano
+"1121 I-20 West",Arlington,TX,76016,32.677962,-97.125567,0.9,rooftop,1121,"W I H 20",,,Arlington,TX,"Tarrant County",76017,US,Tarrant
+"709 Texas Ave","College Station ",TX,77840,30.626533,-96.332052,1,rooftop,709,"Texas Ave",,,"College Station",TX,"Brazos County",77840,US,Brazos
+"4320 W. Waco Dr",Waco,TX,76710,31.526775,-97.171572,1,rooftop,4320,"W Waco Dr",,,Waco,TX,"McLennan County",76710,US,"City of Waco"
+"1003 North I-35 E",DeSoto,TX,75115,32.606205,-96.823901,1,rooftop,1003,"N I 35 E",,,Desoto,TX,"Dallas County",75115,US,Desoto
+"1414 Gross Rd",Mesquite,TX,75149,32.784032,-96.626762,1,rooftop,1414,"Gross Rd",,,Mesquite,TX,"Dallas County",75149,US,Dallas
+"2001 Hwy 287 N.",Mansfield,TX,76063,32.596242,-97.149194,1,rooftop,2001,"Hwy 287 N",,,Mansfield,TX,"Tarrant County",76063,US,Tarrant
+"5244 S State Highway 360, Ste 370","Grand Prairie",TX,75052,32.645333,-97.061315,1,rooftop,5244,"S Hwy 360",Ste,360,"Grand Prairie",TX,"Tarrant County",75052,US,Tarrant
+"3130 Knox Street",Dallas,TX,75205,32.823472,-96.788339,1,rooftop,3130,"Knox St",,,Dallas,TX,"Dallas County",75205,US,Dallas
+"1890 S. Stemmons Frwy",Lewisville,TX,75067,33.016911,-96.980852,1,rooftop,1890,"S Stemmons Fwy",,,Lewisville,TX,"Denton County",75067,US,Denton
+"3500 NW Expressway","Oklahoma City",OK,73112,35.53209,-97.580955,1,rooftop,3500,"Nw Expy",,,"Oklahoma City",OK,"Oklahoma County",73112,US,Oklahoma
+"120 S. Meridian","Oklahoma City",OK,73107,35.464762,-97.600564,1,rooftop,120,"S Meridian Ave",,,"Oklahoma City",OK,"Oklahoma County",73107,US,Oklahoma
+"2829 S. Interstate 35E",Denton,TX,76210,33.182194,-97.10071,1,rooftop,2829,"S I-35e Int",,,Denton,TX,"Denton County",76210,US,"City of Denton"
+"3233 S. Broadway",Edmond,OK,73013,35.623798,-97.485919,0.9,range_interpolation,3233,"S Broadway St",,,Edmond,OK,"Oklahoma County",73013,US,"TIGER/Line® dataset from the US Census Bureau"
+"544 Interstate 240","Oklahoma City",OK,73139,35.403562,-97.523788,0.8,rooftop,544,"SW 62nd Ter",,,"Oklahoma City",OK,"Oklahoma County",73139,US,Oklahoma
+"890 E Highway 114",Roanoke,TX,76262,32.99912,-97.216308,0.8,rooftop,890,"W Sh 114",,,Roanoke,TX,"Denton County",76262,US,Denton
+"433 Planet Ct","Midwest City",OK,73110,35.436011,-97.40965,1,rooftop,433,"Planet Ct",,,"Oklahoma City",OK,"Oklahoma County",73110,US,"City of Midwest City"
+"8702 E. 71st Street South",Tulsa,OK,74133,36.060454,-95.878627,1,rooftop,8702,"E 71st St S",,,Tulsa,OK,"Tulsa County",74133,US,Tulsa
+"8340 NW Roanridge Rd","Kansas City",MO,64151,39.246198,-94.656459,1,rooftop,8340,"NW Roanridge Rd",,,"Kansas City",MO,"Platte County",64151,US,"City of Kansas City"
+"5340 E. 41st Street South",Tulsa,OK,74135,36.103821,-95.915395,1,rooftop,5340,"E 41st St S",,,Tulsa,OK,"Tulsa County",74135,US,Tulsa
+"11855 W. 95th St","Overland Park ",KS,66214,38.95604,-94.720424,1,rooftop,11855,"W 95th St",,,"Overland Park",KS,"Johnson County",66214,US,"City of Olathe"
+"19921 E Jackson Dr",Independence,MO,64057,39.040533,-94.345629,1,rooftop,19921,"E Jackson Dr",,,Independence,MO,"Jackson County",64057,US,Jackson
+"1235 SW Wanamaker Rd",Topeka,KS,66604,39.044388,-95.762334,1,rooftop,1235,"SW Wanamaker Rd",,,Topeka,KS,"Shawnee County",66604,US,"Shawnee County"
+"8101 Giacosa Dr",Memphis,TN,38133,35.198572,-89.793346,1,rooftop,8101,"Giacosa Pl",,,Memphis,TN,"Shelby County",38133,US,"City of Memphis"
+"190 Pakis St","Hot Springs",AR,71913,34.463755,-93.058374,1,rooftop,190,"Pakis St",,,"Hot Springs National Park",AR,"Garland County",71913,US,"Arkansas Geographic Information Office"
+"577 N. 46th St",Rogers,AR,72756,36.340293,-94.178868,1,rooftop,577,"N 46th St",,,Rogers,AR,"Benton County",72756,US,"Arkansas Geographic Information Office"
+"11721 Chenal Pkwy","W. Little Rock",AR,72211,34.747311,-92.404034,1,rooftop,11721,"Chenal Pkwy",,,"Little Rock",AR,"Pulaski County",72211,US,Pulaski
+"6572 Airways Blvd",Southaven,MS,38671,34.962152,-89.989758,1,range_interpolation,6572,"Airways Blvd",,,Southaven,MS,"DeSoto County",38671,US,"TIGER/Line® dataset from the US Census Bureau"
+"6000 Warden Rd",Sherwood,AR,72120,34.812215,-92.205988,1,rooftop,6000,"Warden Rd",,,Sherwood,AR,"Pulaski County",72120,US,Pulaski
+"1150 S. Amity Rd",Conway,AR,72032,35.065117,-92.41416,1,rooftop,1150,"S Amity Rd",,,Conway,AR,"Faulkner County",72032,US,"Arkansas Geographic Information Office"
+"21091 Haggerty Rd",Novi,MI,48375,42.441464,-83.435781,1,rooftop,21091,"Haggerty Rd",,,Novi,MI,"Oakland County",48375,US,Oakland
+"4175 Morse Crossing",Columbus,OH,43219,40.055953,-82.918841,1,rooftop,4175,"Morse Xing",,,Columbus,OH,"Franklin County",43219,US,Franklin
+"3930 Baldwin Rd","Auburn Hills",MI,48326,42.700486,-83.305669,1,rooftop,3930,"Baldwin Rd",,,"Auburn Hills",MI,"Oakland County",48326,US,Oakland
+"6001 E. 86th St",Indianapolis,IN,46250,39.911931,-86.065949,1,rooftop,6001,"E 86th St",,,Indianapolis,IN,"Marion County",46250,US,Statewide
+"10299 East US 36",Avon,IN,46123,39.763495,-86.34253,1,range_interpolation,10299,"Us Hwy 36",,,Avon,IN,"Hendricks County",46123,US,"TIGER/Line® dataset from the US Census Bureau"
+"3310 Fairlane Dr","Allen Park",MI,48101,42.281392,-83.206788,0.6,rooftop,3310,Fairlane,,,"Allen Park",MI,"Wayne County",48101,US,Semcog
+"867 US 31 North",Greenwood,IN,46142,39.629608,-86.121757,0.9,rooftop,867,"N 31",,,Greenwood,IN,"Johnson County",46142,US,Statewide
+"35613 Warren Rd",Westland,MI,48185,42.338682,-83.389114,1,range_interpolation,35613,"Warren Rd",,,Westland,MI,"Wayne County",48185,US,"TIGER/Line® dataset from the US Census Bureau"
+"535 N. Lakeview","Vernon Hills",IL,60061,42.236569,-87.950168,1,range_interpolation,535,"N Lakeview Cir",,,"Vernon Hills",IL,"Lake County",60061,US,"TIGER/Line® dataset from the US Census Bureau"
+"1915 Glacier Park Ave ",Naperville,IL,60540,41.773152,-88.204868,1,rooftop,1915,"Glacier Park Ave",,,Naperville,IL,"DuPage County",60540,US,Waco
+"140 S. Jordan Creek Pkwy","W. Des Moines",IA,50266,41.566189,-93.804781,1,rooftop,140,"S Jordan Creek Pkwy",,,"West Des Moines",IA,"Dallas County",50266,US,Dallas
+"3676 Potomac Circle SW",Grandville,MI,49418,42.883192,-85.754686,1,rooftop,3676,"Potomac Cir SW",,,Grandville,MI,"Kent County",49418,US,Kent
+"1512 S. Randall Rd",Algonquin,IL,60102,42.15012,-88.336577,1,rooftop,1512,"S Randall Rd",,,Algonquin,IL,"Kane County",60102,US,Mchenry
+"3195 28th Street SE R-101",Kentwood,MI,49512,42.916291,-85.587927,0.9,rooftop,3195,"28th St SE",,,"Grand Rapids",MI,"Kent County",49506,US,Kent
+"12383 James St",Holland,MI,49424,42.812216,-86.088162,1,range_interpolation,12383,"James St",,,Holland,MI,"Ottawa County",49424,US,"TIGER/Line® dataset from the US Census Bureau"
+"11880 Spectrum Ctr",Reston,VA,20190,38.964348,-77.354661,1,rooftop,11880,"Spectrum Ctr",,,Reston,VA,"Fairfax County",20190,US,Fairfax
+"2651 Prince William Pkwy",Woodbridge,VA,22192,38.650101,-77.292181,1,rooftop,2651,"Prince William Pkwy",,,Woodbridge,VA,"Prince William County",22192,US,"Prince William"
+"102 Bartlett Avenue",Exton,PA,19341,40.021506,-75.629327,1,range_interpolation,102,"Bartlett Ave",,,Exton,PA,"Chester County",19341,US,"TIGER/Line® dataset from the US Census Bureau"
+"8230 Gateway Overlook Dr",Elkridge,MD,21075,39.185392,-76.796441,1,rooftop,8230,"Gateway Overlook Dr",,,Elkridge,MD,"Howard County",21075,US,Howard
+"796 Woodland Rd",Wyomissing,PA,19610,40.349021,-75.965685,0.62,nearest_rooftop_match,845,"Woodland Rd",,,Reading,PA,"Berks County",19610,US,Berks
+"121 E. Joppa Rd",Towson,MD,21286,39.401415,-76.60019,1,rooftop,121,"E Joppa Rd",,,Towson,MD,"Baltimore County",21286,US,Baltimore
+"11947U Fair Oaks Mall- G213",Fairfax,VA,22033,38.86057,-77.35914,1,range_interpolation,11947,"Fair Oaks Mall",,,Fairfax,VA,"Fairfax County",22033,US,"TIGER/Line® dataset from the US Census Bureau"
+"19 Commerce Way","Woburn ",MA,01801,42.506752,-71.130509,1,rooftop,19,"Commerce Way",,,Woburn,MA,"Middlesex County",01801,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+"1519 Silas Deane Hwy","Rocky Hill",CT,06067,41.680509,-72.653683,1,range_interpolation,1519,"Silas Deane Hwy",,,"Rocky Hill",CT,"Hartford County",06067,US,"TIGER/Line® dataset from the US Census Bureau"
+"220 Indian River Rd",Orange,CT,06477,41.258617,-73.003508,1,range_interpolation,220,"Indian River Rd",,,Orange,CT,"New Haven County",06477,US,"TIGER/Line® dataset from the US Census Bureau"
+"33 Border Way","W. Springfield",MA,01089,42.13752,-72.627215,1,rooftop,33,"Border Way",,,"West Springfield",MA,"Hampden County",01089,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+"650 Bald Hill Rd",Warwick,RI,02886,41.719721,-71.483764,1,rooftop,650,"Bald Hill Rd",,,Warwick,RI,"Kent County",02886,US,Statewide
+"45 Middle Ave",Holtsville,NY,11742,40.818353,-73.056,1,rooftop,45,"Middle Ave",,,Holtsville,NY,"Suffolk County",11742,US,Suffolk
+"200 Broadway Mall","Hicksville ",NY,11801,40.77252,-73.531127,0.82,nearest_rooftop_match,202,"Broadway Mall",,,Hicksville,NY,"Nassau County",11801,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+"1738 Route 46 West","Woodland Park",NJ,07424,40.887345,-74.216853,1,range_interpolation,1738,"US Rte 46",,,"Little Falls",NJ,"Passaic County",07424,US,"TIGER/Line® dataset from the US Census Bureau"
+"2275 Pleasant Hill Dr",Duluth,GA,30096,33.961982,-84.136636,0.9,range_interpolation,2275,"Pleasant Hill Rd",,,Duluth,GA,"Gwinnett County",30096,US,"TIGER/Line® dataset from the US Census Bureau"
+"1 Buckhead Loop NE, Ste 130",Atlanta,GA,30326,33.851926,-84.363637,1,range_interpolation,1,"Buckhead Loop NE",Ste,130,Atlanta,GA,"Fulton County",30326,US,"TIGER/Line® dataset from the US Census Bureau"
+"51 US Hwy 1","New Brunswick",NJ,08901,40.483875,-74.417387,1,range_interpolation,51,"Us 1",,,"New Brunswick",NJ,"Middlesex County",08901,US,"TIGER/Line® dataset from the US Census Bureau"
+"71 S. State Rt. 17",Paramus,NJ,07652,40.916567,-74.072788,1,range_interpolation,71,"Nj 17",,,Paramus,NJ,"Bergen County",07652,US,"TIGER/Line® dataset from the US Census Bureau"
+"3567 US Route One",Princeton,NJ,08540,40.343625,-74.693953,0.33,place,,,,,Princeton,NJ,"Mercer County",08540,US,"TIGER/Line® dataset from the US Census Bureau"
+"3206 Buford Dr",Buford,GA,30519,34.062834,-83.99132,1,rooftop,3206,"Buford Dr",,,Buford,GA,"Gwinnett County",30519,US,Gwinnett
+"790 Cobb Place Blvd",Kennesaw,GA,30144,34.007858,-84.569988,1,rooftop,790,"Cobb Place Blvd",,,Kennesaw,GA,"Cobb County",30144,US,Cobb
+"901 Neshaminy Mall",Bensalem,PA,19020,40.10455,-74.95128,0.33,place,,,,,Bensalem,PA,"Bucks County",19020,US,"TIGER/Line® dataset from the US Census Bureau"
+"4160 Church Rd","Mt. Laurel ",NJ,08054,39.92404,-74.952037,1,rooftop,4160,"Church Rd",,,"Mount Laurel",NJ,"Burlington County",08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+"909 Airport Center Dr",Allentown,PA,18109,40.656446,-75.428384,0.6,street_center,,"Airport Rd",,,Allentown,PA,"Lehigh County",18109,US,"TIGER/Line® dataset from the US Census Bureau"
